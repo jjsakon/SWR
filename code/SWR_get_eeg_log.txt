@@ -1,0 +1,36 @@
+2020-06-02_12-54-37: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-3-60079816f6c5>, line no: 210
+2020-06-02_23-13-55: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-60079816f6c5>, line no: 210
+2020-06-03_16-37-42: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-107-5d23ee339b33>, line no: 81
+2020-06-03_16-37-45: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-107-5d23ee339b33>, line no: 81
+2020-06-03_17-04-19: DF Exception: Sub: R1001P, Sess: 0, ValueError, Length mismatch: Expected axis has 50 elements, new values have 47 elements, file: <ipython-input-110-a80d33cc6a8b>, line no: 212
+2020-06-03_17-12-35: DF Exception: Sub: R1001P, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-116-6ff540e3c86f>, line no: 213
+2020-06-03_17-24-22: DF Exception: Sub: R1001P, Sess: 0, ValueError, The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-134-14362d25fa2c>, line no: 213
+2020-06-03_17-55-32: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-146-9c505e288969>, line no: 189
+2020-06-03_18-02-52: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-147-4a14b630cb1d>, line no: 189
+2020-06-03_18-59-56: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-148-4a14b630cb1d>, line no: 189
+2020-06-03_20-09-38: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'exclude_bad' is not defined, file: <ipython-input-149-983fddc13a12>, line no: 161
+2020-06-03_20-09-44: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'exclude_bad' is not defined, file: <ipython-input-149-983fddc13a12>, line no: 161
+2020-06-03_20-46-12: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-151-983fddc13a12>, line no: 169
+2020-06-04_15-11-32: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-152-3c8f8129a5e5>, line no: 164
+2020-06-04_15-56-45: DF Exception: Sub: R1001P, Sess: 0, AttributeError, 'dict' object has no attribute 'bad_channel', file: <ipython-input-153-feba117287e5>, line no: 173
+2020-06-04_15-56-51: DF Exception: Sub: R1001P, Sess: 1, AttributeError, 'dict' object has no attribute 'bad_channel', file: <ipython-input-153-feba117287e5>, line no: 173
+2020-06-04_16-14-50: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-157-d576aeaee306>, line no: 176
+2020-06-04_16-17-22: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-158-b722546c94a7>, line no: 180
+2020-06-04_16-18-37: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-159-189f27208bcd>, line no: 180
+2020-06-04_16-21-02: DF Exception: Sub: R1001P, Sess: 0, TypeError, ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe'', file: <ipython-input-162-c7ebda5469cb>, line no: 183
+2020-06-04_16-21-08: DF Exception: Sub: R1001P, Sess: 1, TypeError, ufunc 'bitwise_and' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe'', file: <ipython-input-162-c7ebda5469cb>, line no: 183
+2020-06-04_16-44-47: DF Exception: Sub: R1001P, Sess: 0, AttributeError, 'list' object has no attribute 'shape', file: <ipython-input-190-278a62ab65a3>, line no: 224
+2020-06-04_16-44-54: DF Exception: Sub: R1001P, Sess: 1, AttributeError, 'list' object has no attribute 'shape', file: <ipython-input-190-278a62ab65a3>, line no: 224
+2020-06-04_17-46-23: DF Exception: Sub: R1092J, Sess: 0, Manual error, No electrode categories for R1092J, session 0, file: , line no: XXX
+2020-06-04_17-47-02: DF Exception: Sub: R1092J, Sess: 1, Manual error, No electrode categories for R1092J, session 1, file: , line no: XXX
+2020-06-04_17-47-32: DF Exception: Sub: R1092J, Sess: 2, Manual error, No electrode categories for R1092J, session 2, file: , line no: XXX
+2020-06-04_17-48-20: DF Exception: Sub: R1092J, Sess: 3, Manual error, No electrode categories for R1092J, session 3, file: , line no: XXX
+2020-06-05_12-28-39: DF Exception: Sub: R1092J, Sess: 1, BdbQuit, , file: <ipython-input-211-e6eb2414a97f>, line no: 176
+2020-06-05_12-58-55: DF Exception: Sub: R1092J, Sess: 2, BdbQuit, , file: <ipython-input-214-e6eb2414a97f>, line no: 176
+2020-06-05_13-19-57: DF Exception: Sub: R1092J, Sess: 3, BdbQuit, , file: <ipython-input-218-e6eb2414a97f>, line no: 176
+2020-06-05_17-02-02: DF Exception: Sub: R1092J, Sess: 3, BdbQuit, , file: <ipython-input-3-605a993796d9>, line no: 219
+2020-06-05_17-39-37: DF Exception: Sub: R1092J, Sess: 3, BdbQuit, , file: <ipython-input-4-a7c31a3526b8>, line no: 219
+2020-06-05_19-25-47: DF Exception: Sub: R1092J, Sess: 3, AttributeError, 'numpy.float64' object has no attribute 'append', file: <ipython-input-10-0910dd5e7729>, line no: 220
+2020-06-05_20-20-29: DF Exception: Sub: R1320D, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-51-61f227082154>, line no: 255
+2020-06-05_20-22-16: DF Exception: Sub: R1320D, Sess: 0, BdbQuit, , file: <ipython-input-53-d91306c08317>, line no: 255
+2020-06-05_21-08-06: DF Exception: Sub: R1433E, Sess: 0, Manual error, No electrode categories for R1433E, session 0, file: , line no: XXX
