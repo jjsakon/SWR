@@ -1,0 +1,49 @@
+2020-06-09_19-32-40: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1002P, Sess: 1, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1003P, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-4-b0c424506cc2>, line no: 22
+2020-06-09_19-32-40: DF Exception: Sub: R1006P, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1006P, Sess: 1, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1010J, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1010J, Sess: 1, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1112M, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1112M, Sess: 1, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-4-b0c424506cc2>, line no: 22
+2020-06-09_19-32-40: DF Exception: Sub: R1163T, Sess: 0, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-32-40: DF Exception: Sub: R1163T, Sess: 1, NameError, name 'elec_by_elec_correlation' is not defined, file: <ipython-input-4-b0c424506cc2>, line no: 32
+2020-06-09_19-33-04: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1002P, Sess: 1, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1003P, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-5-5290e3eb8a96>, line no: 23
+2020-06-09_19-33-04: DF Exception: Sub: R1006P, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1006P, Sess: 1, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1010J, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1010J, Sess: 1, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1112M, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1112M, Sess: 1, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-5-5290e3eb8a96>, line no: 23
+2020-06-09_19-33-04: DF Exception: Sub: R1163T, Sess: 0, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-04: DF Exception: Sub: R1163T, Sess: 1, NameError, name 'elec_ripple_rate_array' is not defined, file: <ipython-input-5-5290e3eb8a96>, line no: 34
+2020-06-09_19-33-13: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-6-c38b95f88041>, line no: 23
+2020-06-09_19-33-13: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-6-c38b95f88041>, line no: 23
+2020-06-09_19-33-38: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-7-8cd06969aa25>, line no: 23
+2020-06-09_19-33-38: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-7-8cd06969aa25>, line no: 23
+2020-06-09_19-45-31: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-16-87e31af5d841>, line no: 23
+2020-06-09_19-45-31: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-16-87e31af5d841>, line no: 23
+2020-06-09_19-46-56: DF Exception: Sub: R1002P, Sess: 0, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1002P, Sess: 1, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1003P, Sess: 0, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-20-d0d122b2fcbc>, line no: 23
+2020-06-09_19-46-56: DF Exception: Sub: R1006P, Sess: 0, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1006P, Sess: 1, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1010J, Sess: 0, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1010J, Sess: 1, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1112M, Sess: 0, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1112M, Sess: 1, TypeError, 'float' object is not iterable, file: <ipython-input-20-d0d122b2fcbc>, line no: 34
+2020-06-09_19-46-56: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-20-d0d122b2fcbc>, line no: 23
+2020-06-09_19-47-06: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-21-931ed19c5e5d>, line no: 23
+2020-06-09_19-47-06: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-21-931ed19c5e5d>, line no: 23
+2020-06-09_19-49-19: DF Exception: Sub: R1003P, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1003P_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-27-307e09a15a76>, line no: 23
+2020-06-09_19-49-19: DF Exception: Sub: R1112M, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/SWR_FR1_R1112M_2_HPC_surrounding_recall_soz_in.p', file: <ipython-input-27-307e09a15a76>, line no: 23
+2020-06-09_20-43-51: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-3-307e09a15a76>, line no: 25
+2020-06-09_20-43-52: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-3-307e09a15a76>, line no: 25
