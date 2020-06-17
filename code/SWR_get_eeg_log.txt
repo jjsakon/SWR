@@ -12,3 +12,7 @@
 2020-06-12_19-09-11: DF Exception: Sub: R1186P, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-8-a7458c4536d5>, line no: 234
 2020-06-12_19-15-42: DF Exception: Sub: R1212P, Sess: 10, ValueError, A filter with an even number of coefficients must have zero response at the Nyquist frequency., file: <ipython-input-8-a7458c4536d5>, line no: 145
 2020-06-12_19-28-07: DF Exception: Sub: R1186P, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-12-7147db989ad5>, line no: 235
+2020-06-16_11-07-33: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-91-f6b06db23c59>, line no: 140
+2020-06-16_11-19-06: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-92-7f1cce4496c8>, line no: 193
+2020-06-16_11-20-31: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-93-e38cd7b92420>, line no: 136
+2020-06-16_11-20-37: DF Exception: Sub: R1120E, Sess: 0, BdbQuit, , file: <ipython-input-93-e38cd7b92420>, line no: 136
