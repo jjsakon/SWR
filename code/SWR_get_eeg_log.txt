@@ -1,18 +1,9 @@
-2020-06-12_16-20-28: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-3-159a38a7e572>, line no: 168
-2020-06-12_16-28-47: DF Exception: Sub: R1045E, Sess: 0, ValueError, cannot reshape array of size 1998 into shape (10), file: <ipython-input-4-875407230201>, line no: 228
-2020-06-12_16-30-52: DF Exception: Sub: R1080E, Sess: 0, BdbQuit, , file: <ipython-input-4-875407230201>, line no: 167
-2020-06-12_16-51-21: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-12-610437e35656>, line no: 133
-2020-06-12_16-51-25: DF Exception: Sub: R1080E, Sess: 0, BdbQuit, , file: <ipython-input-12-610437e35656>, line no: 133
-2020-06-12_16-56-57: DF Exception: Sub: R1100D, Sess: 0, ValueError, Item wrong length 1 instead of 0., file: <ipython-input-13-78567ff49b28>, line no: 81
-2020-06-12_16-56-57: DF Exception: Sub: R1100D, Sess: 1, ValueError, Item wrong length 1 instead of 0., file: <ipython-input-13-78567ff49b28>, line no: 81
-2020-06-12_16-57-04: DF Exception: Sub: R1100D, Sess: 2, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-13-78567ff49b28>, line no: 233
-2020-06-12_17-02-04: DF Exception: Sub: R1100D, Sess: 0, ValueError, Item wrong length 1 instead of 0., file: <ipython-input-15-0e3464295195>, line no: 81
-2020-06-12_17-02-04: DF Exception: Sub: R1100D, Sess: 1, ValueError, Item wrong length 1 instead of 0., file: <ipython-input-15-0e3464295195>, line no: 81
-2020-06-12_17-10-27: DF Exception: Sub: R1100D, Sess: 2, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-15-0e3464295195>, line no: 234
-2020-06-12_19-09-11: DF Exception: Sub: R1186P, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-8-a7458c4536d5>, line no: 234
-2020-06-12_19-15-42: DF Exception: Sub: R1212P, Sess: 10, ValueError, A filter with an even number of coefficients must have zero response at the Nyquist frequency., file: <ipython-input-8-a7458c4536d5>, line no: 145
-2020-06-12_19-28-07: DF Exception: Sub: R1186P, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-12-7147db989ad5>, line no: 235
-2020-06-16_11-07-33: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-91-f6b06db23c59>, line no: 140
-2020-06-16_11-19-06: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-92-7f1cce4496c8>, line no: 193
-2020-06-16_11-20-31: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-93-e38cd7b92420>, line no: 136
-2020-06-16_11-20-37: DF Exception: Sub: R1120E, Sess: 0, BdbQuit, , file: <ipython-input-93-e38cd7b92420>, line no: 136
+2020-06-24_17-46-16: DF Exception: Sub: R1137E, Sess: 0, BdbQuit, , file: <ipython-input-4-1bb1bac423e2>, line no: 278
+2020-06-24_17-49-07: DF Exception: Sub: R1137E, Sess: 0, IndexError, index 24 is out of bounds for axis 0 with size 24, file: <ipython-input-5-b3ce9569776d>, line no: 281
+2020-06-24_18-03-28: DF Exception: Sub: R1137E, Sess: 0, BdbQuit, , file: <ipython-input-7-16c49a5d9bde>, line no: 281
+2020-06-24_19-08-54: DF Exception: Sub: R1308T, Sess: 0, BdbQuit, , file: <ipython-input-12-218aa26ae4a2>, line no: 279
+2020-06-24_19-14-49: DF Exception: Sub: R1308T, Sess: 0, BdbQuit, , file: <ipython-input-13-b735943276fa>, line no: 280
+2020-06-24_19-19-50: DF Exception: Sub: R1308T, Sess: 0, BdbQuit, , file: <ipython-input-14-8ad378c07494>, line no: 144
+2020-06-24_19-38-42: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-16-0e0013763390>, line no: 143
+2020-06-24_19-44-09: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-17-68efd916337e>, line no: 147
+2020-06-24_19-49-42: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-18-121a0ea1f6c1>, line no: 148
