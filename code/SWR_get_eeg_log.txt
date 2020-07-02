@@ -7,3 +7,10 @@
 2020-06-24_19-38-42: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-16-0e0013763390>, line no: 143
 2020-06-24_19-44-09: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-17-68efd916337e>, line no: 147
 2020-06-24_19-49-42: DF Exception: Sub: R1045E, Sess: 0, BdbQuit, , file: <ipython-input-18-121a0ea1f6c1>, line no: 148
+2020-07-02_00-41-20: DF Exception: Sub: R1027J, Sess: 0, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
+2020-07-02_00-41-30: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
+2020-07-02_00-41-58: DF Exception: Sub: R1034D, Sess: 0, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
+2020-07-02_00-42-00: DF Exception: Sub: R1034D, Sess: 1, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
+2020-07-02_00-42-02: DF Exception: Sub: R1034D, Sess: 2, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
+2020-07-02_00-43-31: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-6-214e3270ccac>, line no: 169
+2020-07-02_00-50-06: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-7-e7879d26cc33>, line no: 279
