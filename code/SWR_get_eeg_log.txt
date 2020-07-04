@@ -14,3 +14,11 @@
 2020-07-02_00-42-02: DF Exception: Sub: R1034D, Sess: 2, BdbQuit, , file: <ipython-input-4-214e3270ccac>, line no: 171
 2020-07-02_00-43-31: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-6-214e3270ccac>, line no: 169
 2020-07-02_00-50-06: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-7-e7879d26cc33>, line no: 279
+2020-07-04_13-23-48: DF Exception: Sub: R1045E, Sess: 0, TypeError, '(slice(0, 263, None), slice(None, None, None))' is an invalid key, file: <ipython-input-3-6a0c666dcb42>, line no: 125
+2020-07-04_13-28-46: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_42, file: , line no: XXX
+2020-07-04_13-29-19: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_43, file: , line no: XXX
+2020-07-04_13-30-04: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_50, file: , line no: XXX
+2020-07-04_13-30-34: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_58, file: , line no: XXX
+2020-07-04_13-30-51: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_59, file: , line no: XXX
+2020-07-04_13-31-28: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_78, file: , line no: XXX
+2020-07-04_13-32-24: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_97, file: , line no: XXX
