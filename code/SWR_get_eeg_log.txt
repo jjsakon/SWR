@@ -22,3 +22,12 @@
 2020-07-04_13-30-51: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_59, file: , line no: XXX
 2020-07-04_13-31-28: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_78, file: , line no: XXX
 2020-07-04_13-32-24: DF Exception: Sub: R1045E, Sess: 0, Manual error, Encoded word key and ripple_array dont match for R1045E0_97, file: , line no: XXX
+2020-07-20_17-29-13: DF Exception: Sub: R1010J, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-30-5a63870eb20b>, line no: 277
+2020-07-20_17-29-28: DF Exception: Sub: R1112M, Sess: 2, ValueError, Events must correspond to one subject only, file: <ipython-input-30-5a63870eb20b>, line no: 137
+2020-07-20_20-08-02: DF Exception: Sub: R1106M, Sess: 0, IndexError, index 20 is out of bounds for axis 0 with size 20, file: <ipython-input-5-5a63870eb20b>, line no: 89
+2020-07-20_20-08-11: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-5-5a63870eb20b>, line no: 89
+2020-07-20_20-09-31: DF Exception: Sub: R1106M, Sess: 0, IndexError, index 20 is out of bounds for axis 0 with size 20, file: <ipython-input-6-5a63870eb20b>, line no: 89
+2020-07-20_20-10-07: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-6-5a63870eb20b>, line no: 89
+2020-07-20_20-10-39: DF Exception: Sub: R1106M, Sess: 0, BdbQuit, , file: <ipython-input-7-5a63870eb20b>, line no: 89
+2020-07-20_20-10-44: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-7-5a63870eb20b>, line no: 89
+2020-07-20_20-12-07: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-8-5a63870eb20b>, line no: 89
