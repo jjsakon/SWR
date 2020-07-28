@@ -1,0 +1,28 @@
+2020-06-25_13-32-49: DF Exception: Sub: R1154D, Sess: 1, Manual error, No electrode categories for R1154D, session 1, file: , line no: XXX
+2020-06-25_13-32-49: DF Exception: Sub: R1154D, Sess: 2, Manual error, No electrode categories for R1154D, session 2, file: , line no: XXX
+2020-06-25_13-33-02: DF Exception: Sub: R1185N, Sess: 0, Manual error, No electrode categories for R1185N, session 0, file: , line no: XXX
+2020-06-25_13-34-03: DF Exception: Sub: R1375C, Sess: 0, Manual error, No electrode categories for R1375C, session 0, file: , line no: XXX
+2020-06-25_13-34-05: DF Exception: Sub: R1380D, Sess: 1, Manual error, No electrode categories for R1380D, session 1, file: , line no: XXX
+2020-06-25_13-34-08: DF Exception: Sub: R1394E, Sess: 1, Manual error, No electrode categories for R1394E, session 1, file: , line no: XXX
+2020-06-25_13-34-09: DF Exception: Sub: R1397D, Sess: 0, Manual error, No electrode categories for R1397D, session 0, file: , line no: XXX
+2020-06-25_13-34-09: DF Exception: Sub: R1397D, Sess: 1, Manual error, No electrode categories for R1397D, session 1, file: , line no: XXX
+2020-06-25_13-34-10: DF Exception: Sub: R1405E, Sess: 1, Manual error, No electrode categories for R1405E, session 1, file: , line no: XXX
+2020-06-25_13-34-11: DF Exception: Sub: R1414E, Sess: 0, Manual error, No electrode categories for R1414E, session 0, file: , line no: XXX
+2020-06-25_13-34-13: DF Exception: Sub: R1423E, Sess: 0, Manual error, No electrode categories for R1423E, session 0, file: , line no: XXX
+2020-06-25_13-34-14: DF Exception: Sub: R1431J, Sess: 0, Manual error, No electrode categories for R1431J, session 0, file: , line no: XXX
+2020-06-25_13-34-14: DF Exception: Sub: R1433E, Sess: 0, Manual error, No electrode categories for R1433E, session 0, file: , line no: XXX
+2020-06-25_13-34-14: DF Exception: Sub: R1436J, Sess: 1, Manual error, No electrode categories for R1436J, session 1, file: , line no: XXX
+2020-06-25_13-34-15: DF Exception: Sub: R1438M, Sess: 1, Manual error, No electrode categories for R1438M, session 1, file: , line no: XXX
+2020-06-25_13-34-16: DF Exception: Sub: R1447M, Sess: 1, Manual error, No electrode categories for R1447M, session 1, file: , line no: XXX
+2020-06-25_13-34-16: DF Exception: Sub: R1454M, Sess: 0, Manual error, No electrode categories for R1454M, session 0, file: , line no: XXX
+2020-06-25_13-34-16: DF Exception: Sub: R1459M, Sess: 0, Manual error, No electrode categories for R1459M, session 0, file: , line no: XXX
+2020-06-25_13-34-16: DF Exception: Sub: R1459M, Sess: 6, Manual error, No electrode categories for R1459M, session 6, file: , line no: XXX
+2020-06-25_13-34-17: DF Exception: Sub: R1460M, Sess: 0, Manual error, No electrode categories for R1460M, session 0, file: , line no: XXX
+2020-06-25_13-34-17: DF Exception: Sub: R1462M, Sess: 0, Manual error, No electrode categories for R1462M, session 0, file: , line no: XXX
+2020-06-25_13-34-17: DF Exception: Sub: R1463E, Sess: 0, Manual error, No electrode categories for R1463E, session 0, file: , line no: XXX
+2020-06-25_13-34-17: DF Exception: Sub: R1463E, Sess: 1, Manual error, No electrode categories for R1463E, session 1, file: , line no: XXX
+2020-06-25_13-34-17: DF Exception: Sub: R1466J, Sess: 0, Manual error, No electrode categories for R1466J, session 0, file: , line no: XXX
+2020-06-25_13-34-18: DF Exception: Sub: R1467M, Sess: 0, Manual error, No electrode categories for R1467M, session 0, file: , line no: XXX
+remove_SOZ_ictal = True
+528 sessions with electrode categories
+1505 down to...545 electrode_ct
