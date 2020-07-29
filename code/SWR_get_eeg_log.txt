@@ -35,3 +35,73 @@
 2020-07-21_14-24-58: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-5-82cfc619b828>, line no: 93
 2020-07-23_01-45-38: DF Exception: Sub: R1106M, Sess: 0, BdbQuit, , file: <ipython-input-4-d7f404b7f88a>, line no: 86
 2020-07-23_01-45-40: DF Exception: Sub: R1106M, Sess: 1, BdbQuit, , file: <ipython-input-4-d7f404b7f88a>, line no: 86
+2020-07-28_13-38-04: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-5-8814f0b8531d>, line no: 117
+2020-07-28_13-38-04: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'list_recall' is not defined, file: <ipython-input-5-8814f0b8531d>, line no: 117
+2020-07-28_13-38-08: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'list_recall' is not defined, file: <ipython-input-6-4f3dd0527103>, line no: 119
+2020-07-28_13-38-08: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'list_recall' is not defined, file: <ipython-input-6-4f3dd0527103>, line no: 119
+2020-07-28_14-11-07: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'numpy.int64' object is not iterable, file: <ipython-input-4-01bdf2e3146e>, line no: 120
+2020-07-28_14-11-07: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'numpy.int64' object is not iterable, file: <ipython-input-4-01bdf2e3146e>, line no: 120
+2020-07-28_14-11-53: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'PCA' is not defined, file: <ipython-input-8-199ee20c96b0>, line no: 127
+2020-07-28_14-11-53: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'PCA' is not defined, file: <ipython-input-8-199ee20c96b0>, line no: 127
+2020-07-28_14-12-36: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'itertools' is not defined, file: <ipython-input-9-9e3bbca07a0e>, line no: 135
+2020-07-28_14-12-36: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'itertools' is not defined, file: <ipython-input-9-9e3bbca07a0e>, line no: 135
+2020-07-28_14-27-32: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'itertools' is not defined, file: <ipython-input-10-9e3bbca07a0e>, line no: 135
+2020-07-28_14-27-32: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'itertools' is not defined, file: <ipython-input-10-9e3bbca07a0e>, line no: 135
+2020-07-28_14-52-41: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-3-90df0a06b4ce>, line no: 142
+2020-07-28_14-52-43: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-3-90df0a06b4ce>, line no: 142
+2020-07-28_14-55-57: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-e41b83f1e559>, line no: 142
+2020-07-28_14-55-59: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-e41b83f1e559>, line no: 142
+2020-07-28_15-04-11: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-10-bf6dfe4de7e4>, line no: 150
+2020-07-28_15-04-13: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-10-bf6dfe4de7e4>, line no: 150
+2020-07-28_15-06-01: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-12-ea412786504f>, line no: 356
+2020-07-28_15-06-04: DF Exception: Sub: R1112M, Sess: 2, ValueError, Item wrong length 1 instead of 0., file: <ipython-input-12-ea412786504f>, line no: 149
+2020-07-28_17-17-39: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-14-19a225933412>, line no: 358
+2020-07-28_17-42-49: DF Exception: Sub: R1112M, Sess: 2, BdbQuit, , file: <ipython-input-14-19a225933412>, line no: 149
+2020-07-28_17-53-52: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-15-9c99128ecae8>, line no: 359
+2020-07-28_17-54-13: DF Exception: Sub: R1112M, Sess: 1, BdbQuit, , file: <ipython-input-15-9c99128ecae8>, line no: 357
+2020-07-28_17-58-59: DF Exception: Sub: R1112M, Sess: 0, BdbQuit, , file: <ipython-input-18-9c99128ecae8>, line no: 357
+2020-07-28_17-59-06: DF Exception: Sub: R1112M, Sess: 1, BdbQuit, , file: <ipython-input-18-9c99128ecae8>, line no: 357
+2020-07-28_17-59-22: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-19-796a37f18be1>, line no: 358
+2020-07-28_17-59-55: DF Exception: Sub: R1002P, Sess: 0, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_17-59-55: DF Exception: Sub: R1002P, Sess: 1, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_17-59-55: DF Exception: Sub: R1003P, Sess: 0, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_17-59-56: DF Exception: Sub: R1003P, Sess: 1, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_17-59-56: DF Exception: Sub: R1006P, Sess: 0, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_17-59-56: DF Exception: Sub: R1006P, Sess: 1, KeyError, 'AXE', file: <ipython-input-22-796a37f18be1>, line no: 129
+2020-07-28_18-10-31: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1002P, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1003P, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1003P, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1006P, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1006P, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1010J, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1010J, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1112M, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1112M, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1112M, Sess: 2, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1163T, Sess: 0, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-10-31: DF Exception: Sub: R1163T, Sess: 1, NameError, name 'list_words' is not defined, file: <ipython-input-23-63d1bfaefe17>, line no: 116
+2020-07-28_18-26-41: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-29-58: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-00: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-01: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-04: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-06: DF Exception: Sub: R1006P, Sess: 1, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-08: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-09: DF Exception: Sub: R1010J, Sess: 1, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-10: DF Exception: Sub: R1112M, Sess: 0, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-30-11: DF Exception: Sub: R1112M, Sess: 1, BdbQuit, , file: <ipython-input-24-9eef29579179>, line no: 118
+2020-07-28_18-32-46: DF Exception: Sub: R1002P, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-25-699186467bb1>, line no: 120
+2020-07-28_18-32-46: DF Exception: Sub: R1003P, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-25-699186467bb1>, line no: 120
+2020-07-28_18-32-46: DF Exception: Sub: R1003P, Sess: 1, IndexError, boolean index did not match indexed array along dimension 0; dimension is 92 but corresponding boolean dimension is 96, file: <ipython-input-25-699186467bb1>, line no: 155
+2020-07-28_18-32-46: DF Exception: Sub: R1006P, Sess: 0, IndexError, boolean index did not match indexed array along dimension 0; dimension is 75 but corresponding boolean dimension is 77, file: <ipython-input-25-699186467bb1>, line no: 155
+2020-07-28_18-32-47: DF Exception: Sub: R1006P, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-25-699186467bb1>, line no: 120
+2020-07-28_18-32-58: DF Exception: Sub: R1010J, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-25-699186467bb1>, line no: 120
+2020-07-28_18-32-59: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-25-699186467bb1>, line no: 361
+2020-07-28_19-08-31: DF Exception: Sub: R1002P, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-35-98ea2a39cc7b>, line no: 120
+2020-07-28_19-08-31: DF Exception: Sub: R1003P, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-35-98ea2a39cc7b>, line no: 120
+2020-07-28_19-08-44: DF Exception: Sub: R1003P, Sess: 1, IndexError, boolean index did not match indexed array along dimension 0; dimension is 92 but corresponding boolean dimension is 96, file: <ipython-input-35-98ea2a39cc7b>, line no: 389
+2020-07-28_19-09-00: DF Exception: Sub: R1006P, Sess: 0, IndexError, boolean index did not match indexed array along dimension 0; dimension is 75 but corresponding boolean dimension is 77, file: <ipython-input-35-98ea2a39cc7b>, line no: 389
+2020-07-28_19-09-01: DF Exception: Sub: R1006P, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-35-98ea2a39cc7b>, line no: 120
+2020-07-28_19-09-12: DF Exception: Sub: R1010J, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-35-98ea2a39cc7b>, line no: 120
+2020-07-28_19-09-13: DF Exception: Sub: R1112M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-35-98ea2a39cc7b>, line no: 359
