@@ -121,3 +121,47 @@
 2020-07-29_01-36-02: DF Exception: Sub: R1425D, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-9-4c6f22c996f4>, line no: 123
 2020-07-29_01-39-37: DF Exception: Sub: R1425D, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-13-8b7fd0f693f5>, line no: 123
 2020-07-29_01-54-31: DF Exception: Sub: R1425D, Sess: 1, BdbQuit, , file: <ipython-input-14-ac094fd97f98>, line no: 122
+2020-07-30_16-05-16: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-7e317b0dbcf8>, line no: 120
+2020-07-30_16-05-18: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-7e317b0dbcf8>, line no: 120
+2020-07-30_16-19-00: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-5-49905122149c>, line no: 121
+2020-07-30_16-19-01: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-5-49905122149c>, line no: 121
+2020-07-30_16-19-03: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-6-c327a16e56e5>, line no: 121
+2020-07-30_16-19-03: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-6-c327a16e56e5>, line no: 121
+2020-07-30_16-20-28: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-7-0928048ece69>, line no: 121
+2020-07-30_16-20-30: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-7-0928048ece69>, line no: 121
+2020-07-30_16-24-01: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-8-caa588dff528>, line no: 123
+2020-07-30_16-24-02: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-8-caa588dff528>, line no: 123
+2020-07-30_16-24-20: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-9-60809cd4891c>, line no: 123
+2020-07-30_16-24-20: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-9-60809cd4891c>, line no: 123
+2020-07-30_16-26-13: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-13-60809cd4891c>, line no: 123
+2020-07-30_16-26-13: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-13-60809cd4891c>, line no: 123
+2020-07-30_16-27-14: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-15-b7a33836a7d4>, line no: 122
+2020-07-30_16-27-16: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-15-b7a33836a7d4>, line no: 122
+2020-07-30_16-28-19: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-16-b7686a5af6c9>, line no: 123
+2020-07-30_16-28-19: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-16-b7686a5af6c9>, line no: 123
+2020-07-30_16-28-29: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-17-db8bdfa21204>, line no: 123
+2020-07-30_16-28-29: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'int' object is not iterable, file: <ipython-input-17-db8bdfa21204>, line no: 123
+2020-07-30_16-29-09: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-18-d81c22a2d964>, line no: 123
+2020-07-30_16-29-11: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-18-d81c22a2d964>, line no: 123
+2020-07-30_16-31-21: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-19-9c80ad9c9783>, line no: 124
+2020-07-30_16-31-27: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-19-9c80ad9c9783>, line no: 124
+2020-07-30_16-35-17: DF Exception: Sub: R1001P, Sess: 0, IndexError, index 3 is out of bounds for axis 0 with size 3, file: <ipython-input-24-1270b41a9c57>, line no: 124
+2020-07-30_16-36-53: DF Exception: Sub: R1001P, Sess: 1, IndexError, index 3 is out of bounds for axis 0 with size 3, file: <ipython-input-24-1270b41a9c57>, line no: 124
+2020-07-30_16-37-13: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-25-1270b41a9c57>, line no: 125
+2020-07-30_16-37-15: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-25-1270b41a9c57>, line no: 125
+2020-07-30_16-41-22: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-26-7f6e4df07fef>, line no: 124
+2020-07-30_16-41-27: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-26-7f6e4df07fef>, line no: 124
+2020-07-30_16-42-56: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-27-69b070c21f1e>, line no: 124
+2020-07-30_16-42-57: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-27-69b070c21f1e>, line no: 124
+2020-07-30_16-44-01: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-28-41bcb5ef2df0>, line no: 124
+2020-07-30_16-44-03: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-28-41bcb5ef2df0>, line no: 124
+2020-07-30_16-45-01: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'session_corrected_list_ops' is not defined, file: <ipython-input-29-b6d242b544d1>, line no: 124
+2020-07-30_16-45-01: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'session_corrected_list_ops' is not defined, file: <ipython-input-29-b6d242b544d1>, line no: 124
+2020-07-30_16-47-21: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-30-049f9ce7d053>, line no: 126
+2020-07-30_16-47-47: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-30-049f9ce7d053>, line no: 218
+2020-07-30_17-25-29: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-ae7ae33b51da>, line no: 125
+2020-07-30_17-25-30: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-ae7ae33b51da>, line no: 125
+2020-07-30_18-06-00: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-9-e5ddfeea9fbe>, line no: 115
+2020-07-30_18-06-00: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-9-e5ddfeea9fbe>, line no: 115
+2020-07-30_18-06-17: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-10-e5ddfeea9fbe>, line no: 115
+2020-07-30_18-06-17: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-10-e5ddfeea9fbe>, line no: 115
