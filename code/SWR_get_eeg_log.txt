@@ -165,3 +165,13 @@
 2020-07-30_18-06-00: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-9-e5ddfeea9fbe>, line no: 115
 2020-07-30_18-06-17: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-10-e5ddfeea9fbe>, line no: 115
 2020-07-30_18-06-17: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'getOutputPositions' is not defined, file: <ipython-input-10-e5ddfeea9fbe>, line no: 115
+2020-08-04_18-45-08: DF Exception: Sub: R1113T, Sess: 0, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1113T, Sess: 1, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1113T, Sess: 2, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1137E, Sess: 0, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1137E, Sess: 1, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1137E, Sess: 2, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 0, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 1, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 2, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
+2020-08-04_18-48-14: DF Exception: Sub: R1113T, Sess: 1, BdbQuit, , file: <ipython-input-4-382a2be2460a>, line no: 415
