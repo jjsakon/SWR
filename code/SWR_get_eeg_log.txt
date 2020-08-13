@@ -175,3 +175,4 @@
 2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 1, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
 2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 2, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
 2020-08-04_18-48-14: DF Exception: Sub: R1113T, Sess: 1, BdbQuit, , file: <ipython-input-4-382a2be2460a>, line no: 415
+2020-08-13_11-20-09: DF Exception: Sub: R1308T, Sess: 0, BdbQuit, , file: <ipython-input-4-796ceabfed51>, line no: 265
