@@ -386,3 +386,49 @@
 2020-08-14_20-35-02: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-280-3918ab119e38>, line no: 117
 2020-08-14_20-38-35: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-283-3918ab119e38>, line no: 117
 2020-08-14_20-38-37: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-283-3918ab119e38>, line no: 117
+2020-08-15_11-02-23: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-285-3918ab119e38>, line no: 117
+2020-08-15_11-02-25: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-285-3918ab119e38>, line no: 117
+2020-08-15_11-24-50: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-3-3918ab119e38>, line no: 117
+2020-08-15_11-24-52: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-3-3918ab119e38>, line no: 117
+2020-08-15_12-00-52: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-38-3918ab119e38>, line no: 117
+2020-08-15_12-00-54: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-38-3918ab119e38>, line no: 117
+2020-08-15_12-18-41: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-39-3918ab119e38>, line no: 117
+2020-08-15_12-18-42: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-39-3918ab119e38>, line no: 117
+2020-08-15_12-25-55: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-40-43ab654e08b0>, line no: 117
+2020-08-15_12-25-57: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-40-43ab654e08b0>, line no: 117
+2020-08-15_12-47-52: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-45-43ab654e08b0>, line no: 117
+2020-08-15_12-47-54: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-45-43ab654e08b0>, line no: 117
+2020-08-15_12-48-21: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-46-43ab654e08b0>, line no: 117
+2020-08-15_12-48-22: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-46-43ab654e08b0>, line no: 117
+2020-08-15_12-50-08: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-48-43ab654e08b0>, line no: 117
+2020-08-15_12-50-09: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-48-43ab654e08b0>, line no: 117
+2020-08-15_12-56-11: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-49-43ab654e08b0>, line no: 117
+2020-08-15_12-56-12: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-49-43ab654e08b0>, line no: 117
+2020-08-15_12-58-33: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-50-43ab654e08b0>, line no: 117
+2020-08-15_12-58-35: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-50-43ab654e08b0>, line no: 117
+2020-08-15_13-01-58: DF Exception: Sub: R1463E, Sess: 0, UnboundLocalError, local variable 'loc_MTL_names' referenced before assignment, file: <ipython-input-51-43ab654e08b0>, line no: 117
+2020-08-15_13-01-59: DF Exception: Sub: R1463E, Sess: 1, UnboundLocalError, local variable 'loc_MTL_names' referenced before assignment, file: <ipython-input-51-43ab654e08b0>, line no: 117
+2020-08-15_13-02-33: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-52-43ab654e08b0>, line no: 117
+2020-08-15_13-02-33: DF Exception: Sub: R1463E, Sess: 1, ValueError, could not convert string to float: , file: <ipython-input-52-43ab654e08b0>, line no: 117
+2020-08-15_13-03-34: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-53-43ab654e08b0>, line no: 117
+2020-08-15_13-03-35: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-53-43ab654e08b0>, line no: 117
+2020-08-15_13-04-09: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-54-43ab654e08b0>, line no: 117
+2020-08-15_13-04-10: DF Exception: Sub: R1463E, Sess: 1, ValueError, could not convert string to float: , file: <ipython-input-54-43ab654e08b0>, line no: 117
+2020-08-15_13-05-05: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-56-43ab654e08b0>, line no: 117
+2020-08-15_13-05-07: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-56-43ab654e08b0>, line no: 117
+2020-08-15_13-05-42: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-57-43ab654e08b0>, line no: 117
+2020-08-15_13-06-03: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-57-43ab654e08b0>, line no: 117
+2020-08-15_23-10-24: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-58-43ab654e08b0>, line no: 117
+2020-08-15_23-10-26: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-58-43ab654e08b0>, line no: 117
+2020-08-15_23-11-26: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-59-43ab654e08b0>, line no: 117
+2020-08-15_23-11-27: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-59-43ab654e08b0>, line no: 117
+2020-08-15_23-12-03: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-60-43ab654e08b0>, line no: 117
+2020-08-15_23-12-03: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-60-43ab654e08b0>, line no: 117
+2020-08-15_23-13-54: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-61-43ab654e08b0>, line no: 117
+2020-08-15_23-13-54: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-61-43ab654e08b0>, line no: 117
+2020-08-15_23-16-11: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-62-43ab654e08b0>, line no: 117
+2020-08-15_23-16-12: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-62-43ab654e08b0>, line no: 117
+2020-08-15_23-17-22: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-63-43ab654e08b0>, line no: 117
+2020-08-15_23-17-24: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-63-43ab654e08b0>, line no: 117
+2020-08-15_23-24-14: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
+2020-08-15_23-24-15: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
