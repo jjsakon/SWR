@@ -432,3 +432,103 @@
 2020-08-15_23-17-24: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-63-43ab654e08b0>, line no: 117
 2020-08-15_23-24-14: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
 2020-08-15_23-24-15: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
+2020-08-15_23-27-46: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-47: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-48: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-49: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-49: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-50: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
+2020-08-15_23-30-13: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-13: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-13: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-14: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-14: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-15: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-15: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-16: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-30-16: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
+2020-08-15_23-31-30: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-30: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-30: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-31: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-31: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-32: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-32: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-32: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-33: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-31-38: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-73-43ab654e08b0>, line no: 117
+2020-08-15_23-33-58: DF Exception: Sub: R1023J, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-33-59: DF Exception: Sub: R1101T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-01: DF Exception: Sub: R1148P, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-02: DF Exception: Sub: R1323T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-04: DF Exception: Sub: R1323T, Sess: 2, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-05: DF Exception: Sub: R1323T, Sess: 3, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-06: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-07: DF Exception: Sub: R1334T, Sess: 1, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-09: DF Exception: Sub: R1334T, Sess: 2, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-34-10: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
+2020-08-15_23-35-42: DF Exception: Sub: R1368T, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-75-43ab654e08b0>, line no: 117
+2020-08-16_12-07-43: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
+2020-08-16_12-08-42: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
+2020-08-16_12-09-36: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-10-13: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
+2020-08-16_12-10-15: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
+2020-08-16_12-10-26: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
+2020-08-16_12-11-25: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-29: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-30: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-45: DF Exception: Sub: R1431J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 1, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 2, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-11-59: DF Exception: Sub: R1462M, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
+2020-08-16_12-35-28: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-101-dd35b291594f>, line no: 117
+2020-08-16_12-35-30: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-101-dd35b291594f>, line no: 117
+2020-08-16_18-44-59: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-102-dd35b291594f>, line no: 117
+2020-08-16_18-45-00: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-102-dd35b291594f>, line no: 117
+2020-08-17_12-35-23: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-131-dd35b291594f>, line no: 117
+2020-08-17_12-35-44: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-131-dd35b291594f>, line no: 117
+2020-08-17_12-40-19: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
+2020-08-17_12-40-20: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
+2020-08-17_12-40-21: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
+2020-08-17_12-40-21: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
+2020-08-17_15-33-26: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
+2020-08-17_15-33-27: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
+2020-08-17_15-33-28: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
+2020-08-17_15-33-29: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
+2020-08-17_15-49-37: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
+2020-08-17_15-49-38: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
+2020-08-17_15-49-39: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
+2020-08-17_15-49-40: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
+2020-08-17_15-56-46: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
+2020-08-17_15-56-47: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
+2020-08-17_15-56-48: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
+2020-08-17_15-56-49: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
+2020-08-17_15-57-27: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
+2020-08-17_15-57-28: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
+2020-08-17_15-57-29: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
+2020-08-17_15-57-30: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
+2020-08-17_16-01-20: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
+2020-08-17_16-01-21: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
+2020-08-17_16-01-23: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
+2020-08-17_16-01-23: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
+2020-08-17_16-09-32: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
+2020-08-17_16-09-33: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
+2020-08-17_16-09-33: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
+2020-08-17_16-09-34: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
+2020-08-17_16-11-25: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
+2020-08-17_16-11-25: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
+2020-08-17_16-11-25: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
+2020-08-17_16-11-25: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
+2020-08-17_16-26-47: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
+2020-08-17_16-26-48: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
+2020-08-17_16-26-49: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
+2020-08-17_16-26-50: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
+2020-08-17_17-04-31: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
+2020-08-17_17-05-26: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
+2020-08-17_17-06-52: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
+2020-08-17_17-06-54: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
+2020-08-17_17-07-05: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
