@@ -175,360 +175,379 @@
 2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 1, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
 2020-08-04_18-45-08: DF Exception: Sub: R1311T, Sess: 2, NameError, name 'temp_serialpos_lags' is not defined, file: <ipython-input-3-64a2ff545dbf>, line no: 157
 2020-08-04_18-48-14: DF Exception: Sub: R1113T, Sess: 1, BdbQuit, , file: <ipython-input-4-382a2be2460a>, line no: 415
-2020-08-13_11-20-09: DF Exception: Sub: R1308T, Sess: 0, BdbQuit, , file: <ipython-input-4-796ceabfed51>, line no: 265
-2020-08-13_23-24-39: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-39: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-40: DF Exception: Sub: R1002P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-40: DF Exception: Sub: R1002P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-41: DF Exception: Sub: R1003P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-42: DF Exception: Sub: R1003P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-42: DF Exception: Sub: R1006P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-43: DF Exception: Sub: R1006P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-24-43: DF Exception: Sub: R1010J, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-5-6674b07eddee>, line no: 112
-2020-08-13_23-27-41: DF Exception: Sub: R1001P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-41: DF Exception: Sub: R1001P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-41: DF Exception: Sub: R1002P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-42: DF Exception: Sub: R1002P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-42: DF Exception: Sub: R1003P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-42: DF Exception: Sub: R1003P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-43: DF Exception: Sub: R1006P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-43: DF Exception: Sub: R1006P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-44: DF Exception: Sub: R1010J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-44: DF Exception: Sub: R1010J, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-44: DF Exception: Sub: R1018P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-45: DF Exception: Sub: R1020J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-46: DF Exception: Sub: R1022J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-47: DF Exception: Sub: R1023J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-47: DF Exception: Sub: R1026D, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-48: DF Exception: Sub: R1027J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-27-48: DF Exception: Sub: R1030J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-12-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-23: DF Exception: Sub: R1001P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-23: DF Exception: Sub: R1001P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-23: DF Exception: Sub: R1002P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-24: DF Exception: Sub: R1002P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-24: DF Exception: Sub: R1003P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-24: DF Exception: Sub: R1003P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-25: DF Exception: Sub: R1006P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-25: DF Exception: Sub: R1006P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-26: DF Exception: Sub: R1010J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-26: DF Exception: Sub: R1010J, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-26: DF Exception: Sub: R1018P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-26: DF Exception: Sub: R1020J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-27: DF Exception: Sub: R1022J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-27: DF Exception: Sub: R1023J, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-27: DF Exception: Sub: R1026D, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-13-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-44: DF Exception: Sub: R1001P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-45: DF Exception: Sub: R1001P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-45: DF Exception: Sub: R1002P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-45: DF Exception: Sub: R1002P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-46: DF Exception: Sub: R1003P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-46: DF Exception: Sub: R1003P, Sess: 1, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-29-46: DF Exception: Sub: R1006P, Sess: 0, IndexError, only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices, file: <ipython-input-14-4bdb0d31815c>, line no: 115
-2020-08-13_23-34-37: DF Exception: Sub: R1001P, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-37: DF Exception: Sub: R1001P, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-37: DF Exception: Sub: R1002P, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-38: DF Exception: Sub: R1002P, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-38: DF Exception: Sub: R1003P, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-39: DF Exception: Sub: R1003P, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-39: DF Exception: Sub: R1006P, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-39: DF Exception: Sub: R1006P, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-40: DF Exception: Sub: R1010J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-40: DF Exception: Sub: R1010J, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-40: DF Exception: Sub: R1018P, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-41: DF Exception: Sub: R1020J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-41: DF Exception: Sub: R1022J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-41: DF Exception: Sub: R1023J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-41: DF Exception: Sub: R1026D, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-42: DF Exception: Sub: R1027J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-42: DF Exception: Sub: R1030J, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-42: DF Exception: Sub: R1031M, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-43: DF Exception: Sub: R1032D, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-43: DF Exception: Sub: R1033D, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-44: DF Exception: Sub: R1034D, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-44: DF Exception: Sub: R1034D, Sess: 1, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-44: DF Exception: Sub: R1034D, Sess: 2, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-44: DF Exception: Sub: R1035M, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-45: DF Exception: Sub: R1036M, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-45: DF Exception: Sub: R1039M, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-34-46: DF Exception: Sub: R1042M, Sess: 0, IndexError, string index out of range, file: <ipython-input-25-120fa512c8d0>, line no: 115
-2020-08-13_23-35-07: DF Exception: Sub: R1001P, Sess: 0, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-07: DF Exception: Sub: R1001P, Sess: 1, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-07: DF Exception: Sub: R1002P, Sess: 0, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-08: DF Exception: Sub: R1002P, Sess: 1, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-08: DF Exception: Sub: R1003P, Sess: 0, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-08: DF Exception: Sub: R1003P, Sess: 1, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-09: DF Exception: Sub: R1006P, Sess: 0, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-09: DF Exception: Sub: R1006P, Sess: 1, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-10: DF Exception: Sub: R1010J, Sess: 0, IndexError, string index out of range, file: <ipython-input-26-120fa512c8d0>, line no: 115
-2020-08-13_23-35-48: DF Exception: Sub: R1001P, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-48: DF Exception: Sub: R1001P, Sess: 1, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-49: DF Exception: Sub: R1002P, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-49: DF Exception: Sub: R1002P, Sess: 1, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-49: DF Exception: Sub: R1003P, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-50: DF Exception: Sub: R1003P, Sess: 1, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-50: DF Exception: Sub: R1006P, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-50: DF Exception: Sub: R1006P, Sess: 1, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-51: DF Exception: Sub: R1010J, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-51: DF Exception: Sub: R1010J, Sess: 1, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-51: DF Exception: Sub: R1018P, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-52: DF Exception: Sub: R1020J, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-52: DF Exception: Sub: R1022J, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-52: DF Exception: Sub: R1023J, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-35-53: DF Exception: Sub: R1026D, Sess: 0, IndexError, string index out of range, file: <ipython-input-27-120fa512c8d0>, line no: 115
-2020-08-13_23-36-45: DF Exception: Sub: R1001P, Sess: 0, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-45: DF Exception: Sub: R1001P, Sess: 1, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-46: DF Exception: Sub: R1002P, Sess: 0, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-46: DF Exception: Sub: R1002P, Sess: 1, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-46: DF Exception: Sub: R1003P, Sess: 0, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-47: DF Exception: Sub: R1003P, Sess: 1, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-47: DF Exception: Sub: R1006P, Sess: 0, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-36-47: DF Exception: Sub: R1006P, Sess: 1, IndexError, string index out of range, file: <ipython-input-29-120fa512c8d0>, line no: 115
-2020-08-13_23-38-19: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-38-22: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-38-23: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-39-18: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-39-21: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-39-25: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-39-26: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-13_23-39-27: DF Exception: Sub: R1006P, Sess: 1, BdbQuit, , file: <ipython-input-30-120fa512c8d0>, line no: 115
-2020-08-14_09-16-22: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-5-120fa512c8d0>, line no: 119
-2020-08-14_09-16-24: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-5-120fa512c8d0>, line no: 119
-2020-08-14_09-16-27: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-5-120fa512c8d0>, line no: 119
-2020-08-14_09-16-29: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-5-120fa512c8d0>, line no: 119
-2020-08-14_09-20-26: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-7-e40544a57b04>, line no: 119
-2020-08-14_09-20-28: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-7-e40544a57b04>, line no: 119
-2020-08-14_09-20-48: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-8-c8e7ed4d441b>, line no: 115
-2020-08-14_09-20-48: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-8-c8e7ed4d441b>, line no: 115
-2020-08-14_11-27-08: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-14-c8e7ed4d441b>, line no: 115
-2020-08-14_11-27-08: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-14-c8e7ed4d441b>, line no: 115
-2020-08-14_11-28-46: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-16-c8e7ed4d441b>, line no: 115
-2020-08-14_11-28-47: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-16-c8e7ed4d441b>, line no: 115
-2020-08-14_11-37-59: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-18-c8e7ed4d441b>, line no: 115
-2020-08-14_11-38-00: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-18-c8e7ed4d441b>, line no: 115
-2020-08-14_11-40-34: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-21-f2219ff04bdd>, line no: 116
-2020-08-14_11-40-34: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-21-f2219ff04bdd>, line no: 116
-2020-08-14_11-43-35: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-25-f2219ff04bdd>, line no: 116
-2020-08-14_11-43-37: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-25-f2219ff04bdd>, line no: 116
-2020-08-14_11-43-38: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-25-f2219ff04bdd>, line no: 116
-2020-08-14_11-44-25: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-26-f2219ff04bdd>, line no: 116
-2020-08-14_11-44-26: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-26-f2219ff04bdd>, line no: 116
-2020-08-14_11-48-21: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-31-f2219ff04bdd>, line no: 116
-2020-08-14_11-48-21: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-31-f2219ff04bdd>, line no: 116
-2020-08-14_11-53-00: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-35-f2219ff04bdd>, line no: 116
-2020-08-14_11-53-01: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-35-f2219ff04bdd>, line no: 116
-2020-08-14_12-01-20: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-38-f2219ff04bdd>, line no: 116
-2020-08-14_12-01-20: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-38-f2219ff04bdd>, line no: 116
-2020-08-14_12-25-10: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-43-f2219ff04bdd>, line no: 116
-2020-08-14_12-25-11: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-43-f2219ff04bdd>, line no: 116
-2020-08-14_12-27-59: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-45-f2219ff04bdd>, line no: 116
-2020-08-14_12-27-59: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-45-f2219ff04bdd>, line no: 116
-2020-08-14_12-31-18: DF Exception: Sub: R1367D, Sess: 0, BdbQuit, , file: <ipython-input-48-f2219ff04bdd>, line no: 116
-2020-08-14_12-31-19: DF Exception: Sub: R1367D, Sess: 1, BdbQuit, , file: <ipython-input-48-f2219ff04bdd>, line no: 116
-2020-08-14_12-31-22: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-48-f2219ff04bdd>, line no: 116
-2020-08-14_12-31-24: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-48-f2219ff04bdd>, line no: 116
-2020-08-14_12-31-25: DF Exception: Sub: R1467M, Sess: 0, BdbQuit, , file: <ipython-input-48-f2219ff04bdd>, line no: 116
-2020-08-14_12-32-19: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-49-e1ff56d725aa>, line no: 116
-2020-08-14_12-32-20: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-49-e1ff56d725aa>, line no: 116
-2020-08-14_12-33-28: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-51-e1ff56d725aa>, line no: 116
-2020-08-14_12-33-29: DF Exception: Sub: R1367D, Sess: 1, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-51-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-17: DF Exception: Sub: R1367D, Sess: 0, BdbQuit, , file: <ipython-input-52-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-18: DF Exception: Sub: R1367D, Sess: 1, BdbQuit, , file: <ipython-input-52-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-20: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-52-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-21: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-52-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-22: DF Exception: Sub: R1467M, Sess: 0, BdbQuit, , file: <ipython-input-52-e1ff56d725aa>, line no: 116
-2020-08-14_12-35-40: DF Exception: Sub: R1367D, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-53-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-13: DF Exception: Sub: R1367D, Sess: 1, BdbQuit, , file: <ipython-input-53-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-15: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-53-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-16: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-53-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-17: DF Exception: Sub: R1467M, Sess: 0, BdbQuit, , file: <ipython-input-53-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-54: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-54-e1ff56d725aa>, line no: 116
-2020-08-14_12-37-54: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-54-e1ff56d725aa>, line no: 116
-2020-08-14_12-42-49: DF Exception: Sub: R1367D, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'str', file: <ipython-input-62-e1ff56d725aa>, line no: 116
-2020-08-14_12-42-50: DF Exception: Sub: R1367D, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'str', file: <ipython-input-62-e1ff56d725aa>, line no: 116
-2020-08-14_12-42-50: DF Exception: Sub: R1463E, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'str', file: <ipython-input-62-e1ff56d725aa>, line no: 116
-2020-08-14_12-42-50: DF Exception: Sub: R1463E, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'str', file: <ipython-input-62-e1ff56d725aa>, line no: 116
-2020-08-14_12-42-51: DF Exception: Sub: R1467M, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'str', file: <ipython-input-62-e1ff56d725aa>, line no: 116
-2020-08-14_12-43-24: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-63-e1ff56d725aa>, line no: 116
-2020-08-14_12-43-24: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-63-e1ff56d725aa>, line no: 116
-2020-08-14_12-44-46: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-67-e1ff56d725aa>, line no: 116
-2020-08-14_12-44-46: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-67-e1ff56d725aa>, line no: 116
-2020-08-14_13-06-28: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-69-3a123e84fe0b>, line no: 117
-2020-08-14_13-06-28: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-69-3a123e84fe0b>, line no: 117
-2020-08-14_13-06-28: DF Exception: Sub: R1467M, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-69-3a123e84fe0b>, line no: 122
-2020-08-14_13-11-27: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-71-3a123e84fe0b>, line no: 117
-2020-08-14_13-11-43: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-71-3a123e84fe0b>, line no: 117
-2020-08-14_13-11-44: DF Exception: Sub: R1467M, Sess: 0, BdbQuit, , file: <ipython-input-71-3a123e84fe0b>, line no: 117
-2020-08-14_13-14-49: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-73-3a123e84fe0b>, line no: 117
-2020-08-14_13-14-50: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-73-3a123e84fe0b>, line no: 117
-2020-08-14_13-14-51: DF Exception: Sub: R1467M, Sess: 0, BdbQuit, , file: <ipython-input-73-3a123e84fe0b>, line no: 117
-2020-08-14_13-15-59: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-75-3a123e84fe0b>, line no: 117
-2020-08-14_13-16-22: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-75-3a123e84fe0b>, line no: 117
-2020-08-14_13-16-24: DF Exception: Sub: R1467M, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-75-3a123e84fe0b>, line no: 122
-2020-08-14_13-36-54: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-76-6c5eb47ae297>, line no: 117
-2020-08-14_13-36-55: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-76-6c5eb47ae297>, line no: 117
-2020-08-14_13-39-16: DF Exception: Sub: R1463E, Sess: 0, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-81-6c5eb47ae297>, line no: 117
-2020-08-14_13-39-17: DF Exception: Sub: R1463E, Sess: 1, IndexError, index 165 is out of bounds for axis 0 with size 165, file: <ipython-input-81-6c5eb47ae297>, line no: 117
-2020-08-14_20-26-24: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-272-3918ab119e38>, line no: 117
-2020-08-14_20-26-30: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-272-3918ab119e38>, line no: 117
-2020-08-14_20-28-20: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-274-3918ab119e38>, line no: 117
-2020-08-14_20-28-22: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-274-3918ab119e38>, line no: 117
-2020-08-14_20-31-19: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-275-3918ab119e38>, line no: 117
-2020-08-14_20-31-20: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-275-3918ab119e38>, line no: 117
-2020-08-14_20-31-28: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-276-3918ab119e38>, line no: 117
-2020-08-14_20-31-29: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-276-3918ab119e38>, line no: 117
-2020-08-14_20-32-05: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-277-3918ab119e38>, line no: 117
-2020-08-14_20-32-06: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-277-3918ab119e38>, line no: 117
-2020-08-14_20-32-47: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-278-3918ab119e38>, line no: 117
-2020-08-14_20-32-49: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-278-3918ab119e38>, line no: 117
-2020-08-14_20-34-04: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-279-3918ab119e38>, line no: 117
-2020-08-14_20-34-05: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-279-3918ab119e38>, line no: 117
-2020-08-14_20-35-01: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-280-3918ab119e38>, line no: 117
-2020-08-14_20-35-02: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-280-3918ab119e38>, line no: 117
-2020-08-14_20-38-35: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-283-3918ab119e38>, line no: 117
-2020-08-14_20-38-37: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-283-3918ab119e38>, line no: 117
-2020-08-15_11-02-23: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-285-3918ab119e38>, line no: 117
-2020-08-15_11-02-25: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-285-3918ab119e38>, line no: 117
-2020-08-15_11-24-50: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-3-3918ab119e38>, line no: 117
-2020-08-15_11-24-52: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-3-3918ab119e38>, line no: 117
-2020-08-15_12-00-52: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-38-3918ab119e38>, line no: 117
-2020-08-15_12-00-54: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-38-3918ab119e38>, line no: 117
-2020-08-15_12-18-41: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-39-3918ab119e38>, line no: 117
-2020-08-15_12-18-42: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-39-3918ab119e38>, line no: 117
-2020-08-15_12-25-55: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-40-43ab654e08b0>, line no: 117
-2020-08-15_12-25-57: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-40-43ab654e08b0>, line no: 117
-2020-08-15_12-47-52: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-45-43ab654e08b0>, line no: 117
-2020-08-15_12-47-54: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-45-43ab654e08b0>, line no: 117
-2020-08-15_12-48-21: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-46-43ab654e08b0>, line no: 117
-2020-08-15_12-48-22: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-46-43ab654e08b0>, line no: 117
-2020-08-15_12-50-08: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-48-43ab654e08b0>, line no: 117
-2020-08-15_12-50-09: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-48-43ab654e08b0>, line no: 117
-2020-08-15_12-56-11: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-49-43ab654e08b0>, line no: 117
-2020-08-15_12-56-12: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-49-43ab654e08b0>, line no: 117
-2020-08-15_12-58-33: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-50-43ab654e08b0>, line no: 117
-2020-08-15_12-58-35: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-50-43ab654e08b0>, line no: 117
-2020-08-15_13-01-58: DF Exception: Sub: R1463E, Sess: 0, UnboundLocalError, local variable 'loc_MTL_names' referenced before assignment, file: <ipython-input-51-43ab654e08b0>, line no: 117
-2020-08-15_13-01-59: DF Exception: Sub: R1463E, Sess: 1, UnboundLocalError, local variable 'loc_MTL_names' referenced before assignment, file: <ipython-input-51-43ab654e08b0>, line no: 117
-2020-08-15_13-02-33: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-52-43ab654e08b0>, line no: 117
-2020-08-15_13-02-33: DF Exception: Sub: R1463E, Sess: 1, ValueError, could not convert string to float: , file: <ipython-input-52-43ab654e08b0>, line no: 117
-2020-08-15_13-03-34: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-53-43ab654e08b0>, line no: 117
-2020-08-15_13-03-35: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-53-43ab654e08b0>, line no: 117
-2020-08-15_13-04-09: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-54-43ab654e08b0>, line no: 117
-2020-08-15_13-04-10: DF Exception: Sub: R1463E, Sess: 1, ValueError, could not convert string to float: , file: <ipython-input-54-43ab654e08b0>, line no: 117
-2020-08-15_13-05-05: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-56-43ab654e08b0>, line no: 117
-2020-08-15_13-05-07: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-56-43ab654e08b0>, line no: 117
-2020-08-15_13-05-42: DF Exception: Sub: R1463E, Sess: 0, ValueError, could not convert string to float: , file: <ipython-input-57-43ab654e08b0>, line no: 117
-2020-08-15_13-06-03: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-57-43ab654e08b0>, line no: 117
-2020-08-15_23-10-24: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-58-43ab654e08b0>, line no: 117
-2020-08-15_23-10-26: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-58-43ab654e08b0>, line no: 117
-2020-08-15_23-11-26: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-59-43ab654e08b0>, line no: 117
-2020-08-15_23-11-27: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-59-43ab654e08b0>, line no: 117
-2020-08-15_23-12-03: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-60-43ab654e08b0>, line no: 117
-2020-08-15_23-12-03: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-60-43ab654e08b0>, line no: 117
-2020-08-15_23-13-54: DF Exception: Sub: R1463E, Sess: 0, TypeError, list indices must be integers or slices, not str, file: <ipython-input-61-43ab654e08b0>, line no: 117
-2020-08-15_23-13-54: DF Exception: Sub: R1463E, Sess: 1, TypeError, list indices must be integers or slices, not str, file: <ipython-input-61-43ab654e08b0>, line no: 117
-2020-08-15_23-16-11: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-62-43ab654e08b0>, line no: 117
-2020-08-15_23-16-12: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-62-43ab654e08b0>, line no: 117
-2020-08-15_23-17-22: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-63-43ab654e08b0>, line no: 117
-2020-08-15_23-17-24: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-63-43ab654e08b0>, line no: 117
-2020-08-15_23-24-14: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
-2020-08-15_23-24-15: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-64-43ab654e08b0>, line no: 117
-2020-08-15_23-27-46: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-47: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-48: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-49: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-49: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-50: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-27-51: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-69-43ab654e08b0>, line no: 117
-2020-08-15_23-30-13: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-13: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-13: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-14: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-14: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-15: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-15: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-16: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-30-16: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-72-43ab654e08b0>, line no: 117
-2020-08-15_23-31-30: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-30: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-30: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-31: DF Exception: Sub: R1323T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-31: DF Exception: Sub: R1323T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-32: DF Exception: Sub: R1323T, Sess: 3, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-32: DF Exception: Sub: R1334T, Sess: 0, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-32: DF Exception: Sub: R1334T, Sess: 1, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-33: DF Exception: Sub: R1334T, Sess: 2, TypeError, object of type 'int' has no len(), file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-31-38: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-73-43ab654e08b0>, line no: 117
-2020-08-15_23-33-58: DF Exception: Sub: R1023J, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-33-59: DF Exception: Sub: R1101T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-01: DF Exception: Sub: R1148P, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-02: DF Exception: Sub: R1323T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-04: DF Exception: Sub: R1323T, Sess: 2, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-05: DF Exception: Sub: R1323T, Sess: 3, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-06: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-07: DF Exception: Sub: R1334T, Sess: 1, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-09: DF Exception: Sub: R1334T, Sess: 2, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-34-10: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-74-43ab654e08b0>, line no: 117
-2020-08-15_23-35-42: DF Exception: Sub: R1368T, Sess: 0, ValueError, The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()., file: <ipython-input-75-43ab654e08b0>, line no: 117
-2020-08-16_12-07-43: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
-2020-08-16_12-08-42: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
-2020-08-16_12-09-36: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-10-13: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
-2020-08-16_12-10-15: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
-2020-08-16_12-10-26: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-95-58e6374af1ba>, line no: 96
-2020-08-16_12-11-25: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-29: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-30: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-45: DF Exception: Sub: R1431J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 1, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-48: DF Exception: Sub: R1441T, Sess: 2, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-11-59: DF Exception: Sub: R1462M, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-95-58e6374af1ba>, line no: 117
-2020-08-16_12-35-28: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-101-dd35b291594f>, line no: 117
-2020-08-16_12-35-30: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-101-dd35b291594f>, line no: 117
-2020-08-16_18-44-59: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-102-dd35b291594f>, line no: 117
-2020-08-16_18-45-00: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-102-dd35b291594f>, line no: 117
-2020-08-17_12-35-23: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-131-dd35b291594f>, line no: 117
-2020-08-17_12-35-44: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-131-dd35b291594f>, line no: 117
-2020-08-17_12-40-19: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
-2020-08-17_12-40-20: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
-2020-08-17_12-40-21: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
-2020-08-17_12-40-21: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-134-dd35b291594f>, line no: 117
-2020-08-17_15-33-26: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
-2020-08-17_15-33-27: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
-2020-08-17_15-33-28: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
-2020-08-17_15-33-29: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-135-dd35b291594f>, line no: 117
-2020-08-17_15-49-37: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
-2020-08-17_15-49-38: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
-2020-08-17_15-49-39: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
-2020-08-17_15-49-40: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-136-dd35b291594f>, line no: 117
-2020-08-17_15-56-46: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
-2020-08-17_15-56-47: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
-2020-08-17_15-56-48: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
-2020-08-17_15-56-49: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-137-dd35b291594f>, line no: 117
-2020-08-17_15-57-27: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
-2020-08-17_15-57-28: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
-2020-08-17_15-57-29: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
-2020-08-17_15-57-30: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-138-dd35b291594f>, line no: 117
-2020-08-17_16-01-20: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
-2020-08-17_16-01-21: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
-2020-08-17_16-01-23: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
-2020-08-17_16-01-23: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-139-dd35b291594f>, line no: 117
-2020-08-17_16-09-32: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
-2020-08-17_16-09-33: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
-2020-08-17_16-09-33: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
-2020-08-17_16-09-34: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-140-dd35b291594f>, line no: 117
-2020-08-17_16-11-25: DF Exception: Sub: R1286J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
-2020-08-17_16-11-25: DF Exception: Sub: R1401J, Sess: 0, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
-2020-08-17_16-11-25: DF Exception: Sub: R1406M, Sess: 3, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
-2020-08-17_16-11-25: DF Exception: Sub: R1406M, Sess: 4, KeyError, 'atlases.mtl', file: <ipython-input-141-dd35b291594f>, line no: 117
-2020-08-17_16-26-47: DF Exception: Sub: R1286J, Sess: 0, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
-2020-08-17_16-26-48: DF Exception: Sub: R1401J, Sess: 0, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
-2020-08-17_16-26-49: DF Exception: Sub: R1406M, Sess: 3, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
-2020-08-17_16-26-50: DF Exception: Sub: R1406M, Sess: 4, BdbQuit, , file: <ipython-input-143-dd35b291594f>, line no: 117
-2020-08-17_17-04-31: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
-2020-08-17_17-05-26: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
-2020-08-17_17-06-52: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
-2020-08-17_17-06-54: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
-2020-08-17_17-07-05: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-148-4a3626a6d68f>, line no: 96
+
+
+
+2020-08-18_13-47-10: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-10-5eb4e91dd621>, line no: 97
+2020-08-18_13-47-51: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-10-5eb4e91dd621>, line no: 97
+2020-08-18_13-48-53: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-10-5eb4e91dd621>, line no: 97
+2020-08-18_13-48-54: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-10-5eb4e91dd621>, line no: 97
+2020-08-18_13-49-02: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-10-5eb4e91dd621>, line no: 97
+2020-08-18_14-05-08: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-21-5eb4e91dd621>, line no: 97
+2020-08-18_14-05-42: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-21-5eb4e91dd621>, line no: 97
+2020-08-18_14-05-54: DF Exception: Sub: R1207J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-05-54: DF Exception: Sub: R1207J, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-12: DF Exception: Sub: R1286J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-34: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-21-5eb4e91dd621>, line no: 97
+2020-08-18_14-06-35: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-21-5eb4e91dd621>, line no: 97
+2020-08-18_14-06-42: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-21-5eb4e91dd621>, line no: 97
+2020-08-18_14-06-44: DF Exception: Sub: R1345D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-44: DF Exception: Sub: R1345D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-44: DF Exception: Sub: R1345D, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-44: DF Exception: Sub: R1345D, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-45: DF Exception: Sub: R1345D, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-46: DF Exception: Sub: R1347D, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-46: DF Exception: Sub: R1347D, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-47: DF Exception: Sub: R1347D, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-47: DF Exception: Sub: R1350D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-48: DF Exception: Sub: R1350D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-48: DF Exception: Sub: R1350D, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-48: DF Exception: Sub: R1350D, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-49: DF Exception: Sub: R1351M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-49: DF Exception: Sub: R1354E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-49: DF Exception: Sub: R1354E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-50: DF Exception: Sub: R1355T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-50: DF Exception: Sub: R1355T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-50: DF Exception: Sub: R1355T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-50: DF Exception: Sub: R1358T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-51: DF Exception: Sub: R1361C, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-51: DF Exception: Sub: R1361C, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-51: DF Exception: Sub: R1363T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-51: DF Exception: Sub: R1363T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-52: DF Exception: Sub: R1364C, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-52: DF Exception: Sub: R1367D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-52: DF Exception: Sub: R1367D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-53: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-53: DF Exception: Sub: R1373T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-53: DF Exception: Sub: R1374T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-53: DF Exception: Sub: R1374T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-54: DF Exception: Sub: R1374T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-54: DF Exception: Sub: R1375C, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-54: DF Exception: Sub: R1376D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-54: DF Exception: Sub: R1377M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-55: DF Exception: Sub: R1377M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-55: DF Exception: Sub: R1377M, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-55: DF Exception: Sub: R1377M, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-55: DF Exception: Sub: R1378T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-56: DF Exception: Sub: R1378T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-56: DF Exception: Sub: R1378T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-56: DF Exception: Sub: R1378T, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-56: DF Exception: Sub: R1379E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-57: DF Exception: Sub: R1379E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-57: DF Exception: Sub: R1380D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-57: DF Exception: Sub: R1381T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-58: DF Exception: Sub: R1383J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-58: DF Exception: Sub: R1384J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-58: DF Exception: Sub: R1384J, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-58: DF Exception: Sub: R1384J, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-59: DF Exception: Sub: R1385E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-59: DF Exception: Sub: R1385E, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-06-59: DF Exception: Sub: R1385E, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-00: DF Exception: Sub: R1386T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-00: DF Exception: Sub: R1386T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-00: DF Exception: Sub: R1387E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-00: DF Exception: Sub: R1387E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-01: DF Exception: Sub: R1387E, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-01: DF Exception: Sub: R1390M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-01: DF Exception: Sub: R1391T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-01: DF Exception: Sub: R1391T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-01: DF Exception: Sub: R1391T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-02: DF Exception: Sub: R1393T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-02: DF Exception: Sub: R1394E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-02: DF Exception: Sub: R1394E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-03: DF Exception: Sub: R1395M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-03: DF Exception: Sub: R1395M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-03: DF Exception: Sub: R1395M, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-04: DF Exception: Sub: R1395M, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-04: DF Exception: Sub: R1395M, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-04: DF Exception: Sub: R1395M, Sess: 5, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-04: DF Exception: Sub: R1396T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-05: DF Exception: Sub: R1396T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-05: DF Exception: Sub: R1397D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-05: DF Exception: Sub: R1397D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-06: DF Exception: Sub: R1398J, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-06: DF Exception: Sub: R1398J, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-06: DF Exception: Sub: R1401J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-06: DF Exception: Sub: R1402E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-07: DF Exception: Sub: R1404E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-07: DF Exception: Sub: R1404E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-07: DF Exception: Sub: R1405E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-07: DF Exception: Sub: R1405E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-08: DF Exception: Sub: R1406M, Sess: 3, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-08: DF Exception: Sub: R1406M, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-08: DF Exception: Sub: R1409D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-08: DF Exception: Sub: R1409D, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-09: DF Exception: Sub: R1412M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-09: DF Exception: Sub: R1414E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-09: DF Exception: Sub: R1415T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-09: DF Exception: Sub: R1415T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-10: DF Exception: Sub: R1416T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-10: DF Exception: Sub: R1416T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-10: DF Exception: Sub: R1420T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-10: DF Exception: Sub: R1420T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-11: DF Exception: Sub: R1421M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-11: DF Exception: Sub: R1422T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-11: DF Exception: Sub: R1422T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-12: DF Exception: Sub: R1423E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-12: DF Exception: Sub: R1425D, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-12: DF Exception: Sub: R1425D, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-13: DF Exception: Sub: R1425D, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-13: DF Exception: Sub: R1427T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-13: DF Exception: Sub: R1427T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-13: DF Exception: Sub: R1427T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-14: DF Exception: Sub: R1431J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-14: DF Exception: Sub: R1433E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-14: DF Exception: Sub: R1436J, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-14: DF Exception: Sub: R1438M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-15: DF Exception: Sub: R1441T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-15: DF Exception: Sub: R1441T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-15: DF Exception: Sub: R1441T, Sess: 2, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-15: DF Exception: Sub: R1443D, Sess: 4, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-16: DF Exception: Sub: R1443D, Sess: 5, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-16: DF Exception: Sub: R1446T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-16: DF Exception: Sub: R1447M, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-16: DF Exception: Sub: R1448T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-17: DF Exception: Sub: R1449T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-17: DF Exception: Sub: R1449T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-17: DF Exception: Sub: R1454M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-17: DF Exception: Sub: R1457T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-18: DF Exception: Sub: R1457T, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-18: DF Exception: Sub: R1459M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-18: DF Exception: Sub: R1459M, Sess: 6, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-18: DF Exception: Sub: R1460M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-19: DF Exception: Sub: R1461T, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-19: DF Exception: Sub: R1462M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-19: DF Exception: Sub: R1463E, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-20: DF Exception: Sub: R1463E, Sess: 1, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-20: DF Exception: Sub: R1466J, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-20: DF Exception: Sub: R1467M, Sess: 0, NameError, name 'getPairsFromLocalizationTranslation' is not defined, file: <ipython-input-21-5eb4e91dd621>, line no: 128
+2020-08-18_14-07-57: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-22-5eb4e91dd621>, line no: 97
+2020-08-18_14-08-31: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-22-5eb4e91dd621>, line no: 97
+2020-08-18_14-09-24: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-22-5eb4e91dd621>, line no: 97
+2020-08-18_14-09-25: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-22-5eb4e91dd621>, line no: 97
+2020-08-18_14-09-32: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-22-5eb4e91dd621>, line no: 97
+2020-08-18_16-23-57: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-29-61dca21a9200>, line no: 129
+2020-08-18_16-23-58: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-29-61dca21a9200>, line no: 129
+2020-08-18_16-23-59: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-29-61dca21a9200>, line no: 129
+2020-08-18_16-24-01: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-29-61dca21a9200>, line no: 129
+2020-08-18_16-24-03: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-29-61dca21a9200>, line no: 129
+2020-08-18_16-35-33: DF Exception: Sub: R1345D, Sess: 0, NameError, name 'num_translations' is not defined, file: <ipython-input-6-61dca21a9200>, line no: 127
+2020-08-18_16-35-33: DF Exception: Sub: R1345D, Sess: 1, NameError, name 'num_translations' is not defined, file: <ipython-input-6-61dca21a9200>, line no: 127
+2020-08-18_16-35-33: DF Exception: Sub: R1345D, Sess: 2, NameError, name 'num_translations' is not defined, file: <ipython-input-6-61dca21a9200>, line no: 127
+2020-08-18_16-35-33: DF Exception: Sub: R1345D, Sess: 3, NameError, name 'num_translations' is not defined, file: <ipython-input-6-61dca21a9200>, line no: 127
+2020-08-18_16-35-34: DF Exception: Sub: R1345D, Sess: 4, NameError, name 'num_translations' is not defined, file: <ipython-input-6-61dca21a9200>, line no: 127
+2020-08-18_16-37-34: DF Exception: Sub: R1347D, Sess: 2, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-35: DF Exception: Sub: R1347D, Sess: 3, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-36: DF Exception: Sub: R1347D, Sess: 4, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-38: DF Exception: Sub: R1350D, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-40: DF Exception: Sub: R1350D, Sess: 1, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-42: DF Exception: Sub: R1350D, Sess: 2, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-44: DF Exception: Sub: R1350D, Sess: 3, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-46: DF Exception: Sub: R1351M, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-49: DF Exception: Sub: R1354E, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-52: DF Exception: Sub: R1354E, Sess: 1, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-54: DF Exception: Sub: R1355T, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-57: DF Exception: Sub: R1355T, Sess: 1, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-37-59: DF Exception: Sub: R1355T, Sess: 2, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-38-01: DF Exception: Sub: R1358T, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_16-38-02: DF Exception: Sub: R1361C, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-03: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-04: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-06: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-07: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-09: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 129
+2020-08-18_19-52-13: DF Exception: Sub: R1347D, Sess: 2, BdbQuit, , file: <ipython-input-4-7d66a84b08c4>, line no: 125
+2020-08-18_20-17-51: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-6-19b1a677b62f>, line no: 131
+2020-08-18_20-17-55: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-6-19b1a677b62f>, line no: 131
+2020-08-18_20-25-17: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-4-1e1a8c224598>, line no: 130
+2020-08-18_20-25-19: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-4-1e1a8c224598>, line no: 130
+2020-08-18_20-25-32: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-5-1e1a8c224598>, line no: 130
+2020-08-18_20-25-34: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-5-1e1a8c224598>, line no: 130
+2020-08-18_20-25-36: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-5-1e1a8c224598>, line no: 130
+2020-08-18_20-26-50: DF Exception: Sub: R1345D, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-51: DF Exception: Sub: R1345D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-51: DF Exception: Sub: R1345D, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-51: DF Exception: Sub: R1345D, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-52: DF Exception: Sub: R1345D, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-53: DF Exception: Sub: R1346T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-53: DF Exception: Sub: R1346T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-54: DF Exception: Sub: R1346T, Sess: 100, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-55: DF Exception: Sub: R1347D, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-55: DF Exception: Sub: R1347D, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-56: DF Exception: Sub: R1347D, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-57: DF Exception: Sub: R1349T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-58: DF Exception: Sub: R1350D, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-58: DF Exception: Sub: R1350D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-59: DF Exception: Sub: R1350D, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-26-59: DF Exception: Sub: R1350D, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-00: DF Exception: Sub: R1351M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-01: DF Exception: Sub: R1354E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-02: DF Exception: Sub: R1354E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-03: DF Exception: Sub: R1355T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-03: DF Exception: Sub: R1355T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-04: DF Exception: Sub: R1355T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-05: DF Exception: Sub: R1358T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-06: DF Exception: Sub: R1361C, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-06: DF Exception: Sub: R1361C, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-07: DF Exception: Sub: R1363T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-08: DF Exception: Sub: R1363T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-09: DF Exception: Sub: R1364C, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-11: DF Exception: Sub: R1368T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-12: DF Exception: Sub: R1373T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-13: DF Exception: Sub: R1374T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-13: DF Exception: Sub: R1374T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-14: DF Exception: Sub: R1374T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-15: DF Exception: Sub: R1375C, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-15: DF Exception: Sub: R1376D, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-16: DF Exception: Sub: R1377M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-17: DF Exception: Sub: R1377M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-17: DF Exception: Sub: R1377M, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-18: DF Exception: Sub: R1377M, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-19: DF Exception: Sub: R1378T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-19: DF Exception: Sub: R1378T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-20: DF Exception: Sub: R1378T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-20: DF Exception: Sub: R1378T, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-21: DF Exception: Sub: R1379E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-22: DF Exception: Sub: R1379E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-23: DF Exception: Sub: R1380D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-24: DF Exception: Sub: R1381T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-25: DF Exception: Sub: R1383J, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-26: DF Exception: Sub: R1384J, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-26: DF Exception: Sub: R1384J, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-27: DF Exception: Sub: R1384J, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-28: DF Exception: Sub: R1385E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-28: DF Exception: Sub: R1385E, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-29: DF Exception: Sub: R1385E, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-30: DF Exception: Sub: R1386T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-31: DF Exception: Sub: R1386T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-32: DF Exception: Sub: R1387E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-32: DF Exception: Sub: R1387E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-32: DF Exception: Sub: R1387E, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-33: DF Exception: Sub: R1390M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-34: DF Exception: Sub: R1391T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-34: DF Exception: Sub: R1391T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-35: DF Exception: Sub: R1391T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-36: DF Exception: Sub: R1393T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-37: DF Exception: Sub: R1394E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-37: DF Exception: Sub: R1394E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-38: DF Exception: Sub: R1395M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-39: DF Exception: Sub: R1395M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-40: DF Exception: Sub: R1395M, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-40: DF Exception: Sub: R1395M, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-41: DF Exception: Sub: R1395M, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-42: DF Exception: Sub: R1395M, Sess: 5, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-42: DF Exception: Sub: R1396T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-43: DF Exception: Sub: R1396T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-44: DF Exception: Sub: R1397D, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-44: DF Exception: Sub: R1397D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-45: DF Exception: Sub: R1398J, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-46: DF Exception: Sub: R1398J, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-47: DF Exception: Sub: R1401J, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-48: DF Exception: Sub: R1402E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-48: DF Exception: Sub: R1404E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-49: DF Exception: Sub: R1404E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-50: DF Exception: Sub: R1405E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-51: DF Exception: Sub: R1405E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-51: DF Exception: Sub: R1406M, Sess: 3, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-52: DF Exception: Sub: R1406M, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-53: DF Exception: Sub: R1409D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-53: DF Exception: Sub: R1409D, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-54: DF Exception: Sub: R1412M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-55: DF Exception: Sub: R1414E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-56: DF Exception: Sub: R1415T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-56: DF Exception: Sub: R1415T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-57: DF Exception: Sub: R1416T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-57: DF Exception: Sub: R1416T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-58: DF Exception: Sub: R1420T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-27-59: DF Exception: Sub: R1420T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-00: DF Exception: Sub: R1421M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-01: DF Exception: Sub: R1422T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-01: DF Exception: Sub: R1422T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-02: DF Exception: Sub: R1423E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-03: DF Exception: Sub: R1425D, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-03: DF Exception: Sub: R1425D, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-04: DF Exception: Sub: R1425D, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-05: DF Exception: Sub: R1427T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-06: DF Exception: Sub: R1427T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-06: DF Exception: Sub: R1427T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-07: DF Exception: Sub: R1431J, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-08: DF Exception: Sub: R1433E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-09: DF Exception: Sub: R1436J, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-10: DF Exception: Sub: R1438M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-11: DF Exception: Sub: R1441T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-11: DF Exception: Sub: R1441T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-12: DF Exception: Sub: R1441T, Sess: 2, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-12: DF Exception: Sub: R1443D, Sess: 4, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-13: DF Exception: Sub: R1443D, Sess: 5, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-14: DF Exception: Sub: R1446T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-14: DF Exception: Sub: R1447M, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-15: DF Exception: Sub: R1448T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-16: DF Exception: Sub: R1449T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-16: DF Exception: Sub: R1449T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-17: DF Exception: Sub: R1454M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-18: DF Exception: Sub: R1457T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-18: DF Exception: Sub: R1457T, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-19: DF Exception: Sub: R1459M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-20: DF Exception: Sub: R1459M, Sess: 6, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-20: DF Exception: Sub: R1460M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-21: DF Exception: Sub: R1461T, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-22: DF Exception: Sub: R1462M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-22: DF Exception: Sub: R1463E, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-23: DF Exception: Sub: R1463E, Sess: 1, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-24: DF Exception: Sub: R1466J, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-28-24: DF Exception: Sub: R1467M, Sess: 0, TypeError, unsupported operand type(s) for +: 'int' and 'str', file: <ipython-input-6-1e1a8c224598>, line no: 130
+2020-08-18_20-30-09: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-8-19b1a677b62f>, line no: 131
+2020-08-18_20-30-10: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-8-19b1a677b62f>, line no: 131
+2020-08-18_20-30-11: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-8-19b1a677b62f>, line no: 131
+2020-08-18_20-30-13: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-8-19b1a677b62f>, line no: 131
+2020-08-18_21-35-30: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-9-19b1a677b62f>, line no: 130
+2020-08-18_21-35-32: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-9-19b1a677b62f>, line no: 130
+2020-08-18_21-35-33: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-9-19b1a677b62f>, line no: 130
+2020-08-18_21-36-39: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-10-19b1a677b62f>, line no: 131
+2020-08-18_21-36-41: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-10-19b1a677b62f>, line no: 131
+2020-08-18_21-36-42: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-10-19b1a677b62f>, line no: 131
+2020-08-18_21-36-44: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-10-19b1a677b62f>, line no: 131
+2020-08-18_21-36-45: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-10-19b1a677b62f>, line no: 131
+2020-08-18_22-07-28: DF Exception: Sub: R1345D, Sess: 0, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-28: DF Exception: Sub: R1345D, Sess: 1, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-29: DF Exception: Sub: R1345D, Sess: 2, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-29: DF Exception: Sub: R1345D, Sess: 3, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-29: DF Exception: Sub: R1345D, Sess: 4, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-30: DF Exception: Sub: R1346T, Sess: 0, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-07-31: DF Exception: Sub: R1346T, Sess: 1, IndexError, list index out of range, file: <ipython-input-12-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-54: DF Exception: Sub: R1345D, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-54: DF Exception: Sub: R1345D, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-55: DF Exception: Sub: R1345D, Sess: 2, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-55: DF Exception: Sub: R1345D, Sess: 3, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-55: DF Exception: Sub: R1345D, Sess: 4, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-56: DF Exception: Sub: R1346T, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-56: DF Exception: Sub: R1346T, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-57: DF Exception: Sub: R1346T, Sess: 100, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-57: DF Exception: Sub: R1347D, Sess: 2, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-58: DF Exception: Sub: R1347D, Sess: 3, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-58: DF Exception: Sub: R1347D, Sess: 4, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-11-59: DF Exception: Sub: R1349T, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-00: DF Exception: Sub: R1350D, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-01: DF Exception: Sub: R1350D, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-01: DF Exception: Sub: R1350D, Sess: 2, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-02: DF Exception: Sub: R1350D, Sess: 3, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-03: DF Exception: Sub: R1351M, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-04: DF Exception: Sub: R1354E, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-04: DF Exception: Sub: R1354E, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-05: DF Exception: Sub: R1355T, Sess: 0, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_22-12-05: DF Exception: Sub: R1355T, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-d4b6219d40e4>, line no: 130
+2020-08-18_23-11-06: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-15-d4b6219d40e4>, line no: 130
+2020-08-18_23-11-09: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-15-d4b6219d40e4>, line no: 130
+2020-08-18_23-11-12: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-15-d4b6219d40e4>, line no: 130
+2020-08-19_01-10-18: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-16-d4b6219d40e4>, line no: 130
+2020-08-19_01-10-20: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-16-d4b6219d40e4>, line no: 130
+2020-08-19_01-10-23: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-16-d4b6219d40e4>, line no: 130
+2020-08-19_01-10-24: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-16-d4b6219d40e4>, line no: 130
+2020-08-19_01-16-13: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-17-d4b6219d40e4>, line no: 130
+2020-08-19_01-16-14: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-17-d4b6219d40e4>, line no: 130
+2020-08-19_01-16-16: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-17-d4b6219d40e4>, line no: 130
+2020-08-19_01-17-12: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-18-d4b6219d40e4>, line no: 130
+2020-08-19_01-17-13: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-18-d4b6219d40e4>, line no: 130
+2020-08-19_01-17-14: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-18-d4b6219d40e4>, line no: 130
+2020-08-19_01-23-10: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-19-d4b6219d40e4>, line no: 132
+2020-08-19_01-23-12: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-19-d4b6219d40e4>, line no: 132
