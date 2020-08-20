@@ -551,3 +551,14 @@
 2020-08-19_01-17-14: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-18-d4b6219d40e4>, line no: 130
 2020-08-19_01-23-10: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-19-d4b6219d40e4>, line no: 132
 2020-08-19_01-23-12: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-19-d4b6219d40e4>, line no: 132
+2020-08-19_02-09-31: DF Exception: Sub: R1461T, Sess: 0, BdbQuit, , file: <ipython-input-30-ae7f5ef0309b>, line no: 132
+2020-08-19_02-10-47: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-33-c78274ae9de4>, line no: 97
+2020-08-19_02-11-21: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-33-c78274ae9de4>, line no: 97
+2020-08-19_02-12-14: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-33-c78274ae9de4>, line no: 97
+2020-08-19_02-12-15: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-33-c78274ae9de4>, line no: 97
+2020-08-19_02-12-23: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-33-c78274ae9de4>, line no: 97
+2020-08-19_11-59-33: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-38-ab22ef5b7ce6>, line no: 132
+2020-08-19_11-59-35: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-38-ab22ef5b7ce6>, line no: 132
+2020-08-19_12-04-29: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-41-ef5932b4d2ed>, line no: 132
+2020-08-19_12-09-10: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-43-ef5932b4d2ed>, line no: 132
+2020-08-19_12-09-13: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-43-ef5932b4d2ed>, line no: 132
