@@ -562,3 +562,26 @@
 2020-08-19_12-04-29: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-41-ef5932b4d2ed>, line no: 132
 2020-08-19_12-09-10: DF Exception: Sub: R1463E, Sess: 0, BdbQuit, , file: <ipython-input-43-ef5932b4d2ed>, line no: 132
 2020-08-19_12-09-13: DF Exception: Sub: R1463E, Sess: 1, BdbQuit, , file: <ipython-input-43-ef5932b4d2ed>, line no: 132
+2020-08-20_16-20-39: DF Exception: Sub: R1345D, Sess: 0, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-40: DF Exception: Sub: R1345D, Sess: 1, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-40: DF Exception: Sub: R1345D, Sess: 2, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-41: DF Exception: Sub: R1345D, Sess: 3, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-41: DF Exception: Sub: R1345D, Sess: 4, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-43: DF Exception: Sub: R1347D, Sess: 2, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-44: DF Exception: Sub: R1347D, Sess: 3, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-45: DF Exception: Sub: R1347D, Sess: 4, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-46: DF Exception: Sub: R1350D, Sess: 0, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-47: DF Exception: Sub: R1350D, Sess: 1, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-47: DF Exception: Sub: R1350D, Sess: 2, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-47: DF Exception: Sub: R1350D, Sess: 3, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-48: DF Exception: Sub: R1351M, Sess: 0, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-49: DF Exception: Sub: R1354E, Sess: 0, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-49: DF Exception: Sub: R1354E, Sess: 1, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-50: DF Exception: Sub: R1355T, Sess: 0, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-51: DF Exception: Sub: R1355T, Sess: 1, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-20-51: DF Exception: Sub: R1355T, Sess: 2, NameError, name 'passxf' is not defined, file: <ipython-input-53-2e3a9c97bff9>, line no: 130
+2020-08-20_16-33-23: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-75-c78274ae9de4>, line no: 97
+2020-08-20_16-34-13: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-75-c78274ae9de4>, line no: 97
+2020-08-20_16-35-30: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-75-c78274ae9de4>, line no: 97
+2020-08-20_16-35-31: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-75-c78274ae9de4>, line no: 97
+2020-08-20_16-35-41: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-75-c78274ae9de4>, line no: 97
