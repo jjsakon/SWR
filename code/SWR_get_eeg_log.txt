@@ -600,3 +600,97 @@
 2020-08-21_10-50-47: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-183-fb30a184408c>, line no: 97
 2020-08-25_16-57-56: DF Exception: Sub: R1138T, Sess: 0, BdbQuit, , file: <ipython-input-4-588a0698e528>, line no: 160
 2020-08-25_17-05-37: DF Exception: Sub: R1138T, Sess: 0, BdbQuit, , file: <ipython-input-12-fb5bd274be79>, line no: 164
+2020-08-26_18-25-08: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-205-4924105da2c4>, line no: 95
+2020-08-26_18-25-50: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-205-4924105da2c4>, line no: 95
+2020-08-26_18-26-39: DF Exception: Sub: R1298E, Sess: 0, SystemError, <built-in function is_scalar> returned a result with an error set, file: <ipython-input-205-4924105da2c4>, line no: 127
+2020-08-26_18-27-59: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-210-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-00: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-210-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-16: DF Exception: Sub: R1001P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-16: DF Exception: Sub: R1001P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-17: DF Exception: Sub: R1002P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-17: DF Exception: Sub: R1002P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-17: DF Exception: Sub: R1003P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-18: DF Exception: Sub: R1003P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-18: DF Exception: Sub: R1006P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-18: DF Exception: Sub: R1006P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-19: DF Exception: Sub: R1010J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-19: DF Exception: Sub: R1010J, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-19: DF Exception: Sub: R1018P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-28-20: DF Exception: Sub: R1020J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-211-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-21: DF Exception: Sub: R1001P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-21: DF Exception: Sub: R1001P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-21: DF Exception: Sub: R1002P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-21: DF Exception: Sub: R1002P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-22: DF Exception: Sub: R1003P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-22: DF Exception: Sub: R1003P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-23: DF Exception: Sub: R1006P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-23: DF Exception: Sub: R1006P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-23: DF Exception: Sub: R1010J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-24: DF Exception: Sub: R1010J, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-24: DF Exception: Sub: R1018P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-24: DF Exception: Sub: R1020J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-25: DF Exception: Sub: R1022J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-25: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-25: DF Exception: Sub: R1026D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-26: DF Exception: Sub: R1027J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-26: DF Exception: Sub: R1030J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-26: DF Exception: Sub: R1031M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-26: DF Exception: Sub: R1032D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1033D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1034D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1034D, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1034D, Sess: 2, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1035M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1036M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-27: DF Exception: Sub: R1039M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-28: DF Exception: Sub: R1042M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-28: DF Exception: Sub: R1044J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-28: DF Exception: Sub: R1045E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-29: DF Exception: Sub: R1048E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-29-29: DF Exception: Sub: R1049J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-212-45de8d54c9c0>, line no: 128
+2020-08-26_18-30-03: DF Exception: Sub: R1001P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-30-43: DF Exception: Sub: R1001P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-05: DF Exception: Sub: R1002P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-18: DF Exception: Sub: R1002P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-20: DF Exception: Sub: R1003P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-44: DF Exception: Sub: R1003P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-50: DF Exception: Sub: R1006P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-31-52: DF Exception: Sub: R1006P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-13: DF Exception: Sub: R1010J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-16: DF Exception: Sub: R1010J, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-24: DF Exception: Sub: R1018P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-27: DF Exception: Sub: R1020J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-28: DF Exception: Sub: R1022J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-32-54: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-33-14: DF Exception: Sub: R1026D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-33-16: DF Exception: Sub: R1027J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-33-42: DF Exception: Sub: R1030J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-02: DF Exception: Sub: R1031M, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-04: DF Exception: Sub: R1032D, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-05: DF Exception: Sub: R1033D, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-06: DF Exception: Sub: R1034D, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-07: DF Exception: Sub: R1034D, Sess: 1, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-08: DF Exception: Sub: R1034D, Sess: 2, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-09: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-10: DF Exception: Sub: R1036M, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-38-11: DF Exception: Sub: R1039M, Sess: 0, BdbQuit, , file: <ipython-input-214-45de8d54c9c0>, line no: 128
+2020-08-26_18-40-15: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-215-a57bc923ff8b>, line no: 128
+2020-08-26_18-40-16: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-215-a57bc923ff8b>, line no: 128
+2020-08-26_18-42-18: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-216-a57bc923ff8b>, line no: 129
+2020-08-26_18-42-19: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-216-a57bc923ff8b>, line no: 129
+2020-08-26_18-44-52: DF Exception: Sub: R1001P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-52: DF Exception: Sub: R1001P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-53: DF Exception: Sub: R1002P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-53: DF Exception: Sub: R1002P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-53: DF Exception: Sub: R1003P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-54: DF Exception: Sub: R1003P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-54: DF Exception: Sub: R1006P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-55: DF Exception: Sub: R1006P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-56: DF Exception: Sub: R1018P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-56: DF Exception: Sub: R1020J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-44-57: DF Exception: Sub: R1026D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-217-45de8d54c9c0>, line no: 128
+2020-08-26_18-46-17: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
+2020-08-26_18-46-53: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
+2020-08-26_18-47-55: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
+2020-08-26_18-47-56: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
+2020-08-26_18-48-03: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
