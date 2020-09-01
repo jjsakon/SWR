@@ -694,3 +694,85 @@
 2020-08-26_18-47-55: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
 2020-08-26_18-47-56: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
 2020-08-26_18-48-03: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-218-45de8d54c9c0>, line no: 95
+2020-09-01_13-47-01: DF Exception: Sub: R1001P, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-01: DF Exception: Sub: R1001P, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-02: DF Exception: Sub: R1002P, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-02: DF Exception: Sub: R1002P, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-03: DF Exception: Sub: R1003P, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-03: DF Exception: Sub: R1003P, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-04: DF Exception: Sub: R1006P, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-04: DF Exception: Sub: R1006P, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-05: DF Exception: Sub: R1010J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-05: DF Exception: Sub: R1010J, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-06: DF Exception: Sub: R1018P, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-06: DF Exception: Sub: R1020J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-07: DF Exception: Sub: R1022J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-07: DF Exception: Sub: R1023J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-08: DF Exception: Sub: R1026D, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-08: DF Exception: Sub: R1027J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-09: DF Exception: Sub: R1030J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-09: DF Exception: Sub: R1031M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-10: DF Exception: Sub: R1032D, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-10: DF Exception: Sub: R1033D, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-10: DF Exception: Sub: R1034D, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-10: DF Exception: Sub: R1034D, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-10: DF Exception: Sub: R1034D, Sess: 2, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-11: DF Exception: Sub: R1035M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-11: DF Exception: Sub: R1036M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-11: DF Exception: Sub: R1039M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-12: DF Exception: Sub: R1042M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-12: DF Exception: Sub: R1044J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-13: DF Exception: Sub: R1045E, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-13: DF Exception: Sub: R1048E, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-14: DF Exception: Sub: R1049J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-14: DF Exception: Sub: R1050M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-14: DF Exception: Sub: R1051J, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-15: DF Exception: Sub: R1051J, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-15: DF Exception: Sub: R1051J, Sess: 2, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-16: DF Exception: Sub: R1052E, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-16: DF Exception: Sub: R1052E, Sess: 1, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-47-16: DF Exception: Sub: R1053M, Sess: 0, KeyError, 'avg.corrected.x', file: <ipython-input-229-0a4e97b8aedc>, line no: 114
+2020-09-01_13-54-15: DF Exception: Sub: R1001P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-15: DF Exception: Sub: R1001P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-16: DF Exception: Sub: R1002P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-16: DF Exception: Sub: R1002P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-16: DF Exception: Sub: R1003P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-17: DF Exception: Sub: R1003P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-17: DF Exception: Sub: R1006P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-17: DF Exception: Sub: R1006P, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-18: DF Exception: Sub: R1010J, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-18: DF Exception: Sub: R1010J, Sess: 1, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-18: DF Exception: Sub: R1018P, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-19: DF Exception: Sub: R1020J, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-19: DF Exception: Sub: R1022J, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-19: DF Exception: Sub: R1023J, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_13-54-19: DF Exception: Sub: R1026D, Sess: 0, TypeError, 'float' object is not callable, file: <ipython-input-232-3136991aea2d>, line no: 114
+2020-09-01_14-00-26: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-239-689264e873a2>, line no: 119
+2020-09-01_14-00-28: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-239-689264e873a2>, line no: 119
+2020-09-01_14-02-11: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-240-f218343e425d>, line no: 119
+2020-09-01_14-11-36: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-241-aaebe0d246ae>, line no: 116
+2020-09-01_14-11-37: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-241-aaebe0d246ae>, line no: 116
+2020-09-01_14-13-48: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-242-e7be17f086bb>, line no: 117
+2020-09-01_14-13-49: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-242-e7be17f086bb>, line no: 117
+2020-09-01_14-14-45: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-243-410ca99d197a>, line no: 121
+2020-09-01_14-14-47: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-243-410ca99d197a>, line no: 121
+2020-09-01_14-14-50: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-243-410ca99d197a>, line no: 121
+2020-09-01_14-15-40: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-244-2d60a3b9583a>, line no: 101
+2020-09-01_14-16-33: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-244-2d60a3b9583a>, line no: 101
+2020-09-01_14-17-58: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-244-2d60a3b9583a>, line no: 101
+2020-09-01_14-18-00: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-244-2d60a3b9583a>, line no: 101
+2020-09-01_14-18-11: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-244-2d60a3b9583a>, line no: 101
+2020-09-01_15-08-46: DF Exception: Sub: R1031M, Sess: 0, IndexError, single positional indexer is out-of-bounds, file: <ipython-input-273-a8055f7f3611>, line no: 121
+2020-09-01_15-09-10: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-273-a8055f7f3611>, line no: 101
+2020-09-01_15-09-45: DF Exception: Sub: R1169P, Sess: 0, IndexError, single positional indexer is out-of-bounds, file: <ipython-input-273-a8055f7f3611>, line no: 121
+2020-09-01_15-09-45: DF Exception: Sub: R1169P, Sess: 1, IndexError, single positional indexer is out-of-bounds, file: <ipython-input-273-a8055f7f3611>, line no: 121
+2020-09-01_15-09-46: DF Exception: Sub: R1171M, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-273-a8055f7f3611>, line no: 101
+2020-09-01_15-10-42: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-273-a8055f7f3611>, line no: 101
+2020-09-01_15-10-43: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-273-a8055f7f3611>, line no: 101
+2020-09-01_15-10-51: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-273-a8055f7f3611>, line no: 101
+2020-09-01_17-27-50: DF Exception: Sub: R1397D, Sess: 0, BdbQuit, , file: <ipython-input-7-199c86d5eed0>, line no: 109
+2020-09-01_17-27-52: DF Exception: Sub: R1397D, Sess: 1, BdbQuit, , file: <ipython-input-7-199c86d5eed0>, line no: 109
+2020-09-01_17-28-31: DF Exception: Sub: R1397D, Sess: 0, NameError, name 'atlas_name' is not defined, file: <ipython-input-8-83004b4579bc>, line no: 350
+2020-09-01_17-28-58: DF Exception: Sub: R1397D, Sess: 1, NameError, name 'atlas_name' is not defined, file: <ipython-input-8-83004b4579bc>, line no: 350
+2020-09-01_17-45-11: DF Exception: Sub: R1397D, Sess: 0, BdbQuit, , file: <ipython-input-9-7dc2ce2637b1>, line no: 351
+2020-09-01_17-46-01: DF Exception: Sub: R1397D, Sess: 1, BdbQuit, , file: <ipython-input-9-7dc2ce2637b1>, line no: 351
