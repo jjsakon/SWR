@@ -2256,3 +2256,31 @@
 2020-09-03_23-43-44: DF Exception: Sub: R1329T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-132-07b8db227420>, line no: 101
 2020-09-03_23-43-45: DF Exception: Sub: R1331T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-132-07b8db227420>, line no: 101
 2020-09-03_23-43-53: DF Exception: Sub: R1341T, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-132-07b8db227420>, line no: 101
+2020-09-04_15-58-09: DF Exception: Sub: R1354E, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-151-6f1ba424625e>, line no: 101
+2020-09-06_15-43-24: DF Exception: Sub: R1044J, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-3-5ff8566fec5e>, line no: 306
+2020-09-06_15-44-54: DF Exception: Sub: R1491T, Sess: 1, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-3-5ff8566fec5e>, line no: 306
+2020-09-06_15-45-06: DF Exception: Sub: R1491T, Sess: 2, BdbQuit, , file: <ipython-input-3-5ff8566fec5e>, line no: 202
+2020-09-06_15-45-07: DF Exception: Sub: R1491T, Sess: 3, IndexError, too many indices for array, file: <ipython-input-3-5ff8566fec5e>, line no: 202
+2020-09-06_15-47-14: DF Exception: Sub: R1044J, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-4-5ff8566fec5e>, line no: 306
+2020-09-06_15-48-23: DF Exception: Sub: R1491T, Sess: 1, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-4-5ff8566fec5e>, line no: 306
+2020-09-06_15-51-06: DF Exception: Sub: R1491T, Sess: 3, IndexError, too many indices for array, file: <ipython-input-4-5ff8566fec5e>, line no: 286
+2020-09-06_16-12-26: DF Exception: Sub: R1491T, Sess: 5, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-4-5ff8566fec5e>, line no: 306
+2020-09-06_16-40-54: DF Exception: Sub: R1491T, Sess: 5, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-6-5ff8566fec5e>, line no: 306
+2020-09-06_16-44-25: DF Exception: Sub: R1221P, Sess: 0, ValueError, A filter with an even number of coefficients must have zero response at the Nyquist frequency., file: <ipython-input-9-5ff8566fec5e>, line no: 188
+2020-09-06_16-44-30: DF Exception: Sub: R1221P, Sess: 1, ValueError, A filter with an even number of coefficients must have zero response at the Nyquist frequency., file: <ipython-input-9-5ff8566fec5e>, line no: 188
+2020-09-06_16-44-35: DF Exception: Sub: R1221P, Sess: 2, ValueError, A filter with an even number of coefficients must have zero response at the Nyquist frequency., file: <ipython-input-9-5ff8566fec5e>, line no: 188
+2020-09-06_16-50-20: DF Exception: Sub: R1221P, Sess: 0, BdbQuit, , file: <ipython-input-10-09c602b13731>, line no: 188
+2020-09-06_16-50-31: DF Exception: Sub: R1221P, Sess: 1, BdbQuit, , file: <ipython-input-10-09c602b13731>, line no: 188
+2020-09-06_16-50-34: DF Exception: Sub: R1221P, Sess: 2, BdbQuit, , file: <ipython-input-10-09c602b13731>, line no: 188
+2020-09-08_16-01-00: DF Exception: Sub: R1496T, Sess: 0, BdbQuit, , file: <ipython-input-151-417a277be8d4>, line no: 310
+2020-09-08_16-01-16: DF Exception: Sub: R1496T, Sess: 1, BdbQuit, , file: <ipython-input-151-417a277be8d4>, line no: 310
+2020-09-08_17-38-47: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-165-999d819b18d3>, line no: 180
+2020-09-08_17-38-49: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-165-999d819b18d3>, line no: 180
+2020-09-08_17-43-20: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-166-626ef032dbd7>, line no: 144
+2020-09-08_17-43-22: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-166-626ef032dbd7>, line no: 144
+2020-09-08_17-43-48: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-167-14b6b1d443fe>, line no: 146
+2020-09-08_17-43-50: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-167-14b6b1d443fe>, line no: 146
+2020-09-09_01-00-29: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-4-b263b6277c75>, line no: 367
+2020-09-09_02-01-13: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-23-dd498e3787f6>, line no: 368
+2020-09-09_11-07-10: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-43-dd498e3787f6>, line no: 368
+2020-09-09_11-51-20: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-73-dd498e3787f6>, line no: 368
