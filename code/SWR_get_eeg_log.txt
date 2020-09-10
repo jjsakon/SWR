@@ -2284,3 +2284,25 @@
 2020-09-09_02-01-13: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-23-dd498e3787f6>, line no: 368
 2020-09-09_11-07-10: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-43-dd498e3787f6>, line no: 368
 2020-09-09_11-51-20: DF Exception: Sub: R1405E, Sess: 1, BdbQuit, , file: <ipython-input-73-dd498e3787f6>, line no: 368
+2020-09-09_16-00-25: DF Exception: Sub: R1486J, Sess: 6, BdbQuit, , file: <ipython-input-123-dd498e3787f6>, line no: 368
+2020-09-09_20-07-13: DF Exception: Sub: R1486J, Sess: 2, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-14: DF Exception: Sub: R1486J, Sess: 3, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-16: DF Exception: Sub: R1486J, Sess: 4, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-18: DF Exception: Sub: R1486J, Sess: 5, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-19: DF Exception: Sub: R1486J, Sess: 0, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-22: DF Exception: Sub: R1486J, Sess: 1, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-23: DF Exception: Sub: R1486J, Sess: 2, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-23: DF Exception: Sub: R1486J, Sess: 3, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-24: DF Exception: Sub: R1486J, Sess: 4, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-25: DF Exception: Sub: R1486J, Sess: 5, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-26: DF Exception: Sub: R1486J, Sess: 6, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-09_20-07-27: DF Exception: Sub: R1486J, Sess: 7, BdbQuit, , file: <ipython-input-9-575f3342a6bb>, line no: 81
+2020-09-10_00-26-29: DF Exception: Sub: R1486J, Sess: 2, TypeError, get_elec_regions() missing 1 required positional argument: 'pairs', file: <ipython-input-12-e8989787f966>, line no: 83
+2020-09-10_00-42-03: DF Exception: Sub: R1486J, Sess: 2, ValueError, too many values to unpack (expected 2), file: <ipython-input-13-e4382c8d908d>, line no: 89
+2020-09-10_00-46-04: DF Exception: Sub: R1486J, Sess: 2, NameError, name 'findStimbp' is not defined, file: <ipython-input-14-41795222d071>, line no: 91
+2020-09-10_00-58-34: DF Exception: Sub: R1486J, Sess: 2, BdbQuit, , file: <ipython-input-3-41795222d071>, line no: 103
+2020-09-10_01-26-18: DF Exception: Sub: R1486J, Sess: 6, BdbQuit, , file: <ipython-input-14-f4d13e8c4ce8>, line no: 118
+2020-09-10_01-48-35: DF Exception: Sub: R1486J, Sess: 6, AttributeError, 'numpy.ndarray' object has no attribute 'extend', file: <ipython-input-29-41063863ea24>, line no: 125
+2020-09-10_01-48-58: DF Exception: Sub: R1486J, Sess: 6, AttributeError, 'numpy.ndarray' object has no attribute 'append', file: <ipython-input-30-f65fb97bfa83>, line no: 125
+2020-09-10_01-51-10: DF Exception: Sub: R1486J, Sess: 1, ValueError, zero-size array to reduction operation minimum which has no identity, file: <ipython-input-38-8ee12ef78aea>, line no: 126
+2020-09-10_01-51-12: DF Exception: Sub: R1486J, Sess: 5, ValueError, zero-size array to reduction operation minimum which has no identity, file: <ipython-input-38-8ee12ef78aea>, line no: 126
