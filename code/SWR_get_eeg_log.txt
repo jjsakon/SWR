@@ -702,3 +702,95 @@
 2020-09-19_16-36-38: DF Exception: Sub: R1394E, Sess: 0, BdbQuit, , file: <ipython-input-179-81a1c8fe5ab6>, line no: 160
 2020-09-19_16-36-40: DF Exception: Sub: R1394E, Sess: 1, BdbQuit, , file: <ipython-input-179-81a1c8fe5ab6>, line no: 160
 2020-09-19_16-36-42: DF Exception: Sub: R1402E, Sess: 0, BdbQuit, , file: <ipython-input-179-81a1c8fe5ab6>, line no: 160
+2020-09-22_14-10-21: DF Exception: Sub: R1379E, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-22: DF Exception: Sub: R1379E, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-22: DF Exception: Sub: R1389J, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-23: DF Exception: Sub: R1389J, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-23: DF Exception: Sub: R1389J, Sess: 2, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-24: DF Exception: Sub: R1389J, Sess: 3, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-24: DF Exception: Sub: R1395M, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-25: DF Exception: Sub: R1395M, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-26: DF Exception: Sub: R1395M, Sess: 2, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-26: DF Exception: Sub: R1395M, Sess: 3, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-27: DF Exception: Sub: R1395M, Sess: 4, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-27: DF Exception: Sub: R1395M, Sess: 5, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-28: DF Exception: Sub: R1395M, Sess: 6, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-28: DF Exception: Sub: R1396T, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-29: DF Exception: Sub: R1404E, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-29: DF Exception: Sub: R1404E, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-10-30: DF Exception: Sub: R1415T, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-206-07d781301e6b>, line no: 163
+2020-09-22_14-28-43: DF Exception: Sub: R1379E, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-45: DF Exception: Sub: R1379E, Sess: 1, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-46: DF Exception: Sub: R1389J, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-48: DF Exception: Sub: R1389J, Sess: 1, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-49: DF Exception: Sub: R1389J, Sess: 2, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-50: DF Exception: Sub: R1389J, Sess: 3, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-51: DF Exception: Sub: R1395M, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-52: DF Exception: Sub: R1395M, Sess: 1, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-53: DF Exception: Sub: R1395M, Sess: 2, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-54: DF Exception: Sub: R1395M, Sess: 3, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-55: DF Exception: Sub: R1395M, Sess: 4, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-56: DF Exception: Sub: R1395M, Sess: 5, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-58: DF Exception: Sub: R1395M, Sess: 6, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-28-59: DF Exception: Sub: R1396T, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-29-01: DF Exception: Sub: R1404E, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-29-02: DF Exception: Sub: R1404E, Sess: 1, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_14-29-03: DF Exception: Sub: R1415T, Sess: 0, BdbQuit, , file: <ipython-input-209-18f4ebdc18a3>, line no: 161
+2020-09-22_15-42-11: DF Exception: Sub: R1379E, Sess: 1, BdbQuit, , file: <ipython-input-210-4d8b98a03085>, line no: 225
+2020-09-22_15-45-20: DF Exception: Sub: R1389J, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-20: DF Exception: Sub: R1389J, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-21: DF Exception: Sub: R1389J, Sess: 2, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-21: DF Exception: Sub: R1389J, Sess: 3, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-22: DF Exception: Sub: R1395M, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-22: DF Exception: Sub: R1395M, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-23: DF Exception: Sub: R1395M, Sess: 2, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-23: DF Exception: Sub: R1395M, Sess: 3, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-24: DF Exception: Sub: R1395M, Sess: 4, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-25: DF Exception: Sub: R1395M, Sess: 5, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-25: DF Exception: Sub: R1395M, Sess: 6, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-25: DF Exception: Sub: R1396T, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-26: DF Exception: Sub: R1404E, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-26: DF Exception: Sub: R1404E, Sess: 1, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_15-45-27: DF Exception: Sub: R1415T, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-211-532dc87abdf0>, line no: 163
+2020-09-22_16-26-53: DF Exception: Sub: R1389J, Sess: 0, TypeError, unsupported operand type(s) for &: 'str' and 'int', file: <ipython-input-213-18087dbe0522>, line no: 164
+2020-09-22_16-27-03: DF Exception: Sub: R1389J, Sess: 1, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-07: DF Exception: Sub: R1389J, Sess: 2, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-08: DF Exception: Sub: R1389J, Sess: 3, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-13: DF Exception: Sub: R1395M, Sess: 0, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-15: DF Exception: Sub: R1395M, Sess: 1, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-17: DF Exception: Sub: R1395M, Sess: 2, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-18: DF Exception: Sub: R1395M, Sess: 3, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-21: DF Exception: Sub: R1395M, Sess: 4, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-22: DF Exception: Sub: R1395M, Sess: 5, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-24: DF Exception: Sub: R1395M, Sess: 6, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-25: DF Exception: Sub: R1396T, Sess: 0, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-27: DF Exception: Sub: R1404E, Sess: 0, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-29: DF Exception: Sub: R1404E, Sess: 1, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-31: DF Exception: Sub: R1415T, Sess: 0, BdbQuit, , file: <ipython-input-213-18087dbe0522>, line no: 117
+2020-09-22_16-27-51: DF Exception: Sub: R1389J, Sess: 0, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-27-52: DF Exception: Sub: R1389J, Sess: 1, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-27-52: DF Exception: Sub: R1389J, Sess: 2, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-27-52: DF Exception: Sub: R1389J, Sess: 3, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-36-34: DF Exception: Sub: R1404E, Sess: 1, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-36-34: DF Exception: Sub: R1415T, Sess: 0, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-214-4ca264fb34d0>, line no: 173
+2020-09-22_16-51-52: DF Exception: Sub: R1389J, Sess: 0, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-215-c8b1500735e7>, line no: 173
+2020-09-22_16-51-53: DF Exception: Sub: R1389J, Sess: 1, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-215-c8b1500735e7>, line no: 173
+2020-09-22_16-51-53: DF Exception: Sub: R1389J, Sess: 2, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-215-c8b1500735e7>, line no: 173
+2020-09-22_16-51-54: DF Exception: Sub: R1389J, Sess: 3, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-215-c8b1500735e7>, line no: 173
+2020-09-22_16-53-40: DF Exception: Sub: R1389J, Sess: 0, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-216-c8b1500735e7>, line no: 173
+2020-09-22_16-53-41: DF Exception: Sub: R1389J, Sess: 1, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-216-c8b1500735e7>, line no: 173
+2020-09-22_16-53-41: DF Exception: Sub: R1389J, Sess: 2, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-216-c8b1500735e7>, line no: 173
+2020-09-22_16-53-42: DF Exception: Sub: R1389J, Sess: 3, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-216-c8b1500735e7>, line no: 173
+2020-09-22_16-58-05: DF Exception: Sub: R1389J, Sess: 0, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-3-c8b1500735e7>, line no: 173
+2020-09-22_16-58-05: DF Exception: Sub: R1389J, Sess: 1, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-3-c8b1500735e7>, line no: 173
+2020-09-22_16-58-06: DF Exception: Sub: R1389J, Sess: 2, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-3-c8b1500735e7>, line no: 173
+2020-09-22_16-58-06: DF Exception: Sub: R1389J, Sess: 3, TypeError, '>=' not supported between instances of 'list' and 'int', file: <ipython-input-3-c8b1500735e7>, line no: 173
+2020-09-22_18-19-17: DF Exception: Sub: R1379E, Sess: 0, BdbQuit, , file: <ipython-input-38-4fcfd7e8f343>, line no: 176
+2020-09-22_18-19-19: DF Exception: Sub: R1379E, Sess: 1, BdbQuit, , file: <ipython-input-38-4fcfd7e8f343>, line no: 176
+2020-09-22_18-38-16: DF Exception: Sub: R1379E, Sess: 0, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-17: DF Exception: Sub: R1379E, Sess: 1, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-17: DF Exception: Sub: R1395M, Sess: 0, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-18: DF Exception: Sub: R1395M, Sess: 1, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-19: DF Exception: Sub: R1395M, Sess: 2, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-19: DF Exception: Sub: R1395M, Sess: 3, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
+2020-09-22_18-38-20: DF Exception: Sub: R1395M, Sess: 4, NameError, name 'correctEEGoffset' is not defined, file: <ipython-input-40-764db8955114>, line no: 159
