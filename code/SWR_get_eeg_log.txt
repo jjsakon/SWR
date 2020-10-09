@@ -1,0 +1,11 @@
+2020-10-08_22-58-19: DF Exception: Sub: R1093J, Sess: 0, NameError, name 'first_of_list_list' is not defined, file: <ipython-input-4-ee368a498316>, line no: 94
+2020-10-08_23-02-16: DF Exception: Sub: R1093J, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-5-ee368a498316>, line no: 94
+2020-10-08_23-03-16: DF Exception: Sub: R1093J, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-6-ee368a498316>, line no: 94
+2020-10-08_23-15-41: DF Exception: Sub: R1093J, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-7-ee368a498316>, line no: 94
+2020-10-08_23-22-50: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-8-ee368a498316>, line no: 94
+2020-10-08_23-23-51: DF Exception: Sub: R1093J, Sess: 0, TypeError, 'int' object is not iterable, file: <ipython-input-9-ee368a498316>, line no: 94
+2020-10-08_23-25-55: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-10-ee368a498316>, line no: 94
+2020-10-08_23-27-23: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-11-ee368a498316>, line no: 94
+2020-10-08_23-30-44: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-12-ee368a498316>, line no: 94
+2020-10-08_23-31-36: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-13-e7218482d997>, line no: 95
+2020-10-08_23-32-05: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-14-5508891d47f6>, line no: 95
