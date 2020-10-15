@@ -9,3 +9,15 @@
 2020-10-08_23-30-44: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-12-ee368a498316>, line no: 94
 2020-10-08_23-31-36: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-13-e7218482d997>, line no: 95
 2020-10-08_23-32-05: DF Exception: Sub: R1093J, Sess: 0, BdbQuit, , file: <ipython-input-14-5508891d47f6>, line no: 95
+2020-10-14_01-15-52: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-4-f90efb7f29c1>, line no: 164
+2020-10-14_01-22-42: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-5-1072f0a205f0>, line no: 167
+2020-10-14_01-27-23: DF Exception: Sub: R1169P, Sess: 0, NameError, name 'pcs' is not defined, file: <ipython-input-6-08bb62af33f6>, line no: 184
+2020-10-14_01-30-29: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-10-0bc1e4b0e2e1>, line no: 160
+2020-10-14_01-30-31: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-10-0bc1e4b0e2e1>, line no: 160
+2020-10-14_01-33-03: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-14-0bc1e4b0e2e1>, line no: 181
+2020-10-15_01-07-11: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'recall_minimum' is not defined, file: <ipython-input-25-ed7d507a4bdd>, line no: 196
+2020-10-15_01-07-11: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'recall_minimum' is not defined, file: <ipython-input-25-ed7d507a4bdd>, line no: 196
+2020-10-15_01-13-07: DF Exception: Sub: R1334T, Sess: 0, IndexError, boolean index did not match indexed array along dimension 0; dimension is 56 but corresponding boolean dimension is 80, file: <ipython-input-26-037d89b6f669>, line no: 452
+2020-10-15_01-13-36: DF Exception: Sub: R1368T, Sess: 0, IndexError, boolean index did not match indexed array along dimension 0; dimension is 16 but corresponding boolean dimension is 26, file: <ipython-input-26-037d89b6f669>, line no: 452
+2020-10-15_02-08-39: DF Exception: Sub: R1334T, Sess: 0, IndexError, list index out of range, file: <ipython-input-4-57cbb0c1efc4>, line no: 172
+2020-10-15_02-08-40: DF Exception: Sub: R1368T, Sess: 0, IndexError, list index out of range, file: <ipython-input-4-57cbb0c1efc4>, line no: 172
