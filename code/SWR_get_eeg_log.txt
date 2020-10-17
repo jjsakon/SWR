@@ -49,3 +49,49 @@
 2020-10-16_23-54-10: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-10-361e3f939ad9>, line no: 202
 2020-10-16_23-55-47: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-11-361e3f939ad9>, line no: 226
 2020-10-16_23-55-49: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-11-361e3f939ad9>, line no: 226
+2020-10-17_01-30-09: DF Exception: Sub: R1334T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-15-c2e46f9be4bf>, line no: 227
+2020-10-17_01-30-09: DF Exception: Sub: R1368T, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-15-c2e46f9be4bf>, line no: 227
+2020-10-17_01-31-57: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-16-c2e46f9be4bf>, line no: 227
+2020-10-17_01-31-58: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-16-c2e46f9be4bf>, line no: 227
+2020-10-17_01-51-45: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-18-1af58cf94437>, line no: 131
+2020-10-17_01-51-45: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-18-1af58cf94437>, line no: 131
+2020-10-17_01-52-09: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-19-1af58cf94437>, line no: 131
+2020-10-17_01-52-09: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-19-1af58cf94437>, line no: 131
+2020-10-17_01-52-27: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-21-1af58cf94437>, line no: 131
+2020-10-17_01-52-27: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-21-1af58cf94437>, line no: 131
+2020-10-17_01-53-27: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-22-1af58cf94437>, line no: 131
+2020-10-17_01-53-27: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'getSerialposOfRecalls' is not defined, file: <ipython-input-22-1af58cf94437>, line no: 131
+2020-10-17_01-53-44: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'ln' is not defined, file: <ipython-input-24-1af58cf94437>, line no: 131
+2020-10-17_01-53-44: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'ln' is not defined, file: <ipython-input-24-1af58cf94437>, line no: 131
+2020-10-17_02-13-07: DF Exception: Sub: R1334T, Sess: 0, IndexError, list index out of range, file: <ipython-input-25-211b27af8524>, line no: 185
+2020-10-17_02-13-07: DF Exception: Sub: R1368T, Sess: 0, IndexError, list index out of range, file: <ipython-input-25-211b27af8524>, line no: 185
+2020-10-17_02-18-29: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'list_recalls_df' is not defined, file: <ipython-input-4-29fe11e4b46e>, line no: 217
+2020-10-17_02-18-29: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'list_recalls_df' is not defined, file: <ipython-input-4-29fe11e4b46e>, line no: 217
+2020-10-17_02-20-09: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'nonrepeat_idxs' is not defined, file: <ipython-input-5-29fe11e4b46e>, line no: 217
+2020-10-17_02-20-09: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'nonrepeat_idxs' is not defined, file: <ipython-input-5-29fe11e4b46e>, line no: 217
+2020-10-17_02-29-11: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-4-cf562e257364>, line no: 221
+2020-10-17_02-29-13: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-4-cf562e257364>, line no: 221
+2020-10-17_02-40-31: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-5-c658ab472995>, line no: 193
+2020-10-17_02-40-32: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-5-c658ab472995>, line no: 193
+2020-10-17_02-42-07: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-6-c658ab472995>, line no: 193
+2020-10-17_02-42-08: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-6-c658ab472995>, line no: 193
+2020-10-17_02-45-20: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-7-c658ab472995>, line no: 193
+2020-10-17_02-45-22: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-7-c658ab472995>, line no: 193
+2020-10-17_02-46-08: DF Exception: Sub: R1334T, Sess: 0, ValueError, Item wrong length 1 instead of 111., file: <ipython-input-8-c658ab472995>, line no: 221
+2020-10-17_02-46-08: DF Exception: Sub: R1368T, Sess: 0, ValueError, Item wrong length 1 instead of 44., file: <ipython-input-8-c658ab472995>, line no: 221
+2020-10-17_02-49-10: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-9-ceb70cddfcbe>, line no: 220
+2020-10-17_02-49-11: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-9-ceb70cddfcbe>, line no: 220
+2020-10-17_02-52-24: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-10-4c47e1ab6783>, line no: 194
+2020-10-17_02-52-25: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-10-4c47e1ab6783>, line no: 194
+2020-10-17_02-54-13: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-11-b8b520bc681f>, line no: 199
+2020-10-17_02-54-15: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-11-b8b520bc681f>, line no: 194
+2020-10-17_02-56-32: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-12-812e6fdb81f4>, line no: 196
+2020-10-17_02-56-33: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-12-812e6fdb81f4>, line no: 196
+2020-10-17_03-02-24: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-13-84e44c1c9220>, line no: 195
+2020-10-17_03-02-24: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-13-84e44c1c9220>, line no: 195
+2020-10-17_03-11-05: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-14-84e44c1c9220>, line no: 195
+2020-10-17_03-11-06: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-14-84e44c1c9220>, line no: 195
+2020-10-17_03-13-13: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-15-e744d800aaf9>, line no: 195
+2020-10-17_03-13-14: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-15-e744d800aaf9>, line no: 195
+2020-10-17_03-15-03: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-16-1f6f04cf0463>, line no: 216
+2020-10-17_03-15-04: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-16-1f6f04cf0463>, line no: 216
