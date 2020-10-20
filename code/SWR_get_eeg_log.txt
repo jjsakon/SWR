@@ -95,3 +95,91 @@
 2020-10-17_03-13-14: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-15-e744d800aaf9>, line no: 195
 2020-10-17_03-15-03: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-16-1f6f04cf0463>, line no: 216
 2020-10-17_03-15-04: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-16-1f6f04cf0463>, line no: 216
+2020-10-17_12-28-20: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-18-1f6f04cf0463>, line no: 216
+2020-10-17_13-11-47: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-18-1f6f04cf0463>, line no: 216
+2020-10-19_15-55-37: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-6-5a77eb8dc05b>, line no: 198
+2020-10-19_15-55-39: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-6-5a77eb8dc05b>, line no: 198
+2020-10-19_15-55-40: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-6-5a77eb8dc05b>, line no: 198
+2020-10-19_15-59-15: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-7-5a77eb8dc05b>, line no: 198
+2020-10-19_15-59-16: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-7-5a77eb8dc05b>, line no: 198
+2020-10-19_15-59-17: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-7-5a77eb8dc05b>, line no: 198
+2020-10-19_16-01-25: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-8-5a77eb8dc05b>, line no: 198
+2020-10-19_16-01-26: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-8-5a77eb8dc05b>, line no: 198
+2020-10-19_16-01-28: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-8-5a77eb8dc05b>, line no: 198
+2020-10-19_16-02-32: DF Exception: Sub: R1169P, Sess: 0, IndexError, too many indices for array, file: <ipython-input-9-5a77eb8dc05b>, line no: 198
+2020-10-19_16-02-52: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-9-5a77eb8dc05b>, line no: 198
+2020-10-19_16-02-53: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-9-5a77eb8dc05b>, line no: 198
+2020-10-19_16-40-10: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-4-5a77eb8dc05b>, line no: 198
+2020-10-19_16-40-10: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-4-5a77eb8dc05b>, line no: 198
+2020-10-19_16-40-11: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-4-5a77eb8dc05b>, line no: 198
+2020-10-19_16-48-22: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-5-8584f59e48ec>, line no: 199
+2020-10-19_16-48-22: DF Exception: Sub: R1334T, Sess: 0, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-5-8584f59e48ec>, line no: 199
+2020-10-19_16-48-23: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-5-8584f59e48ec>, line no: 199
+2020-10-19_16-48-54: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-6-407a529031ed>, line no: 198
+2020-10-19_16-48-55: DF Exception: Sub: R1334T, Sess: 0, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-6-407a529031ed>, line no: 198
+2020-10-19_16-50-59: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-4-407a529031ed>, line no: 198
+2020-10-19_16-50-59: DF Exception: Sub: R1334T, Sess: 0, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-4-407a529031ed>, line no: 198
+2020-10-19_16-52-21: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-4-407a529031ed>, line no: 199
+2020-10-19_16-56-10: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-5-2f3f6b940c03>, line no: 198
+2020-10-19_16-56-10: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-5-2f3f6b940c03>, line no: 198
+2020-10-19_16-56-11: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-5-2f3f6b940c03>, line no: 198
+2020-10-19_16-59-03: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-6-2f3f6b940c03>, line no: 199
+2020-10-19_16-59-04: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-6-2f3f6b940c03>, line no: 199
+2020-10-19_16-59-05: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-6-2f3f6b940c03>, line no: 199
+2020-10-19_17-03-22: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-7-f29c5c52f41c>, line no: 198
+2020-10-19_17-03-59: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-7-f29c5c52f41c>, line no: 198
+2020-10-19_17-03-59: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-7-f29c5c52f41c>, line no: 198
+2020-10-19_17-04-49: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-8-f29c5c52f41c>, line no: 198
+2020-10-19_17-13-20: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'nonrepeat_idxs' is not defined, file: <ipython-input-8-f29c5c52f41c>, line no: 222
+2020-10-19_17-13-46: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-8-f29c5c52f41c>, line no: 200
+2020-10-19_17-13-57: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-9-f29c5c52f41c>, line no: 198
+2020-10-19_17-14-01: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-9-f29c5c52f41c>, line no: 200
+2020-10-19_17-14-02: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-9-f29c5c52f41c>, line no: 200
+2020-10-19_17-29-42: DF Exception: Sub: R1169P, Sess: 0, ValueError, list.remove(x): x not in list, file: <ipython-input-10-f29c5c52f41c>, line no: 198
+2020-10-19_17-29-49: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-10-f29c5c52f41c>, line no: 198
+2020-10-19_17-29-50: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-10-f29c5c52f41c>, line no: 198
+2020-10-19_17-35-01: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-11-f29c5c52f41c>, line no: 198
+2020-10-19_17-35-02: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-11-f29c5c52f41c>, line no: 198
+2020-10-19_17-35-03: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-11-f29c5c52f41c>, line no: 198
+2020-10-19_17-47-55: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-12-f29c5c52f41c>, line no: 198
+2020-10-19_17-47-56: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-12-f29c5c52f41c>, line no: 198
+2020-10-19_17-47-57: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-12-f29c5c52f41c>, line no: 198
+2020-10-19_17-50-29: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-13-f29c5c52f41c>, line no: 200
+2020-10-19_17-50-30: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-13-f29c5c52f41c>, line no: 200
+2020-10-19_17-50-30: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-13-f29c5c52f41c>, line no: 200
+2020-10-19_18-22-44: DF Exception: Sub: R1169P, Sess: 0, NameError, name 'nonrepeat_idxs' is not defined, file: <ipython-input-14-0c1dbb767d08>, line no: 221
+2020-10-19_18-23-03: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'nonrepeat_idxs' is not defined, file: <ipython-input-14-0c1dbb767d08>, line no: 221
+2020-10-19_18-28-43: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-14-0c1dbb767d08>, line no: 218
+2020-10-19_18-59-01: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-4-c9b64d865fef>, line no: 185
+2020-10-19_18-59-01: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-4-c9b64d865fef>, line no: 185
+2020-10-19_18-59-02: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-4-c9b64d865fef>, line no: 185
+2020-10-19_19-06-22: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-5-8ef9c22f5081>, line no: 222
+2020-10-19_19-06-24: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-5-8ef9c22f5081>, line no: 222
+2020-10-19_19-06-25: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-5-8ef9c22f5081>, line no: 222
+2020-10-19_19-11-51: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-6-28492c8829d4>, line no: 179
+2020-10-19_19-11-52: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-6-28492c8829d4>, line no: 179
+2020-10-19_19-11-53: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-6-28492c8829d4>, line no: 179
+2020-10-19_19-19-38: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-8-52ad6c76d1a8>, line no: 179
+2020-10-19_19-19-38: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-8-52ad6c76d1a8>, line no: 179
+2020-10-19_19-19-39: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-8-52ad6c76d1a8>, line no: 179
+2020-10-19_19-21-05: DF Exception: Sub: R1169P, Sess: 0, BdbQuit, , file: <ipython-input-9-7ce0fb6c2806>, line no: 224
+2020-10-19_19-21-08: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-9-7ce0fb6c2806>, line no: 224
+2020-10-19_19-21-09: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-9-7ce0fb6c2806>, line no: 224
+2020-10-19_19-33-05: DF Exception: Sub: R1169P, Sess: 0, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-33-05: DF Exception: Sub: R1169P, Sess: 1, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-33-05: DF Exception: Sub: R1334T, Sess: 0, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-33-05: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-33-05: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-33-05: DF Exception: Sub: R1368T, Sess: 0, KeyError, 'HEAD', file: <ipython-input-13-d5f9d6b66fc3>, line no: 157
+2020-10-19_19-39-14: DF Exception: Sub: R1169P, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-95db49468565>, line no: 158
+2020-10-19_19-41-05: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-4-95db49468565>, line no: 156
+2020-10-19_19-41-06: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-4-95db49468565>, line no: 156
+2020-10-19_19-41-07: DF Exception: Sub: R1334T, Sess: 1, BdbQuit, , file: <ipython-input-4-95db49468565>, line no: 156
+2020-10-19_19-41-08: DF Exception: Sub: R1334T, Sess: 2, BdbQuit, , file: <ipython-input-4-95db49468565>, line no: 156
+2020-10-19_19-41-09: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-4-95db49468565>, line no: 156
+2020-10-19_20-04-51: DF Exception: Sub: R1169P, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-19_20-04-51: DF Exception: Sub: R1169P, Sess: 1, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-19_20-04-52: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-19_20-04-52: DF Exception: Sub: R1334T, Sess: 1, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-19_20-04-52: DF Exception: Sub: R1334T, Sess: 2, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-19_20-04-52: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
