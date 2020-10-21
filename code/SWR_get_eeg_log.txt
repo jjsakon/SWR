@@ -183,3 +183,27 @@
 2020-10-19_20-04-52: DF Exception: Sub: R1334T, Sess: 1, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
 2020-10-19_20-04-52: DF Exception: Sub: R1334T, Sess: 2, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
 2020-10-19_20-04-52: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-7-7ac5df42fd72>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1169P, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1169P, Sess: 1, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1334T, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1334T, Sess: 1, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1334T, Sess: 2, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-18-15: DF Exception: Sub: R1368T, Sess: 0, NameError, name 'list_words_df' is not defined, file: <ipython-input-4-06d645d18f71>, line no: 160
+2020-10-20_22-23-18: DF Exception: Sub: R1169P, Sess: 0, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-23-18: DF Exception: Sub: R1169P, Sess: 1, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-23-18: DF Exception: Sub: R1334T, Sess: 0, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-23-18: DF Exception: Sub: R1334T, Sess: 1, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-23-18: DF Exception: Sub: R1334T, Sess: 2, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-23-18: DF Exception: Sub: R1368T, Sess: 0, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-5-c8485862f007>, line no: 169
+2020-10-20_22-53-39: DF Exception: Sub: R1169P, Sess: 0, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-6-c8485862f007>, line no: 169
+2020-10-20_22-54-33: DF Exception: Sub: R1169P, Sess: 1, TypeError, '>' not supported between instances of 'list' and 'int', file: <ipython-input-6-c8485862f007>, line no: 169
+2020-10-20_22-54-51: DF Exception: Sub: R1334T, Sess: 0, BdbQuit, , file: <ipython-input-6-c8485862f007>, line no: 168
+2020-10-20_22-54-52: DF Exception: Sub: R1334T, Sess: 1, BdbQuit, , file: <ipython-input-6-c8485862f007>, line no: 168
+2020-10-20_22-54-53: DF Exception: Sub: R1334T, Sess: 2, BdbQuit, , file: <ipython-input-6-c8485862f007>, line no: 168
+2020-10-20_22-54-53: DF Exception: Sub: R1368T, Sess: 0, BdbQuit, , file: <ipython-input-6-c8485862f007>, line no: 168
+2020-10-20_22-57-16: DF Exception: Sub: R1169P, Sess: 0, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-20_22-57-16: DF Exception: Sub: R1169P, Sess: 1, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-20_22-57-16: DF Exception: Sub: R1334T, Sess: 0, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-20_22-57-16: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-20_22-57-16: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-20_22-57-17: DF Exception: Sub: R1368T, Sess: 0, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
