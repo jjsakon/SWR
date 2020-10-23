@@ -207,3 +207,7 @@
 2020-10-20_22-57-16: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
 2020-10-20_22-57-16: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
 2020-10-20_22-57-17: DF Exception: Sub: R1368T, Sess: 0, KeyError, 'AXE', file: <ipython-input-7-58359607fe14>, line no: 162
+2020-10-21_14-02-35: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 232
+2020-10-21_14-02-37: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
+2020-10-21_14-02-38: DF Exception: Sub: R1342M, Sess: 0, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
+2020-10-21_14-02-39: DF Exception: Sub: R1342M, Sess: 1, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
