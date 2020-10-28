@@ -211,3 +211,41 @@
 2020-10-21_14-02-37: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
 2020-10-21_14-02-38: DF Exception: Sub: R1342M, Sess: 0, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
 2020-10-21_14-02-39: DF Exception: Sub: R1342M, Sess: 1, BdbQuit, , file: <ipython-input-4-f0b1264a8bde>, line no: 218
+2020-10-27_01-33-26: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-46-841bb5c9bdb2>, line no: 232
+2020-10-27_01-57-20: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-4-d916b46ebeca>, line no: 232
+2020-10-27_02-02-27: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-5-39008c41f486>, line no: 232
+2020-10-27_02-04-19: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-7-39008c41f486>, line no: 232
+2020-10-27_02-04-50: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-8-cda9974b4326>, line no: 232
+2020-10-27_02-05-35: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-9-39008c41f486>, line no: 232
+2020-10-27_02-12-16: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-10-39008c41f486>, line no: 233
+2020-10-27_02-14-13: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-11-39008c41f486>, line no: 233
+2020-10-27_02-20-58: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-12-39008c41f486>, line no: 233
+2020-10-27_02-21-45: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-13-39008c41f486>, line no: 233
+2020-10-27_02-23-51: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-14-39008c41f486>, line no: 233
+2020-10-27_02-24-12: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-15-39008c41f486>, line no: 233
+2020-10-27_02-24-42: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-16-39008c41f486>, line no: 233
+2020-10-27_02-32-11: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-17-39008c41f486>, line no: 233
+2020-10-27_02-37-22: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-18-39008c41f486>, line no: 233
+2020-10-27_02-38-51: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-19-39008c41f486>, line no: 233
+2020-10-27_02-39-40: DF Exception: Sub: R1169P, Sess: 1, IndexError, list index out of range, file: <ipython-input-20-39008c41f486>, line no: 233
+2020-10-27_02-41-17: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-21-39008c41f486>, line no: 345
+2020-10-27_02-41-52: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-22-39008c41f486>, line no: 233
+2020-10-27_02-42-27: DF Exception: Sub: R1169P, Sess: 1, BdbQuit, , file: <ipython-input-23-39008c41f486>, line no: 345
+2020-10-27_03-02-31: DF Exception: Sub: R1168T, Sess: 2, BdbQuit, , file: <ipython-input-42-f3c6dbbb80b9>, line no: 516
+2020-10-27_13-05-51: DF Exception: Sub: R1168T, Sess: 2, BdbQuit, , file: <ipython-input-43-f3c6dbbb80b9>, line no: 516
+2020-10-27_19-30-08: DF Exception: Sub: R1168T, Sess: 2, FileNotFoundError, [Errno 2] No such file or directory: '/home1/john/SWR/figures/beep_RT_determination/beep_ends_update2.pkl', file: <ipython-input-44-2fd81cad7bcc>, line no: 271
+2020-10-27_19-30-38: DF Exception: Sub: R1168T, Sess: 2, TypeError, string indices must be integers, file: <ipython-input-45-a764a0b1a20a>, line no: 276
+2020-10-27_21-56-04: DF Exception: Sub: R1168T, Sess: 2, BdbQuit, , file: <ipython-input-46-c3d78da134aa>, line no: 304
+2020-10-27_22-00-44: DF Exception: Sub: R1168T, Sess: 2, NameError, name 'getBeepEnd' is not defined, file: <ipython-input-48-3a3270d91583>, line no: 271
+2020-10-27_22-01-27: DF Exception: Sub: R1168T, Sess: 2, NameError, name 'getBeepEnd' is not defined, file: <ipython-input-49-3a3270d91583>, line no: 271
+2020-10-27_22-51-46: DF Exception: Sub: R1168T, Sess: 2, NameError, name 'getBeepEnd' is not defined, file: <ipython-input-50-9916b39cc04b>, line no: 272
+2020-10-27_22-52-40: DF Exception: Sub: R1168T, Sess: 2, NameError, name 'getBeepEnd' is not defined, file: <ipython-input-51-9916b39cc04b>, line no: 272
+2020-10-27_22-53-18: DF Exception: Sub: R1168T, Sess: 2, NameError, name 'pickle' is not defined, file: <ipython-input-53-9916b39cc04b>, line no: 272
+2020-10-27_22-54-17: DF Exception: Sub: R1168T, Sess: 2, ValueError, cannot reshape array of size 14599 into shape (2), file: <ipython-input-54-9916b39cc04b>, line no: 471
+2020-10-27_23-00-30: DF Exception: Sub: R1168T, Sess: 2, BdbQuit, , file: <ipython-input-55-ee8305049f5d>, line no: 307
+2020-10-27_23-04-13: DF Exception: Sub: R1168T, Sess: 2, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-65-7f5ba8e3aba0>, line no: 530
+2020-10-27_23-15-00: DF Exception: Sub: R1168T, Sess: 2, BdbQuit, , file: <ipython-input-67-b59e31e4327c>, line no: 530
+2020-10-27_23-28-44: DF Exception: Sub: R1168T, Sess: 2, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-68-8e6fc7fb1a2b>, line no: 531
+2020-10-27_23-47-05: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 12882 is out of bounds for axis 0 with size 10000, file: <ipython-input-80-537c352c279d>, line no: 531
+2020-10-28_00-04-53: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 23 is out of bounds for axis 0 with size 23, file: <ipython-input-81-c42e8fffa175>, line no: 532
+2020-10-28_00-31-04: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 23 is out of bounds for axis 0 with size 23, file: <ipython-input-89-bb07076198ce>, line no: 532
