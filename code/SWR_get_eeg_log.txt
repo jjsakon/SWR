@@ -249,3 +249,450 @@
 2020-10-27_23-47-05: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 12882 is out of bounds for axis 0 with size 10000, file: <ipython-input-80-537c352c279d>, line no: 531
 2020-10-28_00-04-53: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 23 is out of bounds for axis 0 with size 23, file: <ipython-input-81-c42e8fffa175>, line no: 532
 2020-10-28_00-31-04: DF Exception: Sub: R1168T, Sess: 2, IndexError, index 23 is out of bounds for axis 0 with size 23, file: <ipython-input-89-bb07076198ce>, line no: 532
+2020-10-29_13-09-50: DF Exception: Sub: R1136N, Sess: 1, BdbQuit, , file: <ipython-input-18-ad620b5aaf8a>, line no: 541
+2020-10-29_15-46-29: DF Exception: Sub: R1004D, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-29: DF Exception: Sub: R1013E, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-29: DF Exception: Sub: R1015J, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-30: DF Exception: Sub: R1016M, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-30: DF Exception: Sub: R1016M, Sess: 1, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-30: DF Exception: Sub: R1021D, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-31: DF Exception: Sub: R1024E, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-31: DF Exception: Sub: R1026D, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-31: DF Exception: Sub: R1028M, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-32: DF Exception: Sub: R1028M, Sess: 1, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-32: DF Exception: Sub: R1031M, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-32: DF Exception: Sub: R1032D, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-32: DF Exception: Sub: R1032D, Sess: 1, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-33: DF Exception: Sub: R1035M, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-46-33: DF Exception: Sub: R1036M, Sess: 0, TypeError, selectRecallType() missing 1 required positional argument: 'recall_minimum', file: <ipython-input-5-6f1ba424625e>, line no: 104
+2020-10-29_15-47-49: DF Exception: Sub: R1004D, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-49: DF Exception: Sub: R1013E, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-49: DF Exception: Sub: R1015J, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-49: DF Exception: Sub: R1016M, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-50: DF Exception: Sub: R1016M, Sess: 1, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-50: DF Exception: Sub: R1021D, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-50: DF Exception: Sub: R1024E, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-50: DF Exception: Sub: R1026D, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-51: DF Exception: Sub: R1028M, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-51: DF Exception: Sub: R1028M, Sess: 1, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-51: DF Exception: Sub: R1031M, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-47-51: DF Exception: Sub: R1032D, Sess: 0, AttributeError, 'tuple' object has no attribute 'mstime', file: <ipython-input-7-17bc6f8ac2a7>, line no: 105
+2020-10-29_15-50-36: DF Exception: Sub: R1004D, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-38: DF Exception: Sub: R1013E, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-39: DF Exception: Sub: R1015J, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-39: DF Exception: Sub: R1016M, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-41: DF Exception: Sub: R1016M, Sess: 1, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-42: DF Exception: Sub: R1021D, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-43: DF Exception: Sub: R1024E, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-50-45: DF Exception: Sub: R1026D, Sess: 0, BdbQuit, , file: <ipython-input-8-c13029faca25>, line no: 103
+2020-10-29_15-52-55: DF Exception: Sub: R1354E, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-4-31bd955efade>, line no: 102
+2020-10-29_19-06-12: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-12: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-12: DF Exception: Sub: R1003P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1004D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1006P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1008J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1009W, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1010J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1013E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1014D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1015J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1016M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1017J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1018P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1019J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1020J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1021D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1022J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-13: DF Exception: Sub: R1023J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1024E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1025P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1026D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1027J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1028M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1029W, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1030J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1031M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1032D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1033D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1034D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1035M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1036M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1037D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1039M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1041M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1042M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1044J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1045E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1047D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1048E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1049J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1050M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1051J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1052E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1053M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1054J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1056M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1057E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1059J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-14: DF Exception: Sub: R1060M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1061T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1062J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1063C, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1064E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1065J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1066P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1067P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1068J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1069M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1070T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1073J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1074M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1075J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1076D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1077T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1078N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1079E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1080E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-15: DF Exception: Sub: R1081J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1082N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1083J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1084T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1085C, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1086M, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1087N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1089P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1090C, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1091N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1092J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1093J, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1094T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1095N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1096E, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1097N, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-16: DF Exception: Sub: R1098D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-17: DF Exception: Sub: R1100D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-17: DF Exception: Sub: R1101T, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-17: DF Exception: Sub: R1102P, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-17: DF Exception: Sub: R1104D, Sess: 0, NameError, name 'channel_range' is not defined, file: <ipython-input-5-98c4864e4c39>, line no: 124
+2020-10-29_19-06-53: DF Exception: Sub: R1001P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1002P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1003P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1004D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1006P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1008J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1009W, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1010J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1013E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1014D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1015J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1016M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1017J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1018P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1019J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-53: DF Exception: Sub: R1020J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1021D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1022J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1023J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1024E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1025P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1026D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1027J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1028M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1029W, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1030J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1031M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1032D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1033D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1034D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1035M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1036M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1037D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1039M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1041M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1042M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1044J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1045E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1047D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1048E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1049J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1050M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1051J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1052E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1053M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1054J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1056M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1057E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1059J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1060M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1061T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1062J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1063C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1064E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1065J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1066P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1067P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1068J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1069M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1070T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1073J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1074M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1075J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1076D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1077T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1078N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1079E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1080E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1081J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1082N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1083J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1084T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1085C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1086M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1087N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1089P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1090C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1091N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1092J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-54: DF Exception: Sub: R1093J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1094T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1095N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1096E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1097N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1098D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1100D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1101T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1102P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1104D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1105E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1106M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1107J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1108J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1109N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1111M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1112M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1113T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1114C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1115T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1117J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1118N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1119P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1120E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1121M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1122E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1123C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1124J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1125T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1127P, Sess: 1, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1128E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1129D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-55: DF Exception: Sub: R1130M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1131M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1132C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1133C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1134T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1135E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1136N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1137E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1138T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1141T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1142N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1144E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1145J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1146E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1147P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1148P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1149N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1150J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1151E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1153T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1154D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1155D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1156D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1157C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1158T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1159P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1160C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1161E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1162N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-56: DF Exception: Sub: R1163T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1164E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1166D, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1167M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1168T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1169P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1170J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1171M, Sess: 1, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1172E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1173J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1174T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1175N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1176M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1177M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1178P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1180C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1181E, Sess: 1, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1182C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1183T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1184M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1185N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1186P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1187P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1188C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1189M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1190P, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1191J, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1192C, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1193T, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1194E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1195E, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1196N, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-06-57: DF Exception: Sub: R1198M, Sess: 0, TypeError, Cannot index by location index with a non-integer key, file: <ipython-input-6-e7a6875807fa>, line no: 125
+2020-10-29_19-07-54: DF Exception: Sub: R1001P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-07-54: DF Exception: Sub: R1002P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-07-54: DF Exception: Sub: R1003P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-07-54: DF Exception: Sub: R1004D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-07-54: DF Exception: Sub: R1006P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-07-54: DF Exception: Sub: R1008J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 127
+2020-10-29_19-08-21: DF Exception: Sub: R1009W, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1010J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1013E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1014D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1015J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1016M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1017J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1018P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1019J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-21: DF Exception: Sub: R1020J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1021D, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1022J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1023J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1024E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1025P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1026D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1027J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1028M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1029W, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1030J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1031M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1032D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1033D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1034D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1035M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1036M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1037D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1039M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1041M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1042M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1044J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1045E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1047D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1048E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1049J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1050M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1051J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1052E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1053M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1054J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1056M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1057E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-23: DF Exception: Sub: R1059J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-25: DF Exception: Sub: R1060M, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-25: DF Exception: Sub: R1061T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-25: DF Exception: Sub: R1062J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-25: DF Exception: Sub: R1063C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1064E, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1065J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1066P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1067P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1068J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-27: DF Exception: Sub: R1069M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-30: DF Exception: Sub: R1070T, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-30: DF Exception: Sub: R1073J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-30: DF Exception: Sub: R1074M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-30: DF Exception: Sub: R1075J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1076D, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1077T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1078N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1079E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1080E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1081J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1082N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1083J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1084T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-31: DF Exception: Sub: R1085C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-32: DF Exception: Sub: R1086M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-33: DF Exception: Sub: R1087N, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-33: DF Exception: Sub: R1089P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-33: DF Exception: Sub: R1090C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1091N, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1092J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1093J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1094T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1095N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1096E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-34: DF Exception: Sub: R1097N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1098D, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1100D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1101T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1102P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1104D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1105E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-38: DF Exception: Sub: R1106M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1107J, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1108J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1109N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1111M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1112M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1113T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1114C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-39: DF Exception: Sub: R1115T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1117J, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1118N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1119P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1120E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1121M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1122E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1123C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1124J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1125T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1127P, Sess: 1, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1128E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1129D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1130M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1131M, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1132C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1133C, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1134T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1135E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1136N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1137E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-41: DF Exception: Sub: R1138T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1141T, Sess: 0, BdbQuit, , file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1142N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1144E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1145J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1146E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1147P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1148P, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-42: DF Exception: Sub: R1149N, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-43: DF Exception: Sub: R1150J, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-43: DF Exception: Sub: R1151E, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-43: DF Exception: Sub: R1153T, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-43: DF Exception: Sub: R1154D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-08-43: DF Exception: Sub: R1155D, Sess: 0, TypeError, object of type 'float' has no len(), file: <ipython-input-8-c40a52aa7fb9>, line no: 131
+2020-10-29_19-17-16: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-17: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-19: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-27: DF Exception: Sub: R1004D, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-28: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-29: DF Exception: Sub: R1008J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-30: DF Exception: Sub: R1009W, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-30: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-31: DF Exception: Sub: R1013E, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-31: DF Exception: Sub: R1014D, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-32: DF Exception: Sub: R1015J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-32: DF Exception: Sub: R1016M, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-33: DF Exception: Sub: R1017J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-33: DF Exception: Sub: R1018P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-10-29_19-17-33: DF Exception: Sub: R1019J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
