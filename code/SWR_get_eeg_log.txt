@@ -696,3 +696,13 @@
 2020-10-29_19-17-33: DF Exception: Sub: R1017J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
 2020-10-29_19-17-33: DF Exception: Sub: R1018P, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
 2020-10-29_19-17-33: DF Exception: Sub: R1019J, Sess: 0, BdbQuit, , file: <ipython-input-9-e40ff0a4d93b>, line no: 127
+2020-11-03_14-27-28: DF Exception: Sub: R1486J, Sess: 4, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-29: DF Exception: Sub: R1486J, Sess: 5, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-30: DF Exception: Sub: R1486J, Sess: 6, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-31: DF Exception: Sub: R1486J, Sess: 7, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-32: DF Exception: Sub: R1501J, Sess: 0, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-33: DF Exception: Sub: R1501J, Sess: 1, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-34: DF Exception: Sub: R1501J, Sess: 2, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-35: DF Exception: Sub: R1501J, Sess: 3, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-36: DF Exception: Sub: R1501J, Sess: 4, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-03_14-27-37: DF Exception: Sub: R1501J, Sess: 5, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
