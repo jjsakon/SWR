@@ -706,3 +706,27 @@
 2020-11-03_14-27-35: DF Exception: Sub: R1501J, Sess: 3, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
 2020-11-03_14-27-36: DF Exception: Sub: R1501J, Sess: 4, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
 2020-11-03_14-27-37: DF Exception: Sub: R1501J, Sess: 5, ValueError, cannot convert float NaN to integer, file: <ipython-input-46-541867dad904>, line no: 322
+2020-11-05_17-51-40: DF Exception: Sub: R1515T, Sess: 0, BdbQuit, , file: <ipython-input-6-cc1f8dfa7321>, line no: 324
+2020-11-05_17-51-45: DF Exception: Sub: R1515T, Sess: 1, BdbQuit, , file: <ipython-input-6-cc1f8dfa7321>, line no: 324
+2020-11-05_17-51-50: DF Exception: Sub: R1515T, Sess: 2, BdbQuit, , file: <ipython-input-6-cc1f8dfa7321>, line no: 324
+2020-11-05_19-09-01: DF Exception: Sub: R1515T, Sess: 0, BdbQuit, , file: <ipython-input-7-cc1f8dfa7321>, line no: 324
+2020-11-05_19-09-16: DF Exception: Sub: R1515T, Sess: 1, BdbQuit, , file: <ipython-input-7-cc1f8dfa7321>, line no: 324
+2020-11-05_19-09-19: DF Exception: Sub: R1515T, Sess: 2, BdbQuit, , file: <ipython-input-7-cc1f8dfa7321>, line no: 324
+2020-11-05_19-38-22: DF Exception: Sub: R1515T, Sess: 0, BdbQuit, , file: <ipython-input-8-5307a8da5bbf>, line no: 333
+2020-11-05_19-38-24: DF Exception: Sub: R1515T, Sess: 1, BdbQuit, , file: <ipython-input-8-5307a8da5bbf>, line no: 251
+2020-11-05_19-38-27: DF Exception: Sub: R1515T, Sess: 2, BdbQuit, , file: <ipython-input-8-5307a8da5bbf>, line no: 251
+2020-11-05_19-47-55: DF Exception: Sub: R1515T, Sess: 0, BdbQuit, , file: <ipython-input-9-5307a8da5bbf>, line no: 330
+2020-11-05_19-47-57: DF Exception: Sub: R1515T, Sess: 1, BdbQuit, , file: <ipython-input-9-5307a8da5bbf>, line no: 251
+2020-11-07_17-47-22: DF Exception: Sub: R1486J, Sess: 0, BdbQuit, , file: <ipython-input-17-5307a8da5bbf>, line no: 251
+2020-11-07_17-47-24: DF Exception: Sub: R1486J, Sess: 1, BdbQuit, , file: <ipython-input-17-5307a8da5bbf>, line no: 251
+2020-11-07_17-47-27: DF Exception: Sub: R1486J, Sess: 2, BdbQuit, , file: <ipython-input-17-5307a8da5bbf>, line no: 251
+2020-11-07_17-47-28: DF Exception: Sub: R1486J, Sess: 3, BdbQuit, , file: <ipython-input-17-5307a8da5bbf>, line no: 251
+2020-11-07_17-47-46: DF Exception: Sub: R1486J, Sess: 0, BdbQuit, , file: <ipython-input-18-a2338345d32b>, line no: 251
+2020-11-07_17-47-47: DF Exception: Sub: R1486J, Sess: 1, BdbQuit, , file: <ipython-input-18-a2338345d32b>, line no: 251
+2020-11-08_18-08-07: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'recall_minimum' is not defined, file: <ipython-input-7-3ec7721a1700>, line no: 96
+2020-11-08_18-08-08: DF Exception: Sub: R1002P, Sess: 1, NameError, name 'recall_minimum' is not defined, file: <ipython-input-7-3ec7721a1700>, line no: 96
+2020-11-08_18-08-08: DF Exception: Sub: R1342M, Sess: 0, NameError, name 'recall_minimum' is not defined, file: <ipython-input-7-3ec7721a1700>, line no: 96
+2020-11-08_18-08-08: DF Exception: Sub: R1342M, Sess: 1, NameError, name 'recall_minimum' is not defined, file: <ipython-input-7-3ec7721a1700>, line no: 96
+2020-11-08_18-28-14: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-8-58780bd9fd3b>, line no: 393
+2020-11-08_18-30-23: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-9-8ba6b55abfbd>, line no: 395
+2020-11-08_18-31-44: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-10-8ba6b55abfbd>, line no: 399
