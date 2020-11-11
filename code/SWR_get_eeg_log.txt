@@ -730,3 +730,11 @@
 2020-11-08_18-28-14: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-8-58780bd9fd3b>, line no: 393
 2020-11-08_18-30-23: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-9-8ba6b55abfbd>, line no: 395
 2020-11-08_18-31-44: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-10-8ba6b55abfbd>, line no: 399
+2020-11-11_10-50-14: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-5-f3ff02825b16>, line no: 101
+2020-11-11_10-50-16: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-5-f3ff02825b16>, line no: 101
+2020-11-11_10-54-57: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-6-f3ff02825b16>, line no: 101
+2020-11-11_10-54-58: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-6-f3ff02825b16>, line no: 101
+2020-11-11_11-01-24: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-7-f3ff02825b16>, line no: 107
+2020-11-11_11-01-25: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-7-f3ff02825b16>, line no: 107
+2020-11-11_11-16-42: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-9-cb9d466bb3d0>, line no: 106
+2020-11-11_11-16-44: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-9-cb9d466bb3d0>, line no: 106
