@@ -746,3 +746,6 @@
 2020-11-12_20-55-37: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-31-baa5cdfb42d4>, line no: 236
 2020-11-12_21-05-30: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-46-5cf4495a3ead>, line no: 238
 2020-11-12_21-05-31: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-46-5cf4495a3ead>, line no: 238
+2020-11-19_22-36-14: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-108-840f9779e63b>, line no: 226
+2020-11-20_00-37-48: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-109-8aa64de222d0>, line no: 554
+2020-11-20_00-41-37: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-110-d0b22759dc97>, line no: 253
