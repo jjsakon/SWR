@@ -749,3 +749,21 @@
 2020-11-19_22-36-14: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-108-840f9779e63b>, line no: 226
 2020-11-20_00-37-48: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-109-8aa64de222d0>, line no: 554
 2020-11-20_00-41-37: DF Exception: Sub: R1303E, Sess: 0, BdbQuit, , file: <ipython-input-110-d0b22759dc97>, line no: 253
+2020-11-23_20-28-33: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-4-0836eff5c623>, line no: 595
+2020-11-23_21-22-41: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-10-99873f317201>, line no: 319
+2020-11-23_21-22-44: DF Exception: Sub: R1065J, Sess: 1, BdbQuit, , file: <ipython-input-10-99873f317201>, line no: 319
+2020-11-24_21-01-31: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-19-a26fe260e172>, line no: 229
+2020-11-24_21-01-34: DF Exception: Sub: R1065J, Sess: 1, BdbQuit, , file: <ipython-input-19-a26fe260e172>, line no: 229
+2020-11-24_21-01-38: DF Exception: Sub: R1065J, Sess: 2, BdbQuit, , file: <ipython-input-19-a26fe260e172>, line no: 229
+2020-11-24_21-01-39: DF Exception: Sub: R1065J, Sess: 3, BdbQuit, , file: <ipython-input-19-a26fe260e172>, line no: 229
+2020-11-24_21-24-37: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_21-24-40: DF Exception: Sub: R1065J, Sess: 1, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_21-24-42: DF Exception: Sub: R1065J, Sess: 2, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_21-24-43: DF Exception: Sub: R1065J, Sess: 3, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_21-24-45: DF Exception: Sub: R1065J, Sess: 4, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_21-24-47: DF Exception: Sub: R1065J, Sess: 5, BdbQuit, , file: <ipython-input-25-031530248cdc>, line no: 229
+2020-11-24_23-02-23: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-71-e355e115e509>, line no: 403
+2020-11-24_23-06-33: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-72-e355e115e509>, line no: 403
+2020-11-24_23-13-43: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-73-59c534dc517d>, line no: 403
+2020-11-24_23-33-34: DF Exception: Sub: R1385E, Sess: 0, TypeError, _tile_dispatcher() missing 1 required positional argument: 'reps', file: <ipython-input-74-436a7d9e4a3e>, line no: 406
+2020-11-24_23-42-12: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-77-65b7df1386f2>, line no: 411
