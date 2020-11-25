@@ -771,3 +771,4 @@
 2020-11-25_01-07-37: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-142-1bdece042603>, line no: 417
 2020-11-25_01-16-57: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-143-1b0476d468a9>, line no: 115
 2020-11-25_01-24-54: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-144-e93be09c3e94>, line no: 417
+2020-11-25_11-07-20: DF Exception: Sub: R1385E, Sess: 0, NameError, name 'temp_recalls_serialpos' is not defined, file: <ipython-input-145-cb9e0a5dfe74>, line no: 407
