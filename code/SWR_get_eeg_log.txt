@@ -767,3 +767,7 @@
 2020-11-24_23-13-43: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-73-59c534dc517d>, line no: 403
 2020-11-24_23-33-34: DF Exception: Sub: R1385E, Sess: 0, TypeError, _tile_dispatcher() missing 1 required positional argument: 'reps', file: <ipython-input-74-436a7d9e4a3e>, line no: 406
 2020-11-24_23-42-12: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-77-65b7df1386f2>, line no: 411
+2020-11-25_00-46-54: DF Exception: Sub: R1385E, Sess: 0, NameError, name 'getRecallsBeforeIntrusions' is not defined, file: <ipython-input-140-1bdece042603>, line no: 114
+2020-11-25_01-07-37: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-142-1bdece042603>, line no: 417
+2020-11-25_01-16-57: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-143-1b0476d468a9>, line no: 115
+2020-11-25_01-24-54: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-144-e93be09c3e94>, line no: 417
