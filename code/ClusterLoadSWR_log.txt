@@ -3840,3 +3840,357 @@
 2020-11-25_18-47-59: DF Exception: Sub: R1497T, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/NOTFIRSTRECALLS/SWR_catFR1_R1497T_1_HPC_surrounding_recallNOTFIRSTRECALLS_soz_in_recalls-0.p', file: <ipython-input-54-224656cff12b>, line no: 88
 2020-11-25_18-47-59: DF Exception: Sub: R1497T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/NOTFIRSTRECALLS/SWR_catFR1_R1497T_3_HPC_surrounding_recallNOTFIRSTRECALLS_soz_in_recalls-0.p', file: <ipython-input-54-224656cff12b>, line no: 88
 2020-11-25_18-47-59: DF Exception: Sub: R1498D, Sess: 5, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/NOTFIRSTRECALLS/SWR_catFR1_R1498D_5_HPC_surrounding_recallNOTFIRSTRECALLS_soz_in_recalls-0.p', file: <ipython-input-54-224656cff12b>, line no: 88
+2020-12-08_18-11-35: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-4-9dd4174ad1f8>, line no: 74
+2020-12-08_18-11-36: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-4-9dd4174ad1f8>, line no: 74
+2020-12-08_18-11-37: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-4-9dd4174ad1f8>, line no: 74
+2020-12-09_02-43-31: DF Exception: Sub: R1002P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1002P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1020J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1022J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1027J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1033D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-31: DF Exception: Sub: R1034D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1034D, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1034D, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1035M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1044J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1048E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1049J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1052E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1052E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1056M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1065J, Sess: 5, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-32: DF Exception: Sub: R1067P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1067P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1067P, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1077T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1077T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1077T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1077T, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1080E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1080E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1083J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1083J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1083J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-33: DF Exception: Sub: R1083J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1083J, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1092J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1092J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1092J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1092J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1094T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1094T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1094T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1096E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1096E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1102P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1105E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1108J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1108J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1108J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-34: DF Exception: Sub: R1108J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1112M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1112M, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1112M, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1120E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1122E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1122E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1131M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1137E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1137E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1137E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-35: DF Exception: Sub: R1138T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1147P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1147P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1147P, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1154D, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1154D, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1168T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1168T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1168T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1176M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-36: DF Exception: Sub: R1191J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1191J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1191J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1195E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1195E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1195E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1200T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1200T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1200T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1203T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1215M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1215M, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1215M, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-37: DF Exception: Sub: R1217T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1217T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1217T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1221P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1236J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1236J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1236J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1236J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1243T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-38: DF Exception: Sub: R1243T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1243T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-122-b6b2f09556ad>, line no: 60
+2020-12-09_02-43-39: DF Exception: Sub: R1268T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1283T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1283T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1288P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1293P, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1293P, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1297T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1297T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-39: DF Exception: Sub: R1306E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1310J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1310J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1311T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1311T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1311T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1313J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1313J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-122-b6b2f09556ad>, line no: 60
+2020-12-09_02-43-40: DF Exception: Sub: R1316T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-40: DF Exception: Sub: R1316T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1325C, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1325C, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1330D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1334T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1338T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1338T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1338T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1342M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-122-b6b2f09556ad>, line no: 83
+2020-12-09_02-43-41: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-122-b6b2f09556ad>, line no: 60
+2020-12-09_02-53-04: DF Exception: Sub: R1048E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-05: DF Exception: Sub: R1065J, Sess: 5, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-06: DF Exception: Sub: R1096E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-07: DF Exception: Sub: R1120E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-07: DF Exception: Sub: R1122E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-07: DF Exception: Sub: R1137E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1154D, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1154D, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1195E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1195E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1200T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1200T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-08: DF Exception: Sub: R1200T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1217T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1217T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1217T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1236J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1236J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1236J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1236J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1243T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1243T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1243T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-09: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-124-6291399df78d>, line no: 60
+2020-12-09_02-53-09: DF Exception: Sub: R1268T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1283T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1283T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1288P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1293P, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1293P, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1297T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1297T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1306E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1310J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1310J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1311T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-10: DF Exception: Sub: R1311T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1311T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1313J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1313J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-124-6291399df78d>, line no: 60
+2020-12-09_02-53-11: DF Exception: Sub: R1316T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1316T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1325C, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1325C, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1330D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1334T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1338T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-11: DF Exception: Sub: R1338T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-12: DF Exception: Sub: R1338T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-12: DF Exception: Sub: R1342M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-124-6291399df78d>, line no: 83
+2020-12-09_02-53-12: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-124-6291399df78d>, line no: 60
+2020-12-09_02-53-17: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-125-7ecc9ada411b>, line no: 60
+2020-12-09_02-53-18: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-125-7ecc9ada411b>, line no: 60
+2020-12-09_02-53-19: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-125-7ecc9ada411b>, line no: 60
+2020-12-09_03-28-06: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-136-438b2703e9f2>, line no: 60
+2020-12-09_03-28-08: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-136-438b2703e9f2>, line no: 60
+2020-12-09_03-28-09: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-136-438b2703e9f2>, line no: 60
+2020-12-09_11-57-53: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-6-90b9409977d8>, line no: 60
+2020-12-09_11-57-54: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-6-90b9409977d8>, line no: 60
+2020-12-09_11-57-56: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-6-90b9409977d8>, line no: 60
+2020-12-09_12-02-09: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-11-719abbd65b3a>, line no: 60
+2020-12-09_12-02-10: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-11-719abbd65b3a>, line no: 60
+2020-12-09_12-02-11: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-11-719abbd65b3a>, line no: 60
+2020-12-09_12-02-51: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-13-719abbd65b3a>, line no: 60
+2020-12-09_12-02-53: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-13-719abbd65b3a>, line no: 60
+2020-12-09_12-02-54: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-13-719abbd65b3a>, line no: 60
+2020-12-09_15-28-34: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-19-22006f96da67>, line no: 60
+2020-12-09_15-28-36: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-19-22006f96da67>, line no: 60
+2020-12-09_15-28-36: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-19-22006f96da67>, line no: 60
+2020-12-09_16-07-39: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-46-a47990d41d2d>, line no: 60
+2020-12-09_16-07-40: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-46-a47990d41d2d>, line no: 60
+2020-12-09_16-07-41: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-46-a47990d41d2d>, line no: 60
+2020-12-09_16-13-29: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-60-a47990d41d2d>, line no: 60
+2020-12-09_16-13-31: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-60-a47990d41d2d>, line no: 60
+2020-12-09_16-13-32: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-60-a47990d41d2d>, line no: 60
+2020-12-10_00-04-04: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-132-a47990d41d2d>, line no: 60
+2020-12-10_00-04-05: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-132-a47990d41d2d>, line no: 60
+2020-12-10_00-04-06: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-132-a47990d41d2d>, line no: 60
+2020-12-10_00-08-45: DF Exception: Sub: R1002P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1002P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1020J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1022J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1027J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1033D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1034D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1034D, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1034D, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1035M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1044J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1048E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1049J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1052E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1052E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1056M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1065J, Sess: 5, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1067P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1067P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1067P, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1077T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1077T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1077T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1077T, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1080E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1080E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-45: DF Exception: Sub: R1083J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1083J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1083J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1083J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1083J, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1092J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1092J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1092J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1092J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1094T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1094T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1094T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1096E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1096E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1102P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1105E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1108J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1108J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1108J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1108J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1112M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1112M, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1112M, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1120E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1122E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1122E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1131M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1137E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1137E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1137E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1138T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1147P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1147P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1147P, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1154D, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1154D, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1168T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1168T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1168T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1176M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1191J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1191J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1191J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1195E, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1195E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1195E, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1200T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1200T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1200T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1203T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1215M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1215M, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1215M, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1217T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1217T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1217T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1221P, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1236J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1236J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1236J, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1236J, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1243T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1243T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1243T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1243T, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1268T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1283T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1283T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1288P, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1293P, Sess: 3, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1293P, Sess: 4, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1297T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1297T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1306E, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1310J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1310J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1311T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1311T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1311T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1313J, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1313J, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1316T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1316T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1316T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1325C, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1325C, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1330D, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-46: DF Exception: Sub: R1334T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1334T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1334T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1338T, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1338T, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1338T, Sess: 2, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1342M, Sess: 0, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-08-47: DF Exception: Sub: R1342M, Sess: 1, KeyError, 'recall_index_array', file: <ipython-input-139-e6f20bedf0d3>, line no: 83
+2020-12-10_00-40-22: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-141-a47990d41d2d>, line no: 60
+2020-12-10_00-40-23: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-141-a47990d41d2d>, line no: 60
+2020-12-10_00-40-24: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-141-a47990d41d2d>, line no: 60
+2020-12-10_00-44-44: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-145-a47990d41d2d>, line no: 60
+2020-12-10_00-44-45: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-145-a47990d41d2d>, line no: 60
+2020-12-10_00-44-46: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-145-a47990d41d2d>, line no: 60
+2020-12-10_00-46-20: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-148-a47990d41d2d>, line no: 60
+2020-12-10_00-46-21: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-148-a47990d41d2d>, line no: 60
+2020-12-10_00-46-22: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-148-a47990d41d2d>, line no: 60
+2020-12-10_00-48-57: DF Exception: Sub: R1077T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1077T_3_PHC_surrounding_recall_soz_in.p', file: <ipython-input-155-582fdd2f0dff>, line no: 60
+2020-12-10_00-49-58: DF Exception: Sub: R1243T, Sess: 3, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1243T_3_HPC_surrounding_recall_soz_in.p', file: <ipython-input-159-a47990d41d2d>, line no: 60
+2020-12-10_00-49-59: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in.p', file: <ipython-input-159-a47990d41d2d>, line no: 60
+2020-12-10_00-50-00: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in.p', file: <ipython-input-159-a47990d41d2d>, line no: 60
