@@ -829,3 +829,6 @@
 2020-12-08_18-24-48: DF Exception: Sub: R1120E, Sess: 1, ValueError, all the input array dimensions for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 118 and the array at index 1 has size 117, file: <ipython-input-115-6076f583ae5d>, line no: 240
 2020-12-08_18-24-51: DF Exception: Sub: R1122E, Sess: 0, ValueError, all the input array dimensions for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 118 and the array at index 1 has size 117, file: <ipython-input-115-6076f583ae5d>, line no: 240
 2020-12-08_18-24-56: DF Exception: Sub: R1122E, Sess: 1, ValueError, all the input array dimensions for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 118 and the array at index 1 has size 117, file: <ipython-input-115-6076f583ae5d>, line no: 240
+2020-12-10_13-11-37: DF Exception: Sub: R1461T, Sess: 0, BdbQuit, , file: <ipython-input-4-3426c11c18a5>, line no: 176
+2020-12-10_13-11-40: DF Exception: Sub: R1461T, Sess: 1, BdbQuit, , file: <ipython-input-4-3426c11c18a5>, line no: 176
+2020-12-10_13-12-40: DF Exception: Sub: R1461T, Sess: 1, BdbQuit, , file: <ipython-input-5-3426c11c18a5>, line no: 176
