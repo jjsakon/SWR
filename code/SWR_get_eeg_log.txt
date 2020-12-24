@@ -832,3 +832,21 @@
 2020-12-10_13-11-37: DF Exception: Sub: R1461T, Sess: 0, BdbQuit, , file: <ipython-input-4-3426c11c18a5>, line no: 176
 2020-12-10_13-11-40: DF Exception: Sub: R1461T, Sess: 1, BdbQuit, , file: <ipython-input-4-3426c11c18a5>, line no: 176
 2020-12-10_13-12-40: DF Exception: Sub: R1461T, Sess: 1, BdbQuit, , file: <ipython-input-5-3426c11c18a5>, line no: 176
+2020-12-24_14-12-25: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-60-b1b43c872d9e>, line no: 235
+2020-12-24_14-15-57: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-61-b1b43c872d9e>, line no: 235
+2020-12-24_14-34-22: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-64-a0e79cf7dfb0>, line no: 236
+2020-12-24_14-35-54: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-65-b10a40dcb276>, line no: 239
+2020-12-24_14-47-40: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-67-3b9c8319c585>, line no: 391
+2020-12-24_14-49-27: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-68-44af0cd3f4b0>, line no: 247
+2020-12-24_14-52-02: DF Exception: Sub: R1385E, Sess: 0, IndexError, index 7 is out of bounds for axis 0 with size 7, file: <ipython-input-69-806fa7a8c90e>, line no: 234
+2020-12-24_14-56-12: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-71-26e016f7973e>, line no: 234
+2020-12-24_14-56-51: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-72-72e495d10bfb>, line no: 241
+2020-12-24_14-58-15: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-73-e1a0bfee1ec9>, line no: 234
+2020-12-24_14-59-30: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-74-e1a0bfee1ec9>, line no: 234
+2020-12-24_15-06-17: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-5-4e099541ca44>, line no: 238
+2020-12-24_15-08-38: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-6-62a195873b90>, line no: 234
+2020-12-24_15-11-42: DF Exception: Sub: R1385E, Sess: 0, IndexError, index 6 is out of bounds for axis 0 with size 6, file: <ipython-input-7-62a195873b90>, line no: 234
+2020-12-24_15-15-20: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-8-14557522c464>, line no: 234
+2020-12-24_15-15-54: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
+2020-12-24_15-15-56: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
+2020-12-24_15-15-58: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
