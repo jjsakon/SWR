@@ -850,3 +850,30 @@
 2020-12-24_15-15-54: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
 2020-12-24_15-15-56: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
 2020-12-24_15-15-58: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-14-14557522c464>, line no: 234
+2020-12-28_20-20-56: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-6-5f4972b45954>, line no: 123
+2020-12-28_20-20-58: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-6-5f4972b45954>, line no: 123
+2020-12-28_20-21-00: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-6-5f4972b45954>, line no: 123
+2020-12-28_20-21-03: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-6-5f4972b45954>, line no: 123
+2020-12-29_00-57-01: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-7-b7e90be09ac0>, line no: 111
+2020-12-29_01-26-07: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-27-62884e1b0fe0>, line no: 89
+2020-12-29_01-26-10: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-27-62884e1b0fe0>, line no: 89
+2020-12-29_01-26-12: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-27-62884e1b0fe0>, line no: 89
+2020-12-29_01-26-14: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-27-62884e1b0fe0>, line no: 89
+2020-12-29_01-29-55: DF Exception: Sub: R1001P, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-55: DF Exception: Sub: R1001P, Sess: 1, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-55: DF Exception: Sub: R1002P, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-55: DF Exception: Sub: R1002P, Sess: 1, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-56: DF Exception: Sub: R1003P, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-56: DF Exception: Sub: R1003P, Sess: 1, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-56: DF Exception: Sub: R1006P, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-57: DF Exception: Sub: R1006P, Sess: 1, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-57: DF Exception: Sub: R1010J, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-58: DF Exception: Sub: R1010J, Sess: 1, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-58: DF Exception: Sub: R1018P, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-58: DF Exception: Sub: R1020J, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-29-59: DF Exception: Sub: R1022J, Sess: 0, NameError, name 'regions_LR' is not defined, file: <ipython-input-28-4f81fe2c4ee4>, line no: 116
+2020-12-29_01-31-35: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
+2020-12-29_01-31-36: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
+2020-12-29_01-31-37: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
+2020-12-29_01-31-39: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
+2020-12-29_01-31-41: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
