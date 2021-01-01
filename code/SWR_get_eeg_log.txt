@@ -877,3 +877,4 @@
 2020-12-29_01-31-37: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
 2020-12-29_01-31-39: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
 2020-12-29_01-31-41: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
+2020-12-31_17-08-44: DF Exception: Sub: R1048E, Sess: 0, BdbQuit, , file: <ipython-input-3-163102cd1755>, line no: 184
