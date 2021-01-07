@@ -878,3 +878,4 @@
 2020-12-29_01-31-39: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
 2020-12-29_01-31-41: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
 2020-12-31_17-08-44: DF Exception: Sub: R1048E, Sess: 0, BdbQuit, , file: <ipython-input-3-163102cd1755>, line no: 184
+2021-01-06_13-23-33: DF Exception: Sub: R1354E, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-6-303502364257>, line no: 102
