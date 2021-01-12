@@ -5295,3 +5295,6 @@
 2020-12-30_12-48-41: DF Exception: Sub: R1297T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/IRIonly/SWR_FR1_R1297T_0_HPC_surrounding_recall_soz_in_hamming.p', file: <ipython-input-17-12afe0ee5433>, line no: 79
 2020-12-30_12-48-41: DF Exception: Sub: R1316T, Sess: 0, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/IRIonly/SWR_FR1_R1316T_0_HPC_surrounding_recall_soz_in_hamming.p', file: <ipython-input-17-12afe0ee5433>, line no: 79
 2020-12-30_12-48-42: DF Exception: Sub: R1342M, Sess: 1, FileNotFoundError, [Errno 2] No such file or directory: '/scratch/john/SWR_semantic_scratch/IRIonly/SWR_FR1_R1342M_1_HPC_surrounding_recall_soz_in_hamming.p', file: <ipython-input-17-12afe0ee5433>, line no: 79
+2021-01-11_01-12-24: DF Exception: Sub: R1048E, Sess: 0, NameError, name 'filter_type' is not defined, file: <ipython-input-9-e45a62e4493b>, line no: 74
+2021-01-11_01-12-24: DF Exception: Sub: R1054J, Sess: 0, NameError, name 'filter_type' is not defined, file: <ipython-input-9-e45a62e4493b>, line no: 74
+2021-01-11_01-12-24: DF Exception: Sub: R1054J, Sess: 1, NameError, name 'filter_type' is not defined, file: <ipython-input-9-e45a62e4493b>, line no: 74
