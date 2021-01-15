@@ -879,3 +879,15 @@
 2020-12-29_01-31-41: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-29-627cc0f4d88c>, line no: 117
 2020-12-31_17-08-44: DF Exception: Sub: R1048E, Sess: 0, BdbQuit, , file: <ipython-input-3-163102cd1755>, line no: 184
 2021-01-06_13-23-33: DF Exception: Sub: R1354E, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-6-303502364257>, line no: 102
+2021-01-12_19-44-58: DF Exception: Sub: R1048E, Sess: 0, BdbQuit, , file: <ipython-input-19-8875c3c0be0d>, line no: 185
+2021-01-12_23-05-03: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-21-8875c3c0be0d>, line no: 185
+2021-01-12_23-15-43: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-22-9393ef019c2c>, line no: 297
+2021-01-12_23-17-13: DF Exception: Sub: R1054J, Sess: 1, BdbQuit, , file: <ipython-input-22-9393ef019c2c>, line no: 297
+2021-01-13_22-18-24: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-4-da48220bf3ed>, line no: 296
+2021-01-13_22-38-52: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-5-da48220bf3ed>, line no: 244
+2021-01-13_23-07-46: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-6-1e55433dbe8d>, line no: 296
+2021-01-13_23-53-49: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-7-41f9acae000c>, line no: 296
+2021-01-14_01-16-27: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-8-41f9acae000c>, line no: 296
+2021-01-14_01-29-33: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-9-41f9acae000c>, line no: 291
+2021-01-14_19-26-22: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-23-607e721bdbf1>, line no: 130
+2021-01-14_19-26-25: DF Exception: Sub: R1054J, Sess: 1, BdbQuit, , file: <ipython-input-23-607e721bdbf1>, line no: 130
