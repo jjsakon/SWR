@@ -891,3 +891,4 @@
 2021-01-14_01-29-33: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-9-41f9acae000c>, line no: 291
 2021-01-14_19-26-22: DF Exception: Sub: R1054J, Sess: 0, BdbQuit, , file: <ipython-input-23-607e721bdbf1>, line no: 130
 2021-01-14_19-26-25: DF Exception: Sub: R1054J, Sess: 1, BdbQuit, , file: <ipython-input-23-607e721bdbf1>, line no: 130
+2021-01-22_14-49-48: DF Exception: Sub: R1093J, Sess: 0, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-113-303502364257>, line no: 102
