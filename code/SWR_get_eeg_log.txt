@@ -897,3 +897,47 @@
 2021-01-28_17-56-50: DF Exception: Sub: R1536J, Sess: 2, BdbQuit, , file: <ipython-input-8-a61473da826b>, line no: 130
 2021-01-28_17-56-51: DF Exception: Sub: R1536J, Sess: 3, BdbQuit, , file: <ipython-input-8-a61473da826b>, line no: 130
 2021-01-28_17-58-11: DF Exception: Sub: R1536J, Sess: 0, BdbQuit, , file: <ipython-input-9-fffff8b6d460>, line no: 296
+2021-04-10_19-28-48: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-a53a669c96cf>, line no: 110
+2021-04-10_19-28-50: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-a53a669c96cf>, line no: 110
+2021-04-10_19-36-01: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-20948d2d9b96>, line no: 122
+2021-04-10_19-36-03: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-20948d2d9b96>, line no: 122
+2021-04-10_19-38-48: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-5-522f31207db2>, line no: 110
+2021-04-10_19-38-50: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-5-522f31207db2>, line no: 110
+2021-04-10_19-40-47: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-6-3c74978131c7>, line no: 125
+2021-04-10_19-40-49: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-6-3c74978131c7>, line no: 125
+2021-04-10_19-41-19: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-7-3c74978131c7>, line no: 125
+2021-04-10_19-41-20: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-7-3c74978131c7>, line no: 125
+2021-04-10_19-58-53: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-4-60ad5f95aa53>, line no: 213
+2021-04-10_19-59-06: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-4-60ad5f95aa53>, line no: 213
+2021-04-10_20-02-30: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-5-60ad5f95aa53>, line no: 213
+2021-04-10_20-04-41: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-5-60ad5f95aa53>, line no: 213
+2021-04-10_20-05-53: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-6-60ad5f95aa53>, line no: 213
+2021-04-10_20-05-57: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-6-60ad5f95aa53>, line no: 126
+2021-04-10_20-06-19: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-7-60ad5f95aa53>, line no: 213
+2021-04-10_20-06-26: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-7-60ad5f95aa53>, line no: 213
+2021-04-10_20-06-36: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-8-60ad5f95aa53>, line no: 213
+2021-04-10_20-06-39: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-8-60ad5f95aa53>, line no: 126
+2021-04-10_20-06-50: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-9-60ad5f95aa53>, line no: 213
+2021-04-10_20-06-54: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-9-60ad5f95aa53>, line no: 126
+2021-04-10_20-07-16: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-10-60ad5f95aa53>, line no: 213
+2021-04-10_20-07-20: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-10-60ad5f95aa53>, line no: 126
+2021-04-10_20-07-31: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-11-60ad5f95aa53>, line no: 213
+2021-04-10_20-07-41: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-11-60ad5f95aa53>, line no: 126
+2021-04-10_20-07-50: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-12-60ad5f95aa53>, line no: 213
+2021-04-10_20-07-53: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-12-60ad5f95aa53>, line no: 126
+2021-04-10_20-08-03: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-13-60ad5f95aa53>, line no: 213
+2021-04-10_20-08-09: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-13-60ad5f95aa53>, line no: 126
+2021-04-10_20-10-49: DF Exception: Sub: R1001P, Sess: 0, IndexError, list index out of range, file: <ipython-input-14-d379178719f9>, line no: 128
+2021-04-10_20-10-51: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-14-d379178719f9>, line no: 126
+2021-04-10_20-11-24: DF Exception: Sub: R1001P, Sess: 0, IndexError, list index out of range, file: <ipython-input-15-e0248a24a713>, line no: 128
+2021-04-10_20-11-25: DF Exception: Sub: R1001P, Sess: 1, IndexError, list index out of range, file: <ipython-input-15-e0248a24a713>, line no: 128
+2021-04-10_20-11-45: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-16-9cfea62dc0ce>, line no: 213
+2021-04-10_20-11-46: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-16-9cfea62dc0ce>, line no: 213
+2021-04-10_20-13-15: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-17-ca920ea8d2a6>, line no: 213
+2021-04-10_20-14-30: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-17-ca920ea8d2a6>, line no: 181
+2021-04-10_20-15-49: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-18-afba4e2e4643>, line no: 213
+2021-04-10_20-15-49: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-18-afba4e2e4643>, line no: 213
+2021-04-10_21-33-41: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-4-afba4e2e4643>, line no: 213
+2021-04-10_21-33-41: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-4-afba4e2e4643>, line no: 213
+2021-04-11_02-05-34: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-8-afba4e2e4643>, line no: 213
+2021-04-11_02-05-35: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-8-afba4e2e4643>, line no: 213
