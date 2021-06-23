@@ -941,3 +941,132 @@
 2021-04-10_21-33-41: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-4-afba4e2e4643>, line no: 213
 2021-04-11_02-05-34: DF Exception: Sub: R1001P, Sess: 0, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-8-afba4e2e4643>, line no: 213
 2021-04-11_02-05-35: DF Exception: Sub: R1001P, Sess: 1, TypeError, __init__() got an unexpected keyword argument 'encoding', file: <ipython-input-8-afba4e2e4643>, line no: 213
+2021-06-20_14-00-06: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-4-795f053e983e>, line no: 178
+2021-06-20_14-00-08: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-4-795f053e983e>, line no: 178
+2021-06-20_14-00-10: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-4-795f053e983e>, line no: 178
+2021-06-21_13-02-29: DF Exception: Sub: R1002P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-30: DF Exception: Sub: R1002P, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-30: DF Exception: Sub: R1003P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-31: DF Exception: Sub: R1003P, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-32: DF Exception: Sub: R1006P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-32: DF Exception: Sub: R1006P, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-33: DF Exception: Sub: R1010J, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-34: DF Exception: Sub: R1010J, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-34: DF Exception: Sub: R1112M, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-35: DF Exception: Sub: R1112M, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-35: DF Exception: Sub: R1112M, Sess: 2, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-36: DF Exception: Sub: R1163T, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-02-36: DF Exception: Sub: R1163T, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'math', file: <ipython-input-27-548bd43e60ca>, line no: 184
+2021-06-21_13-43-11: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-12: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-12: DF Exception: Sub: R1003P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-13: DF Exception: Sub: R1003P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-13: DF Exception: Sub: R1006P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-14: DF Exception: Sub: R1006P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-43-14: DF Exception: Sub: R1010J, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-4-2fbfd3044bd0>, line no: 203
+2021-06-21_13-47-13: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-5-735ba050181e>, line no: 201
+2021-06-21_13-47-19: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-5-735ba050181e>, line no: 203
+2021-06-21_13-47-32: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-5-735ba050181e>, line no: 201
+2021-06-21_13-47-34: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-5-735ba050181e>, line no: 201
+2021-06-21_13-49-14: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-6-7227878dc340>, line no: 186
+2021-06-21_13-49-21: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-6-7227878dc340>, line no: 186
+2021-06-21_13-51-37: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-38: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-38: DF Exception: Sub: R1003P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-39: DF Exception: Sub: R1003P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-39: DF Exception: Sub: R1006P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-40: DF Exception: Sub: R1006P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-40: DF Exception: Sub: R1010J, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-41: DF Exception: Sub: R1010J, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-41: DF Exception: Sub: R1112M, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-41: DF Exception: Sub: R1112M, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-41: DF Exception: Sub: R1112M, Sess: 2, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-42: DF Exception: Sub: R1163T, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_13-51-42: DF Exception: Sub: R1163T, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-9-f642965f668d>, line no: 202
+2021-06-21_14-43-58: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-43-59: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-00: DF Exception: Sub: R1003P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-00: DF Exception: Sub: R1003P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-01: DF Exception: Sub: R1006P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-02: DF Exception: Sub: R1006P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-03: DF Exception: Sub: R1010J, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-03: DF Exception: Sub: R1010J, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-04: DF Exception: Sub: R1112M, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-05: DF Exception: Sub: R1112M, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-05: DF Exception: Sub: R1112M, Sess: 2, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-06: DF Exception: Sub: R1163T, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-44-06: DF Exception: Sub: R1163T, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-10-ccb9e12d4206>, line no: 202
+2021-06-21_14-49-51: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-11-cb887ecf4708>, line no: 186
+2021-06-21_14-49-57: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-11-cb887ecf4708>, line no: 186
+2021-06-21_14-50-00: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-11-cb887ecf4708>, line no: 186
+2021-06-21_14-51-39: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-12-cb887ecf4708>, line no: 186
+2021-06-21_14-51-41: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-12-cb887ecf4708>, line no: 186
+2021-06-21_14-52-31: DF Exception: Sub: R1002P, Sess: 0, ValueError, Events must correspond to one subject only, file: <ipython-input-13-3e530cac64da>, line no: 203
+2021-06-21_14-52-49: DF Exception: Sub: R1002P, Sess: 1, ValueError, Events must correspond to one subject only, file: <ipython-input-13-3e530cac64da>, line no: 203
+2021-06-21_14-53-46: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-13-3e530cac64da>, line no: 186
+2021-06-21_14-53-48: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-13-3e530cac64da>, line no: 186
+2021-06-21_14-55-59: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-14-ac88659fcfac>, line no: 203
+2021-06-21_14-56-45: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-14-ac88659fcfac>, line no: 186
+2021-06-21_14-56-48: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-14-ac88659fcfac>, line no: 186
+2021-06-21_14-58-43: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-15-ac88659fcfac>, line no: 203
+2021-06-21_14-59-33: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-15-ac88659fcfac>, line no: 186
+2021-06-21_14-59-35: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-15-ac88659fcfac>, line no: 186
+2021-06-21_15-00-30: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-16-a9192995ba34>, line no: 203
+2021-06-21_15-22-50: DF Exception: Sub: R1002P, Sess: 0, ValueError, operands could not be broadcast together with shapes (95,) (117,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-22-50: DF Exception: Sub: R1002P, Sess: 1, ValueError, operands could not be broadcast together with shapes (111,) (120,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-22-51: DF Exception: Sub: R1003P, Sess: 0, ValueError, operands could not be broadcast together with shapes (130,) (86,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-22-51: DF Exception: Sub: R1003P, Sess: 1, ValueError, operands could not be broadcast together with shapes (176,) (111,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-22-52: DF Exception: Sub: R1006P, Sess: 0, ValueError, operands could not be broadcast together with shapes (79,) (106,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-22-52: DF Exception: Sub: R1006P, Sess: 1, ValueError, operands could not be broadcast together with shapes (54,) (52,) , file: <ipython-input-8-ed66059ec810>, line no: 191
+2021-06-21_15-23-29: DF Exception: Sub: R1002P, Sess: 0, ValueError, operands could not be broadcast together with shapes (103,) (117,) , file: <ipython-input-9-93ec64cdfb64>, line no: 191
+2021-06-21_15-23-29: DF Exception: Sub: R1002P, Sess: 1, ValueError, operands could not be broadcast together with shapes (115,) (120,) , file: <ipython-input-9-93ec64cdfb64>, line no: 191
+2021-06-21_15-23-29: DF Exception: Sub: R1003P, Sess: 0, ValueError, operands could not be broadcast together with shapes (136,) (86,) , file: <ipython-input-9-93ec64cdfb64>, line no: 191
+2021-06-21_15-23-30: DF Exception: Sub: R1003P, Sess: 1, ValueError, operands could not be broadcast together with shapes (180,) (111,) , file: <ipython-input-9-93ec64cdfb64>, line no: 191
+2021-06-21_15-23-30: DF Exception: Sub: R1006P, Sess: 0, ValueError, operands could not be broadcast together with shapes (85,) (106,) , file: <ipython-input-9-93ec64cdfb64>, line no: 191
+2021-06-21_15-29-08: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-12-e66cd469efb4>, line no: 213
+2021-06-21_15-29-09: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-12-e66cd469efb4>, line no: 213
+2021-06-21_15-29-09: DF Exception: Sub: R1003P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-12-e66cd469efb4>, line no: 213
+2021-06-21_15-29-10: DF Exception: Sub: R1003P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-12-e66cd469efb4>, line no: 213
+2021-06-21_15-29-10: DF Exception: Sub: R1006P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-12-e66cd469efb4>, line no: 213
+2021-06-21_15-29-26: DF Exception: Sub: R1002P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-13-956ca532883d>, line no: 213
+2021-06-21_15-29-26: DF Exception: Sub: R1002P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-13-956ca532883d>, line no: 213
+2021-06-21_15-29-27: DF Exception: Sub: R1003P, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-13-956ca532883d>, line no: 213
+2021-06-21_15-29-27: DF Exception: Sub: R1003P, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-13-956ca532883d>, line no: 213
+2021-06-21_15-31-31: DF Exception: Sub: R1002P, Sess: 0, ValueError, Item wrong length 78 instead of 95., file: <ipython-input-15-3820cdace7b5>, line no: 199
+2021-06-21_15-31-31: DF Exception: Sub: R1002P, Sess: 1, ValueError, Item wrong length 51 instead of 111., file: <ipython-input-15-3820cdace7b5>, line no: 199
+2021-06-21_15-31-32: DF Exception: Sub: R1003P, Sess: 0, ValueError, Item wrong length 47 instead of 130., file: <ipython-input-15-3820cdace7b5>, line no: 199
+2021-06-21_15-31-32: DF Exception: Sub: R1003P, Sess: 1, ValueError, Item wrong length 42 instead of 176., file: <ipython-input-15-3820cdace7b5>, line no: 199
+2021-06-21_15-31-33: DF Exception: Sub: R1006P, Sess: 0, ValueError, Item wrong length 61 instead of 79., file: <ipython-input-15-3820cdace7b5>, line no: 199
+2021-06-21_15-32-53: DF Exception: Sub: R1002P, Sess: 0, ValueError, operands could not be broadcast together with shapes (95,) (78,) , file: <ipython-input-16-5388645b729f>, line no: 201
+2021-06-21_15-32-53: DF Exception: Sub: R1002P, Sess: 1, ValueError, operands could not be broadcast together with shapes (111,) (51,) , file: <ipython-input-16-5388645b729f>, line no: 201
+2021-06-21_15-32-53: DF Exception: Sub: R1003P, Sess: 0, ValueError, operands could not be broadcast together with shapes (130,) (47,) , file: <ipython-input-16-5388645b729f>, line no: 201
+2021-06-21_15-32-54: DF Exception: Sub: R1003P, Sess: 1, ValueError, operands could not be broadcast together with shapes (176,) (42,) , file: <ipython-input-16-5388645b729f>, line no: 201
+2021-06-21_15-32-54: DF Exception: Sub: R1006P, Sess: 0, ValueError, operands could not be broadcast together with shapes (79,) (61,) , file: <ipython-input-16-5388645b729f>, line no: 201
+2021-06-21_15-33-08: DF Exception: Sub: R1002P, Sess: 0, ValueError, Item wrong length 78 instead of 95., file: <ipython-input-17-788ceea686e4>, line no: 202
+2021-06-21_15-33-09: DF Exception: Sub: R1002P, Sess: 1, ValueError, Item wrong length 51 instead of 111., file: <ipython-input-17-788ceea686e4>, line no: 202
+2021-06-21_15-33-09: DF Exception: Sub: R1003P, Sess: 0, ValueError, Item wrong length 47 instead of 130., file: <ipython-input-17-788ceea686e4>, line no: 202
+2021-06-21_15-33-10: DF Exception: Sub: R1003P, Sess: 1, ValueError, Item wrong length 42 instead of 176., file: <ipython-input-17-788ceea686e4>, line no: 202
+2021-06-21_15-33-10: DF Exception: Sub: R1006P, Sess: 0, ValueError, Item wrong length 61 instead of 79., file: <ipython-input-17-788ceea686e4>, line no: 202
+2021-06-21_15-33-37: DF Exception: Sub: R1002P, Sess: 0, ValueError, operands could not be broadcast together with shapes (95,) (78,) , file: <ipython-input-18-2af2cea29223>, line no: 191
+2021-06-21_15-33-38: DF Exception: Sub: R1002P, Sess: 1, ValueError, operands could not be broadcast together with shapes (111,) (51,) , file: <ipython-input-18-2af2cea29223>, line no: 191
+2021-06-21_15-33-38: DF Exception: Sub: R1003P, Sess: 0, ValueError, operands could not be broadcast together with shapes (130,) (47,) , file: <ipython-input-18-2af2cea29223>, line no: 191
+2021-06-21_15-33-39: DF Exception: Sub: R1003P, Sess: 1, ValueError, operands could not be broadcast together with shapes (176,) (42,) , file: <ipython-input-18-2af2cea29223>, line no: 191
+2021-06-21_15-33-39: DF Exception: Sub: R1006P, Sess: 0, ValueError, operands could not be broadcast together with shapes (79,) (61,) , file: <ipython-input-18-2af2cea29223>, line no: 191
+2021-06-21_15-34-27: DF Exception: Sub: R1002P, Sess: 0, ValueError, operands could not be broadcast together with shapes (95,) (78,) , file: <ipython-input-19-c3a227166c0e>, line no: 191
+2021-06-21_15-34-28: DF Exception: Sub: R1002P, Sess: 1, ValueError, operands could not be broadcast together with shapes (111,) (51,) , file: <ipython-input-19-c3a227166c0e>, line no: 191
+2021-06-21_15-34-28: DF Exception: Sub: R1003P, Sess: 0, ValueError, operands could not be broadcast together with shapes (130,) (47,) , file: <ipython-input-19-c3a227166c0e>, line no: 191
+2021-06-21_15-34-29: DF Exception: Sub: R1003P, Sess: 1, ValueError, operands could not be broadcast together with shapes (176,) (42,) , file: <ipython-input-19-c3a227166c0e>, line no: 191
+2021-06-21_16-06-10: DF Exception: Sub: R1002P, Sess: 0, ValueError, Events must correspond to one subject only, file: <ipython-input-6-3882a862077f>, line no: 213
+2021-06-21_16-06-11: DF Exception: Sub: R1002P, Sess: 1, ValueError, Events must correspond to one subject only, file: <ipython-input-6-3882a862077f>, line no: 213
+2021-06-21_16-06-12: DF Exception: Sub: R1003P, Sess: 0, ValueError, Events must correspond to one subject only, file: <ipython-input-6-3882a862077f>, line no: 213
+2021-06-21_16-06-12: DF Exception: Sub: R1003P, Sess: 1, ValueError, Events must correspond to one subject only, file: <ipython-input-6-3882a862077f>, line no: 213
+2021-06-21_16-06-24: DF Exception: Sub: R1002P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'iscorrect', file: <ipython-input-7-4af7d704702a>, line no: 185
+2021-06-21_16-06-25: DF Exception: Sub: R1002P, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'iscorrect', file: <ipython-input-7-4af7d704702a>, line no: 185
+2021-06-21_16-06-25: DF Exception: Sub: R1003P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'iscorrect', file: <ipython-input-7-4af7d704702a>, line no: 185
+2021-06-21_16-06-26: DF Exception: Sub: R1003P, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'iscorrect', file: <ipython-input-7-4af7d704702a>, line no: 185
+2021-06-21_16-06-26: DF Exception: Sub: R1006P, Sess: 0, AttributeError, 'DataFrame' object has no attribute 'iscorrect', file: <ipython-input-7-4af7d704702a>, line no: 185
+2021-06-21_16-07-19: DF Exception: Sub: R1002P, Sess: 0, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
+2021-06-21_16-07-20: DF Exception: Sub: R1002P, Sess: 1, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
+2021-06-21_16-07-20: DF Exception: Sub: R1003P, Sess: 0, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
+2021-06-21_16-07-21: DF Exception: Sub: R1003P, Sess: 1, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
+2021-06-22_15-52-11: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-19-c1e6f04ab15a>, line no: 410
