@@ -1070,3 +1070,4 @@
 2021-06-21_16-07-20: DF Exception: Sub: R1003P, Sess: 0, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
 2021-06-21_16-07-21: DF Exception: Sub: R1003P, Sess: 1, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
 2021-06-22_15-52-11: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-19-c1e6f04ab15a>, line no: 410
+2021-06-23_15-05-12: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-8-97d555f72b9a>, line no: 413
