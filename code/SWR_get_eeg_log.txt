@@ -1071,3 +1071,17 @@
 2021-06-21_16-07-21: DF Exception: Sub: R1003P, Sess: 1, NotImplementedError, There is no reader to support the requested file type, file: <ipython-input-9-e0c2c8ac2d07>, line no: 184
 2021-06-22_15-52-11: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-19-c1e6f04ab15a>, line no: 410
 2021-06-23_15-05-12: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-8-97d555f72b9a>, line no: 413
+2021-07-02_14-22-31: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-4-b5b060307246>, line no: 148
+2021-07-02_14-22-32: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-4-b5b060307246>, line no: 148
+2021-07-02_14-22-33: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-4-b5b060307246>, line no: 148
+2021-07-02_16-18-47: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-9-b5b060307246>, line no: 148
+2021-07-02_16-18-49: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-9-b5b060307246>, line no: 148
+2021-07-02_16-18-50: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-9-b5b060307246>, line no: 148
+2021-07-02_16-20-14: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-10-0e026f373449>, line no: 149
+2021-07-02_16-20-15: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-10-0e026f373449>, line no: 149
+2021-07-02_16-20-16: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-10-0e026f373449>, line no: 149
+2021-07-02_16-23-02: DF Exception: Sub: R1385E, Sess: 1, NameError, name 'temp_from_lags' is not defined, file: <ipython-input-11-7ac8e8d6822f>, line no: 247
+2021-07-02_16-23-02: DF Exception: Sub: R1385E, Sess: 2, NameError, name 'temp_from_lags' is not defined, file: <ipython-input-11-7ac8e8d6822f>, line no: 247
+2021-07-02_16-23-02: DF Exception: Sub: R1385E, Sess: 3, NameError, name 'temp_from_lags' is not defined, file: <ipython-input-11-7ac8e8d6822f>, line no: 247
+2021-07-02_16-29-32: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-12-8db4d8072090>, line no: 241
+2021-07-02_16-29-33: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-12-8db4d8072090>, line no: 241
