@@ -1085,3 +1085,22 @@
 2021-07-02_16-23-02: DF Exception: Sub: R1385E, Sess: 3, NameError, name 'temp_from_lags' is not defined, file: <ipython-input-11-7ac8e8d6822f>, line no: 247
 2021-07-02_16-29-32: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-12-8db4d8072090>, line no: 241
 2021-07-02_16-29-33: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-12-8db4d8072090>, line no: 241
+2021-07-07_12-13-47: DF Exception: Sub: R1077T, Sess: 0, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-49: DF Exception: Sub: R1077T, Sess: 1, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-50: DF Exception: Sub: R1077T, Sess: 2, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-53: DF Exception: Sub: R1077T, Sess: 3, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-55: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-56: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-57: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-58: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-13-59: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-9-ec01ae65e3a7>, line no: 226
+2021-07-07_12-19-12: DF Exception: Sub: R1077T, Sess: 0, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-15: DF Exception: Sub: R1077T, Sess: 1, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-16: DF Exception: Sub: R1077T, Sess: 2, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-17: DF Exception: Sub: R1077T, Sess: 3, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-18: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-18: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-19: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-19: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-19-20: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
+2021-07-07_12-31-41: DF Exception: Sub: R1077T, Sess: 1, BdbQuit, , file: <ipython-input-12-3ba9065047ed>, line no: 550
