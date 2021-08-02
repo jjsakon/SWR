@@ -1104,3 +1104,14 @@
 2021-07-07_12-19-19: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
 2021-07-07_12-19-20: DF Exception: Sub: R1345D, Sess: 4, BdbQuit, , file: <ipython-input-11-7e95c1aae279>, line no: 171
 2021-07-07_12-31-41: DF Exception: Sub: R1077T, Sess: 1, BdbQuit, , file: <ipython-input-12-3ba9065047ed>, line no: 550
+2021-08-02_16-25-26: DF Exception: Sub: R1002P, Sess: 0, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_16-25-26: DF Exception: Sub: R1002P, Sess: 1, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_16-25-27: DF Exception: Sub: R1003P, Sess: 0, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_16-25-27: DF Exception: Sub: R1003P, Sess: 1, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_16-25-28: DF Exception: Sub: R1006P, Sess: 0, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_16-25-28: DF Exception: Sub: R1006P, Sess: 1, TypeError, unsupported operand type(s) for |: 'str' and 'str', file: <ipython-input-4-c4892fdfac7d>, line no: 195
+2021-08-02_17-09-54: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-6-92ff67845891>, line no: 211
+2021-08-02_17-10-28: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-6-92ff67845891>, line no: 211
+2021-08-02_17-10-31: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-6-92ff67845891>, line no: 211
+2021-08-02_17-11-31: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-7-749bcc50de9d>, line no: 211
+2021-08-02_17-11-33: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-7-749bcc50de9d>, line no: 211
