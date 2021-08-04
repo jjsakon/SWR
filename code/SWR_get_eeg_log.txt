@@ -1115,3 +1115,30 @@
 2021-08-02_17-10-31: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-6-92ff67845891>, line no: 211
 2021-08-02_17-11-31: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-7-749bcc50de9d>, line no: 211
 2021-08-02_17-11-33: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-7-749bcc50de9d>, line no: 211
+2021-08-02_19-48-58: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-8-fe0767ae61d4>, line no: 212
+2021-08-02_19-49-04: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-8-fe0767ae61d4>, line no: 212
+2021-08-02_19-49-08: DF Exception: Sub: R1002P, Sess: 0, TypeError, only size-1 arrays can be converted to Python scalars, file: <ipython-input-9-83ea6152e8c7>, line no: 213
+2021-08-02_19-49-09: DF Exception: Sub: R1002P, Sess: 1, TypeError, only size-1 arrays can be converted to Python scalars, file: <ipython-input-9-83ea6152e8c7>, line no: 213
+2021-08-02_19-49-09: DF Exception: Sub: R1003P, Sess: 0, TypeError, only size-1 arrays can be converted to Python scalars, file: <ipython-input-9-83ea6152e8c7>, line no: 213
+2021-08-02_19-55-06: DF Exception: Sub: R1002P, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-06: DF Exception: Sub: R1002P, Sess: 1, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-07: DF Exception: Sub: R1003P, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-08: DF Exception: Sub: R1003P, Sess: 1, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-11: DF Exception: Sub: R1006P, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-13: DF Exception: Sub: R1006P, Sess: 1, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-17: DF Exception: Sub: R1010J, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-22: DF Exception: Sub: R1010J, Sess: 1, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-23: DF Exception: Sub: R1112M, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-24: DF Exception: Sub: R1112M, Sess: 1, ValueError, Events must correspond to one subject only, file: <ipython-input-16-fd09f2dfa1e5>, line no: 209
+2021-08-02_19-55-25: DF Exception: Sub: R1112M, Sess: 2, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-27: DF Exception: Sub: R1163T, Sess: 0, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-55-30: DF Exception: Sub: R1163T, Sess: 1, TypeError, slice indices must be integers or None or have an __index__ method, file: <ipython-input-16-fd09f2dfa1e5>, line no: 228
+2021-08-02_19-58-22: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-17-cfe923469819>, line no: 214
+2021-08-02_19-58-24: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-17-cfe923469819>, line no: 214
+2021-08-02_20-03-32: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-18-70b0b226b17d>, line no: 214
+2021-08-02_20-03-34: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-18-70b0b226b17d>, line no: 214
+2021-08-02_20-09-32: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-19-5e18f3c3f41c>, line no: 229
+2021-08-02_20-17-16: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-20-c243a98bc169>, line no: 229
+2021-08-02_20-17-18: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-20-c243a98bc169>, line no: 229
+2021-08-02_20-19-35: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-21-5e18f3c3f41c>, line no: 229
+2021-08-02_20-19-37: DF Exception: Sub: R1002P, Sess: 1, BdbQuit, , file: <ipython-input-21-5e18f3c3f41c>, line no: 229
