@@ -1151,3 +1151,23 @@
 2021-09-06_16-02-11: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-5-0d75beda41bb>, line no: 157
 2021-09-06_16-02-15: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-5-0d75beda41bb>, line no: 157
 2021-09-06_16-02-17: DF Exception: Sub: R1385E, Sess: 3, BdbQuit, , file: <ipython-input-5-0d75beda41bb>, line no: 157
+2021-09-07_13-38-14: DF Exception: Sub: R1092J, Sess: 0, BdbQuit, , file: <ipython-input-6-f10df82e6a5c>, line no: 390
+2021-09-07_13-45-15: DF Exception: Sub: R1345D, Sess: 0, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-3-bc0e4e3d513d>, line no: 201
+2021-09-07_13-45-33: DF Exception: Sub: R1345D, Sess: 1, ValueError, The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(), file: <ipython-input-3-bc0e4e3d513d>, line no: 201
+2021-09-07_13-50-37: DF Exception: Sub: R1345D, Sess: 2, BdbQuit, , file: <ipython-input-3-bc0e4e3d513d>, line no: 199
+2021-09-07_13-50-40: DF Exception: Sub: R1345D, Sess: 3, BdbQuit, , file: <ipython-input-3-bc0e4e3d513d>, line no: 199
+2021-09-07_14-13-38: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-6-a411fbcd61d6>, line no: 212
+2021-09-07_14-13-40: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-6-a411fbcd61d6>, line no: 212
+2021-09-07_14-18-31: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-7-f093caa9372d>, line no: 205
+2021-09-07_14-18-33: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-7-f093caa9372d>, line no: 205
+2021-09-07_14-20-57: DF Exception: Sub: R1345D, Sess: 0, BdbQuit, , file: <ipython-input-8-f3987ec199a5>, line no: 331
+2021-09-07_14-21-00: DF Exception: Sub: R1345D, Sess: 1, BdbQuit, , file: <ipython-input-8-f3987ec199a5>, line no: 331
+2021-09-07_14-22-11: DF Exception: Sub: R1345D, Sess: 0, ValueError, cannot reshape array of size 32299 into shape (2), file: <ipython-input-9-16d78ca58e83>, line no: 397
+2021-09-07_14-23-39: DF Exception: Sub: R1345D, Sess: 1, ValueError, cannot reshape array of size 32299 into shape (2), file: <ipython-input-9-16d78ca58e83>, line no: 397
+2021-09-07_14-24-28: DF Exception: Sub: R1345D, Sess: 2, ValueError, cannot reshape array of size 32299 into shape (2), file: <ipython-input-9-16d78ca58e83>, line no: 397
+2021-09-07_14-25-50: DF Exception: Sub: R1345D, Sess: 3, ValueError, cannot reshape array of size 32299 into shape (2), file: <ipython-input-9-16d78ca58e83>, line no: 397
+2021-09-07_14-26-40: DF Exception: Sub: R1345D, Sess: 4, ValueError, cannot reshape array of size 32299 into shape (2), file: <ipython-input-9-16d78ca58e83>, line no: 397
+2021-09-07_14-37-08: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-4-a7416f9ea00d>, line no: 397
+2021-09-07_14-42-50: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-8-d3c66f4ffa02>, line no: 325
+2021-09-07_14-50-08: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-9-4e963283a5f5>, line no: 340
+2021-09-07_14-53-41: DF Exception: Sub: R1010J, Sess: 0, BdbQuit, , file: <ipython-input-10-e9f909916425>, line no: 344
