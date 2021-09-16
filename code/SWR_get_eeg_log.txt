@@ -1199,3 +1199,5 @@
 2021-09-08_20-33-18: DF Exception: Sub: R1002P, Sess: 0, BdbQuit, , file: <ipython-input-4-4a4250f02e9e>, line no: 139
 2021-09-08_20-38-47: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-4-3b800034c3df>, line no: 502
 2021-09-08_20-54-22: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-4-6537dc811cea>, line no: 503
+2021-09-16_13-43-12: DF Exception: Sub: R1001P, Sess: 0, BdbQuit, , file: <ipython-input-6-bdcdf9a4a896>, line no: 231
+2021-09-16_13-43-14: DF Exception: Sub: R1001P, Sess: 1, BdbQuit, , file: <ipython-input-6-bdcdf9a4a896>, line no: 231
