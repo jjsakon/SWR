@@ -1208,3 +1208,5 @@
 2021-10-06_11-58-26: DF Exception: Sub: R1535E, Sess: 0, KeyError, "None of [Index(['contact_1', 'contact_2', 'label'], dtype='object')] are in the [columns]", file: <ipython-input-6-ee1117d01d3b>, line no: 26
 2021-10-10_19-10-41: DF Exception: Sub: R1486J, Sess: 0, BdbQuit, , file: <ipython-input-5-dfcdabcf9a05>, line no: 560
 2021-10-10_19-15-51: DF Exception: Sub: R1486J, Sess: 0, BdbQuit, , file: <ipython-input-6-8a964e13b632>, line no: 584
+2021-10-13_16-48-48: DF Exception: Sub: R1492J, Sess: 0, BdbQuit, , file: <ipython-input-4-79b2f725ea3d>, line no: 265
+2021-10-13_16-48-50: DF Exception: Sub: R1492J, Sess: 1, BdbQuit, , file: <ipython-input-4-79b2f725ea3d>, line no: 265
