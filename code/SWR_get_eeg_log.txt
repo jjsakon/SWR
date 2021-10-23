@@ -1231,3 +1231,40 @@
 2021-10-18_23-34-16: DF Exception: Sub: R1516E, Sess: 1, BdbQuit, , file: <ipython-input-4-81ba11e21f8c>, line no: 140
 2021-10-18_23-34-18: DF Exception: Sub: R1528E, Sess: 0, BdbQuit, , file: <ipython-input-4-81ba11e21f8c>, line no: 140
 2021-10-18_23-34-20: DF Exception: Sub: R1528E, Sess: 1, BdbQuit, , file: <ipython-input-4-81ba11e21f8c>, line no: 140
+2021-10-21_11-41-24: DF Exception: Sub: R1501J, Sess: 1, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-5-328d3aa0da74>, line no: 144
+2021-10-21_11-46-01: DF Exception: Sub: R1501J, Sess: 2, TypeError, cannot convert the series to <class 'int'>, file: <ipython-input-5-328d3aa0da74>, line no: 144
+2021-10-21_11-47-14: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-5-328d3aa0da74>, line no: 143
+2021-10-21_11-50-20: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-6-20f297f5a48c>, line no: 144
+2021-10-21_11-50-21: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-6-20f297f5a48c>, line no: 144
+2021-10-21_11-50-22: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-6-20f297f5a48c>, line no: 144
+2021-10-21_11-52-01: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-7-20f297f5a48c>, line no: 144
+2021-10-21_11-52-04: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-7-20f297f5a48c>, line no: 144
+2021-10-21_11-52-05: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-7-20f297f5a48c>, line no: 144
+2021-10-21_11-52-50: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_11-52-52: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_11-52-53: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_12-00-16: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-4-20f297f5a48c>, line no: 144
+2021-10-21_12-00-17: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-4-20f297f5a48c>, line no: 144
+2021-10-21_12-00-17: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-4-20f297f5a48c>, line no: 144
+2021-10-21_12-01-51: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-9-20f297f5a48c>, line no: 144
+2021-10-21_12-01-52: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-9-20f297f5a48c>, line no: 144
+2021-10-21_12-01-53: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-9-20f297f5a48c>, line no: 144
+2021-10-21_12-03-15: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-10-20f297f5a48c>, line no: 144
+2021-10-21_12-03-15: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-10-20f297f5a48c>, line no: 144
+2021-10-21_12-03-16: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-10-20f297f5a48c>, line no: 144
+2021-10-21_12-04-14: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_12-04-15: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_12-04-16: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-11-20f297f5a48c>, line no: 144
+2021-10-21_12-05-19: DF Exception: Sub: R1003P, Sess: 0, BdbQuit, , file: <ipython-input-12-20f297f5a48c>, line no: 144
+2021-10-21_12-05-20: DF Exception: Sub: R1003P, Sess: 1, BdbQuit, , file: <ipython-input-12-20f297f5a48c>, line no: 144
+2021-10-21_12-05-21: DF Exception: Sub: R1006P, Sess: 0, BdbQuit, , file: <ipython-input-12-20f297f5a48c>, line no: 144
+2021-10-21_12-07-49: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-16-2d6517694f85>, line no: 144
+2021-10-21_12-07-50: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-16-2d6517694f85>, line no: 144
+2021-10-21_12-07-52: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-16-2d6517694f85>, line no: 144
+2021-10-21_12-39-55: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-17-2cb21dc2e72d>, line no: 144
+2021-10-21_12-39-56: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-17-2cb21dc2e72d>, line no: 144
+2021-10-21_12-39-57: DF Exception: Sub: R1514E, Sess: 0, BdbQuit, , file: <ipython-input-17-2cb21dc2e72d>, line no: 144
+2021-10-21_12-41-37: DF Exception: Sub: R1501J, Sess: 1, IndexError, list index out of range, file: <ipython-input-20-468d9a82c569>, line no: 160
+2021-10-21_12-41-37: DF Exception: Sub: R1501J, Sess: 2, IndexError, list index out of range, file: <ipython-input-20-468d9a82c569>, line no: 160
+2021-10-21_12-41-37: DF Exception: Sub: R1514E, Sess: 0, IndexError, list index out of range, file: <ipython-input-20-468d9a82c569>, line no: 160
+2021-10-21_14-42-48: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-26-432cbe6f0c83>, line no: 334
