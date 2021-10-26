@@ -1268,3 +1268,26 @@
 2021-10-21_12-41-37: DF Exception: Sub: R1501J, Sess: 2, IndexError, list index out of range, file: <ipython-input-20-468d9a82c569>, line no: 160
 2021-10-21_12-41-37: DF Exception: Sub: R1514E, Sess: 0, IndexError, list index out of range, file: <ipython-input-20-468d9a82c569>, line no: 160
 2021-10-21_14-42-48: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-26-432cbe6f0c83>, line no: 334
+2021-10-24_23-31-31: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-4-b47ee4fb6586>, line no: 147
+2021-10-24_23-31-33: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-4-b47ee4fb6586>, line no: 147
+2021-10-24_23-31-34: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-4-b47ee4fb6586>, line no: 147
+2021-10-24_23-38-37: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-5-b47ee4fb6586>, line no: 147
+2021-10-24_23-38-38: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-5-b47ee4fb6586>, line no: 147
+2021-10-24_23-38-39: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-5-b47ee4fb6586>, line no: 147
+2021-10-24_23-41-42: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-6-b47ee4fb6586>, line no: 271
+2021-10-24_23-41-44: DF Exception: Sub: R1501J, Sess: 1, BdbQuit, , file: <ipython-input-6-b47ee4fb6586>, line no: 271
+2021-10-24_23-41-47: DF Exception: Sub: R1501J, Sess: 2, BdbQuit, , file: <ipython-input-6-b47ee4fb6586>, line no: 271
+2021-10-25_00-50-10: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-8-3b4c3bee40c2>, line no: 370
+2021-10-25_00-51-07: DF Exception: Sub: R1587J, Sess: 1, FileNotFoundError, Unable to find the requested file in any of the expected locations:
+ /protocols/r1/subjects/R1587J/localizations/0/montages/0/neuroradiology/current_processed/pairs.json
+/data/eeg/R1587J/tal/R1587J_talLocs_database_bipol.mat, file: <ipython-input-11-3b4c3bee40c2>, line no: 159
+2021-10-25_01-04-54: DF Exception: Sub: R1584J, Sess: 0, BdbQuit, , file: <ipython-input-16-3b4c3bee40c2>, line no: 379
+2021-10-25_01-04-55: DF Exception: Sub: R1584J, Sess: 1, IndexError, too many indices for array, file: <ipython-input-16-3b4c3bee40c2>, line no: 270
+2021-10-25_01-16-43: DF Exception: Sub: R1584J, Sess: 1, IndexError, too many indices for array, file: <ipython-input-17-41e8ade76809>, line no: 270
+2021-10-25_11-14-11: DF Exception: Sub: R1587J, Sess: 1, BdbQuit, , file: <ipython-input-4-3b13ad20ac8c>, line no: 428
+2021-10-25_11-43-17: DF Exception: Sub: R1584J, Sess: 1, BdbQuit, , file: <ipython-input-8-1a482cb0db2b>, line no: 272
+2021-10-25_12-35-07: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-11-1a482cb0db2b>, line no: 379
+2021-10-25_18-13-48: DF Exception: Sub: R1204T, Sess: 1, BdbQuit, , file: <ipython-input-15-9fefb8539285>, line no: 272
+2021-10-25_18-14-17: DF Exception: Sub: R1516E, Sess: 1, TypeError, can only concatenate str (not "int") to str, file: <ipython-input-19-9fefb8539285>, line no: 270
+2021-10-25_23-10-29: DF Exception: Sub: R1204T, Sess: 0, BdbQuit, , file: <ipython-input-22-9fefb8539285>, line no: 272
+2021-10-25_23-31-11: DF Exception: Sub: R1516E, Sess: 1, TypeError, can only concatenate str (not "int") to str, file: <ipython-input-10-35bf85c8a3b2>, line no: 270
