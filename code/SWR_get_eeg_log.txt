@@ -1291,3 +1291,23 @@
 2021-10-25_18-14-17: DF Exception: Sub: R1516E, Sess: 1, TypeError, can only concatenate str (not "int") to str, file: <ipython-input-19-9fefb8539285>, line no: 270
 2021-10-25_23-10-29: DF Exception: Sub: R1204T, Sess: 0, BdbQuit, , file: <ipython-input-22-9fefb8539285>, line no: 272
 2021-10-25_23-31-11: DF Exception: Sub: R1516E, Sess: 1, TypeError, can only concatenate str (not "int") to str, file: <ipython-input-10-35bf85c8a3b2>, line no: 270
+2021-10-26_13-06-24: DF Exception: Sub: R1004D, Sess: 0, BdbQuit, , file: <ipython-input-34-355e856b1615>, line no: 166
+2021-10-26_13-26-08: DF Exception: Sub: R1004D, Sess: 0, BdbQuit, , file: <ipython-input-4-b74bbf77dabf>, line no: 167
+2021-10-26_13-31-28: DF Exception: Sub: R1004D, Sess: 0, BdbQuit, , file: <ipython-input-9-78566fb956ff>, line no: 169
+2021-10-26_15-59-34: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-13-c0e99c226df1>, line no: 443
+2021-10-26_16-30-45: DF Exception: Sub: R1564J, Sess: 1, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-33-3efb39b495d9>, line no: 428
+2021-10-26_19-09-47: DF Exception: Sub: R1587J, Sess: 1, BdbQuit, , file: <ipython-input-34-c5ca3f5122fb>, line no: 300
+2021-10-26_19-16-04: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-50-c5ca3f5122fb>, line no: 300
+2021-10-26_19-20-33: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-59-c5ca3f5122fb>, line no: 300
+2021-10-26_19-26-27: DF Exception: Sub: R1501J, Sess: 0, BdbQuit, , file: <ipython-input-65-c5ca3f5122fb>, line no: 300
+2021-10-26_19-48-17: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-73-c5ca3f5122fb>, line no: 314
+2021-10-26_19-48-22: DF Exception: Sub: R1564J, Sess: 1, BdbQuit, , file: <ipython-input-73-c5ca3f5122fb>, line no: 314
+2021-10-26_19-51-34: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-79-c5ca3f5122fb>, line no: 300
+2021-10-26_19-51-37: DF Exception: Sub: R1564J, Sess: 1, BdbQuit, , file: <ipython-input-79-c5ca3f5122fb>, line no: 300
+2021-10-26_19-51-41: DF Exception: Sub: R1564J, Sess: 2, BdbQuit, , file: <ipython-input-79-c5ca3f5122fb>, line no: 300
+2021-10-26_19-57-40: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-85-c5ca3f5122fb>, line no: 300
+2021-10-26_20-00-46: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-92-c5ca3f5122fb>, line no: 314
+2021-10-26_20-00-49: DF Exception: Sub: R1564J, Sess: 1, BdbQuit, , file: <ipython-input-92-c5ca3f5122fb>, line no: 314
+2021-10-26_20-02-54: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
+2021-10-26_20-02-57: DF Exception: Sub: R1564J, Sess: 1, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
+2021-10-26_20-03-00: DF Exception: Sub: R1564J, Sess: 2, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
