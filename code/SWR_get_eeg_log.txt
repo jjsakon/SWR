@@ -1311,3 +1311,6 @@
 2021-10-26_20-02-54: DF Exception: Sub: R1564J, Sess: 0, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
 2021-10-26_20-02-57: DF Exception: Sub: R1564J, Sess: 1, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
 2021-10-26_20-03-00: DF Exception: Sub: R1564J, Sess: 2, BdbQuit, , file: <ipython-input-96-c5ca3f5122fb>, line no: 300
+2021-11-02_13-37-47: DF Exception: Sub: R1490T, Sess: 0, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 116
+2021-11-02_13-38-02: DF Exception: Sub: R1490T, Sess: 1, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 338
+2021-11-02_13-38-14: DF Exception: Sub: R1490T, Sess: 2, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 116
