@@ -1314,3 +1314,26 @@
 2021-11-02_13-37-47: DF Exception: Sub: R1490T, Sess: 0, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 116
 2021-11-02_13-38-02: DF Exception: Sub: R1490T, Sess: 1, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 338
 2021-11-02_13-38-14: DF Exception: Sub: R1490T, Sess: 2, BdbQuit, , file: <ipython-input-4-c2ea73d4b313>, line no: 116
+2021-11-03_18-37-58: DF Exception: Sub: R1490T, Sess: 0, BdbQuit, , file: <ipython-input-8-5df98aaf347c>, line no: 338
+2021-11-03_18-38-02: DF Exception: Sub: R1490T, Sess: 1, BdbQuit, , file: <ipython-input-8-5df98aaf347c>, line no: 338
+2021-11-03_18-38-04: DF Exception: Sub: R1490T, Sess: 2, BdbQuit, , file: <ipython-input-8-5df98aaf347c>, line no: 338
+2021-11-03_19-06-10: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-11-5516c9309c21>, line no: 517
+2021-11-03_19-17-05: DF Exception: Sub: R1207J, Sess: 0, ValueError, all the input array dimensions for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 7 and the array at index 1 has size 3, file: <ipython-input-12-c09cd6456207>, line no: 525
+2021-11-03_19-21-22: DF Exception: Sub: R1207J, Sess: 1, ValueError, all the input array dimensions for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 7 and the array at index 1 has size 4, file: <ipython-input-12-c09cd6456207>, line no: 525
+2021-11-03_19-42-29: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-13-ca5a8983f8a7>, line no: 525
+2021-11-03_19-44-42: DF Exception: Sub: R1207J, Sess: 0, ValueError, operands could not be broadcast together with shapes (28,) (1,7) , file: <ipython-input-14-b8a7b9a1bee7>, line no: 525
+2021-11-03_19-52-02: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-15-9a8591341a51>, line no: 525
+2021-11-03_19-58-18: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-16-813d512a1f3c>, line no: 527
+2021-11-03_20-12-07: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-22-e8a2f699156e>, line no: 354
+2021-11-03_20-12-10: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-22-e8a2f699156e>, line no: 354
+2021-11-03_21-16-48: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-27-e8a2f699156e>, line no: 354
+2021-11-03_21-16-52: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-27-e8a2f699156e>, line no: 354
+2021-11-03_21-16-54: DF Exception: Sub: R1207J, Sess: 2, BdbQuit, , file: <ipython-input-27-e8a2f699156e>, line no: 354
+2021-11-03_21-25-51: DF Exception: Sub: R1207J, Sess: 0, TypeError, only integer scalar arrays can be converted to a scalar index, file: <ipython-input-28-f7e4f935b053>, line no: 348
+2021-11-03_21-25-51: DF Exception: Sub: R1207J, Sess: 1, TypeError, only integer scalar arrays can be converted to a scalar index, file: <ipython-input-28-f7e4f935b053>, line no: 348
+2021-11-03_21-25-52: DF Exception: Sub: R1207J, Sess: 2, TypeError, only integer scalar arrays can be converted to a scalar index, file: <ipython-input-28-f7e4f935b053>, line no: 348
+2021-11-03_21-25-53: DF Exception: Sub: R1207J, Sess: 3, TypeError, only integer scalar arrays can be converted to a scalar index, file: <ipython-input-28-f7e4f935b053>, line no: 348
+2021-11-03_21-30-15: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-29-f0cad9b25622>, line no: 348
+2021-11-03_21-30-19: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-29-f0cad9b25622>, line no: 348
+2021-11-03_21-33-56: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-30-5dc76bd342f1>, line no: 537
+2021-11-03_21-37-29: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-31-7b67adf4bbe2>, line no: 498
