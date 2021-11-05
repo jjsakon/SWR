@@ -1337,3 +1337,8 @@
 2021-11-03_21-30-19: DF Exception: Sub: R1207J, Sess: 1, BdbQuit, , file: <ipython-input-29-f0cad9b25622>, line no: 348
 2021-11-03_21-33-56: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-30-5dc76bd342f1>, line no: 537
 2021-11-03_21-37-29: DF Exception: Sub: R1207J, Sess: 0, BdbQuit, , file: <ipython-input-31-7b67adf4bbe2>, line no: 498
+2021-11-04_15-59-32: DF Exception: Sub: R1174T, Sess: 0, IndexError, arrays used as indices must be of integer (or boolean) type, file: <ipython-input-5-fd536128b0e0>, line no: 348
+2021-11-04_16-11-47: DF Exception: Sub: R1174T, Sess: 0, BdbQuit, , file: <ipython-input-7-52452a15e815>, line no: 345
+2021-11-04_16-19-47: DF Exception: Sub: R1174T, Sess: 0, BdbQuit, , file: <ipython-input-8-863dc56ea99f>, line no: 543
+2021-11-04_16-20-54: DF Exception: Sub: R1496T, Sess: 0, BdbQuit, , file: <ipython-input-10-863dc56ea99f>, line no: 353
+2021-11-04_16-20-57: DF Exception: Sub: R1496T, Sess: 1, BdbQuit, , file: <ipython-input-10-863dc56ea99f>, line no: 353
