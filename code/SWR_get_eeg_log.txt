@@ -1342,3 +1342,15 @@
 2021-11-04_16-19-47: DF Exception: Sub: R1174T, Sess: 0, BdbQuit, , file: <ipython-input-8-863dc56ea99f>, line no: 543
 2021-11-04_16-20-54: DF Exception: Sub: R1496T, Sess: 0, BdbQuit, , file: <ipython-input-10-863dc56ea99f>, line no: 353
 2021-11-04_16-20-57: DF Exception: Sub: R1496T, Sess: 1, BdbQuit, , file: <ipython-input-10-863dc56ea99f>, line no: 353
+2021-11-07_01-42-32: DF Exception: Sub: R1528E, Sess: 0, BdbQuit, , file: <ipython-input-13-473160783f69>, line no: 479
+2021-11-08_11-16-08: DF Exception: Sub: R1528E, Sess: 0, BdbQuit, , file: <ipython-input-17-4bb22393cd56>, line no: 145
+2021-11-08_11-16-10: DF Exception: Sub: R1528E, Sess: 1, BdbQuit, , file: <ipython-input-17-4bb22393cd56>, line no: 145
+2021-11-09_20-29-01: DF Exception: Sub: R1023J, Sess: 0, ValueError, Events must correspond to one subject only, file: <ipython-input-28-bc68188a5469>, line no: 281
+2021-11-09_20-29-36: DF Exception: Sub: R1030J, Sess: 0, IndexError, too many indices for array, file: <ipython-input-28-bc68188a5469>, line no: 420
+2021-11-09_21-08-42: DF Exception: Sub: R1035M, Sess: 0, ValueError, No column combination found. Please make sure that the specified columns exist in the dataframe, are numeric, and contains at least two unique values., file: <ipython-input-28-bc68188a5469>, line no: 439
+2021-11-09_21-08-55: DF Exception: Sub: R1042M, Sess: 0, BdbQuit, , file: <ipython-input-28-bc68188a5469>, line no: 281
+2021-11-09_21-29-58: DF Exception: Sub: R1030J, Sess: 0, BdbQuit, , file: <ipython-input-32-78f73b8cc65b>, line no: 420
+2021-11-09_21-30-00: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-32-78f73b8cc65b>, line no: 388
+2021-11-09_21-34-19: DF Exception: Sub: R1030J, Sess: 0, BdbQuit, , file: <ipython-input-33-06c40ce29804>, line no: 254
+2021-11-09_21-34-21: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-33-06c40ce29804>, line no: 254
+2021-11-09_21-37-44: DF Exception: Sub: R1030J, Sess: 0, BdbQuit, , file: <ipython-input-34-6feb82fe6cba>, line no: 388
