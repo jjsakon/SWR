@@ -1354,3 +1354,5 @@
 2021-11-09_21-34-19: DF Exception: Sub: R1030J, Sess: 0, BdbQuit, , file: <ipython-input-33-06c40ce29804>, line no: 254
 2021-11-09_21-34-21: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-33-06c40ce29804>, line no: 254
 2021-11-09_21-37-44: DF Exception: Sub: R1030J, Sess: 0, BdbQuit, , file: <ipython-input-34-6feb82fe6cba>, line no: 388
+2021-11-17_00-31-04: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-5-7dd0d232f802>, line no: 501
+2021-11-17_00-42-21: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-6-0229ae5b97a0>, line no: 482
