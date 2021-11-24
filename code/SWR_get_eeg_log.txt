@@ -1366,3 +1366,8 @@
 2021-11-18_01-21-45: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-17-d4bf328b5beb>, line no: 458
 2021-11-18_01-31-50: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-4-7c53a1ab1a10>, line no: 436
 2021-11-18_01-38-41: DF Exception: Sub: R1065J, Sess: 0, BdbQuit, , file: <ipython-input-13-811580395802>, line no: 456
+2021-11-23_22-20-07: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-10-ec0d4f4e4f81>, line no: 356
+2021-11-23_22-20-09: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-10-ec0d4f4e4f81>, line no: 356
+2021-11-23_22-29-18: DF Exception: Sub: R1385E, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'category', file: <ipython-input-11-0dd68632f44c>, line no: 539
+2021-11-23_22-46-39: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-11-0dd68632f44c>, line no: 456
+2021-11-23_22-52-29: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-12-86b8bf4f682c>, line no: 602
