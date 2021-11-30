@@ -1371,3 +1371,9 @@
 2021-11-23_22-29-18: DF Exception: Sub: R1385E, Sess: 1, AttributeError, 'DataFrame' object has no attribute 'category', file: <ipython-input-11-0dd68632f44c>, line no: 539
 2021-11-23_22-46-39: DF Exception: Sub: R1385E, Sess: 2, BdbQuit, , file: <ipython-input-11-0dd68632f44c>, line no: 456
 2021-11-23_22-52-29: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-12-86b8bf4f682c>, line no: 602
+2021-11-30_01-01-02: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-4-e785db0e2a4d>, line no: 249
+2021-11-30_01-01-17: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-4-e785db0e2a4d>, line no: 249
+2021-11-30_01-01-52: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-5-8a8b5e64c770>, line no: 249
+2021-11-30_01-01-53: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-5-8a8b5e64c770>, line no: 249
+2021-11-30_01-02-25: DF Exception: Sub: R1385E, Sess: 0, BdbQuit, , file: <ipython-input-6-da8a43e488d3>, line no: 312
+2021-11-30_01-02-28: DF Exception: Sub: R1385E, Sess: 1, BdbQuit, , file: <ipython-input-6-da8a43e488d3>, line no: 312
