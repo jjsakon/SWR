@@ -1392,3 +1392,5 @@
 2022-05-24_12-53-58: DF Exception: Sub: R1616S, Sess: 0, BdbQuit, , file: <ipython-input-75-4644bb94b5f4>, line no: 396
 2022-05-26_11-23-16: DF Exception: Sub: R1367D, Sess: 0, BdbQuit, , file: <ipython-input-4-00cfb73e450e>, line no: 177
 2022-07-19_16-30-46: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-4-22e1cc2dee4f>, line no: 346
+2022-10-26_15-39-53: DF Exception: Sub: R1035M, Sess: 0, BdbQuit, , file: <ipython-input-5-0fed6f65ff0a>, line no: 400
+2023-01-05_00-05-29: DF Exception: Sub: R1086M, Sess: 0, BdbQuit, , file: <ipython-input-4-ee1c6355008b>, line no: 381
